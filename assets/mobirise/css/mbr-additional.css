@@ -186,7 +186,7 @@
 }
 #dropdown-menu-4 .nav .link,
 #dropdown-menu-4 .dropdown-item {
-  font-size: 1.2em;
+  font-size: 1em;
   color: #053461;
   font-family: 'Oxygen', sans-serif;
 }
@@ -202,19 +202,17 @@
 #dropdown-menu-4 .navbar-toggler {
   color: #053461;
 }
-#msg-box3-1i .mbr-header .mbr-header__text {
+#msg-box3-84 .mbr-header .mbr-header__text {
   text-align: center;
 }
-#msg-box3-1i .mbr-header .mbr-header__subtext {
+#msg-box3-84 .mbr-header .mbr-header__subtext {
   text-align: center;
 }
-#msg-box3-1i .mbr-section-title {
+#msg-box3-84 .mbr-section-title {
   font-family: 'Oxygen', sans-serif;
-}
-#msg-box3-1i .mbr-section-title B {
   color: #ffffff;
 }
-#msg-box3-1i .lead P {
+#msg-box3-84 .lead P {
   color: #ffffff;
 }
 #footer1-j P {
@@ -259,7 +257,7 @@
 }
 #dropdown-menu-6 .nav .link,
 #dropdown-menu-6 .dropdown-item {
-  font-size: 1.2em;
+  font-size: 1em;
   color: #053461;
   font-family: 'Oxygen', sans-serif;
 }
@@ -915,6 +913,7 @@
 }
 
 
+
 #dropdown-menu-z .hide-buttons [data-button] {
   display: none !important;
 }
@@ -923,7 +922,7 @@
 }
 #dropdown-menu-z .nav .link,
 #dropdown-menu-z .dropdown-item {
-  font-size: 1.2em;
+  font-size: 1em;
   color: #053461;
   font-family: 'Oxygen', sans-serif;
 }
@@ -950,6 +949,7 @@
 }
 #msg-box3-6v .mbr-section-title {
   color: #7e0202;
+  font-family: 'Oxygen', sans-serif;
 }
 #msg-box3-2k .mbr-header .mbr-header__text {
   text-align: center;
