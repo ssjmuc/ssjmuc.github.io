@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "STS JOSEPH & MICHAEL PARISH",
-    "currentPage": "page38.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -427,7 +427,7 @@
                 "title": "CENTENNIAL CELEBRATION <br>OF THE APPARITION OF OUR LADY OF FATIMA",
                 "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">English</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Español</a>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page38.html#content5-97\" data-toolbar=\"-mbrBtnMove\">English</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page38.html#content5-99\" data-toolbar=\"-mbrBtnMove\">Español</a>",
                 "overlay": true,
                 "overlayColor": "#053461"
               }
