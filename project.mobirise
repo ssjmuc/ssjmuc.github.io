@@ -15,7 +15,7 @@
       ]
     },
     "versionFirst": "4.3.0",
-    "uniqCompNum": 335,
+    "uniqCompNum": 341,
     "versionPublish": "4.3.0",
     "favicon": "",
     "noImageResize": "",
@@ -76,7 +76,7 @@
             "bgColor": "#ffffff",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/bcd65aeb-1600x1600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/29169-st-joseph-and-michael-church-07087-lat-2000x1500.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -90,7 +90,7 @@
                 "overlayColor": "#000000"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-17-1620x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20161118-120346-2000x1125.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -100,10 +100,11 @@
                 "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"index.html#pricing-table1-18\" data-toolbar=\"-mbrBtnMove\">Join Us</a>",
                 "overlay": true,
-                "overlayColor": "#000000"
+                "overlayColor": "#000000",
+                "overlayOpacity": "0.1"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-2-1440x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bcd65aeb-1600x1600.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
@@ -113,7 +114,7 @@
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#pricing-table1-18\" data-toolbar=\"-mbrBtnMove\">Join Us</a> ",
                 "overlay": true,
-                "overlayOpacity": "0.4",
+                "overlayOpacity": "0.3",
                 "overlayColor": "#000000"
               }
             ]
@@ -9790,8 +9791,8 @@
             "showMeta": false,
             "showText": true,
             "showButton": false,
-            "paddingTop": "1",
-            "paddingBottom": 3,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -9815,6 +9816,31 @@
           ],
           "_name": "msg-box3",
           "_anchor": "msg-box3-8o"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/car-raffle-2017-4-eng-900x1157.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-9g"
         },
         {
           "_inherit": "msg-box1",
@@ -9958,8 +9984,8 @@
             "showMeta": false,
             "showText": true,
             "showButton": false,
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -9983,6 +10009,31 @@
           ],
           "_name": "msg-box3",
           "_anchor": "msg-box3-8u"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/car-raffle-2017-4-esp-900x1157.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-9f"
         },
         {
           "_params": {
