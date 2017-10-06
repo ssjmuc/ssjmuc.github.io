@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "STS JOSEPH & MICHAEL PARISH",
-    "currentPage": "page35.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -14,7 +14,7 @@
       ]
     },
     "versionFirst": "4.3.0",
-    "uniqCompNum": 301,
+    "uniqCompNum": 302,
     "versionPublish": "4.3.0",
     "favicon": "",
     "noImageResize": "",
@@ -443,6 +443,27 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
             },
             "DIV": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "<i>Schedule &amp; Services</i>",
+          "meta": "By John Smith posted July 30, 2015",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-8d",
+          "_styles": {
+            "H3": {
+              "color": "#890602",
+              "text-align": "center",
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
