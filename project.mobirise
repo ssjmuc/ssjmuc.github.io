@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "STS JOSEPH & MICHAEL PARISH",
-    "currentPage": "page36.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -77,16 +77,16 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/bcd65aeb-1600x1600.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": false,
                 "title": "<b>And in all things whatsoever you shall ask in prayer, \n</b><div><b>believing, you shall receive.\" \n</b></div><div><b>-Matt 21:22</b></div>",
                 "contentAlign": "right",
                 "text": "<b>And in all things whatsoever you shall ask in prayer,\n<br>believing, you shall receive.\"\n<br>-Matt 21:22</b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Join Us</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#pricing-table1-18\" data-toolbar=\"-mbrBtnMove\">Join Us</a> ",
                 "overlay": true,
-                "overlayOpacity": "0.5",
+                "overlayOpacity": "0.4",
                 "overlayColor": "#000000"
               },
               {
@@ -104,7 +104,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-2-1440x1080.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": true,
