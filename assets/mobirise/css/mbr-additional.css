@@ -611,7 +611,7 @@
 }
 #dropdown-menu-s .nav .link,
 #dropdown-menu-s .dropdown-item {
-  font-size: 1.2em;
+  font-size: 1em;
   color: #053461;
   font-family: 'Oxygen', sans-serif;
 }
@@ -1179,7 +1179,7 @@
 }
 #dropdown-menu-2m .nav .link,
 #dropdown-menu-2m .dropdown-item {
-  font-size: 1.2em;
+  font-size: 1em;
   color: #053461;
   font-family: 'Oxygen', sans-serif;
 }
@@ -1195,25 +1195,24 @@
 #dropdown-menu-2m .navbar-toggler {
   color: #053461;
 }
-#msg-box3-2o .mbr-header .mbr-header__text {
-  text-align: center;
-}
-#msg-box3-2o .mbr-header .mbr-header__subtext {
-  text-align: center;
-}
-#msg-box3-2o .mbr-section-title {
-  font-family: 'Oxygen', sans-serif;
-}
-#msg-box3-2o .mbr-section-title B {
-  color: #ffffff;
-}
-#msg-box3-2o .lead P {
-  color: #ffffff;
-  font-size: 19px;
-}
 #footer1-2p P {
   color: #26272c;
   text-align: center;
+}
+#msg-box3-85 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-85 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-85 .mbr-section-title {
+  color: #ffffff;
+}
+#msg-box3-85 .lead P {
+  color: #ffffff;
+}
+#msg-box3-85 .mbr-section-title B {
+  font-family: 'Oxygen', sans-serif;
 }
 #msg-box3-34 .mbr-header .mbr-header__text {
   text-align: center;
@@ -1246,7 +1245,7 @@
 }
 #dropdown-menu-2s .nav .link,
 #dropdown-menu-2s .dropdown-item {
-  font-size: 1.2em;
+  font-size: 1em;
   color: #053461;
   font-family: 'Oxygen', sans-serif;
 }
@@ -1262,24 +1261,22 @@
 #dropdown-menu-2s .navbar-toggler {
   color: #053461;
 }
-#msg-box3-2u .mbr-header .mbr-header__text {
-  text-align: center;
-}
-#msg-box3-2u .mbr-header .mbr-header__subtext {
-  text-align: center;
-}
-#msg-box3-2u .mbr-section-title {
-  font-family: 'Oxygen', sans-serif;
-}
-#msg-box3-2u .mbr-section-title B {
-  color: #ffffff;
-}
-#msg-box3-2u .lead P {
-  color: #ffffff;
-}
 #footer1-2v P {
   color: #26272c;
   text-align: center;
+}
+#msg-box3-86 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-86 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-86 .mbr-section-title {
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box3-86 .lead P {
+  color: #ffffff;
 }
 #msg-box3-36 .mbr-header .mbr-header__text {
   text-align: center;

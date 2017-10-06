@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "STS JOSEPH & MICHAEL PARISH",
-    "currentPage": "index.html",
+    "currentPage": "page22.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -14,7 +14,7 @@
       ]
     },
     "versionFirst": "4.3.0",
-    "uniqCompNum": 293,
+    "uniqCompNum": 295,
     "versionPublish": "4.3.0",
     "favicon": "",
     "noImageResize": "",
@@ -2605,7 +2605,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             },
             ".nav .link, .dropdown-item": {
-              "font-size": "1.2em",
+              "font-size": "1em",
               "color": "#053461",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-family": "'Oxygen', sans-serif"
@@ -5197,7 +5197,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             },
             ".nav .link, .dropdown-item": {
-              "font-size": "1.2em",
+              "font-size": "1em",
               "color": "#053461",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-family": "'Oxygen', sans-serif"
@@ -5280,57 +5280,6 @@
           "_anchor": "msg-box2-2n"
         },
         {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".mbr-section-title B": {
-              "color": "#ffffff"
-            },
-            ".lead P": {
-              "color": "#ffffff",
-              "font-size": "19px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-7-1620x1080.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#FFF8E0",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "<b>Alter Servers</b>",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Heavenly Father, Please be with me today as I serve at Mass. Thank you for giving me the great opportunity to serve you this day. Help me remember that as I serve the priest, I am also serving you.Please help me today so I will not do wrong, in church and later at home. Amen.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-2o"
-        },
-        {
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -5356,6 +5305,56 @@
             }
           },
           "_anchor": "footer1-2p"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".lead P": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title B": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#FFF8E0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<b>Altar Servers</b>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Heavenly Father, Please be with me today as I serve at Mass. Thank you for giving me the great opportunity to serve you this day. Help me remember that as I serve the priest, I am also serving you.Please help me today so I will not do wrong, in church and later at home. Amen.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-85"
         },
         {
           "_styles": {
@@ -5522,7 +5521,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             },
             ".nav .link, .dropdown-item": {
-              "font-size": "1.2em",
+              "font-size": "1em",
               "color": "#053461",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-family": "'Oxygen', sans-serif"
@@ -5605,6 +5604,33 @@
           "_anchor": "msg-box2-2t"
         },
         {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) SS JOSEPH &amp; MICHAEL &nbsp;<a href=\"https://mobirise.com/\" class=\"text-black\">Terms of Use</a>  | <a href=\"https://mobirise.com/\" class=\"text-black\">Privacy Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#26272c",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-2v"
+        },
+        {
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center"
@@ -5613,11 +5639,9 @@
               "text-align": "center"
             },
             ".mbr-section-title": {
+              "color": "#ffffff",
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".mbr-section-title B": {
-              "color": "#ffffff"
             },
             ".lead P": {
               "color": "#ffffff"
@@ -5652,34 +5676,7 @@
             "Theme"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-2u"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) SS JOSEPH &amp; MICHAEL &nbsp;<a href=\"https://mobirise.com/\" class=\"text-black\">Terms of Use</a>  | <a href=\"https://mobirise.com/\" class=\"text-black\">Privacy Policy</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#26272c",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "footer1-2v"
+          "_anchor": "msg-box3-86"
         },
         {
           "_styles": {
