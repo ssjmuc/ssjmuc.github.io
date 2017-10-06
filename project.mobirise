@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "STS JOSEPH & MICHAEL PARISH",
-    "currentPage": "index.html",
+    "currentPage": "page36.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -9754,7 +9754,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "FROM 10:00AM TO 9:00PM",
+          "title": "SUNDAY OCTOBER 8TH, 2017 FROM 10:00AM TO 9:00PM",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Try for Free</a>",
           "alias": "purity/components",
@@ -9766,7 +9766,7 @@
           "_styles": {
             "H2": {
               "text-align": "right",
-              "color": "#890602",
+              "color": "#7e0202",
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-size": "36px"
@@ -9838,7 +9838,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "BIENVENIDOS AL FESTIVAL DE COMIDA INTERNACIONAL 2017",
+          "title": "BIENVENIDOS AL FESTIVAL DE COMIDA INTERNACIONAL 2017&nbsp;<br>",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Try for Free</a>",
           "alias": "purity/components",
@@ -9922,7 +9922,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "DE 10:00AM A 9:00PM",
+          "title": "DOMINGO, 8 DE OCTUBRE, 2017 DE 10:00AM A 9:00PM",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Try for Free</a>",
           "alias": "purity/components",
