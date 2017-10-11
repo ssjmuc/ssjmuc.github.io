@@ -28,8 +28,6 @@
 
 
 
-
-
 #slider-76 H2 {
   font-size: 24px;
   font-family: 'Oxygen', sans-serif;
@@ -110,16 +108,6 @@
 }
 #content4-7q P {
   font-size: 22px;
-}
-#slider2-8e H2 {
-  color: #ffffff;
-  font-size: 32px;
-  text-align: left;
-  font-family: 'Oxygen', sans-serif;
-}
-#slider2-8e DIV {
-  font-size: 36px;
-  font-family: 'Oxygen', sans-serif;
 }
 #pricing-table1-18 SPAN {
   font-size: 13px;
@@ -2257,59 +2245,6 @@
 }
 
 
-#dropdown-menu-8w .hide-buttons [data-button] {
-  display: none !important;
-}
-#dropdown-menu-8w .navbar-brand a {
-  font-family: 'Slabo 27px', serif;
-}
-#dropdown-menu-8w .nav .link,
-#dropdown-menu-8w .dropdown-item {
-  font-size: 1em;
-  color: #053461;
-  font-family: 'Oxygen', sans-serif;
-}
-#dropdown-menu-8w .navbar,
-#dropdown-menu-8w .dropdown-menu {
-  background: #ffffff;
-}
-#dropdown-menu-8w .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-8w .dropdown-menu a:hover,
-#dropdown-menu-8w .dropdown-menu a:focus {
-  background: #f5f5f5;
-}
-#dropdown-menu-8w .navbar-toggler {
-  color: #053461;
-}
-#content5-93 .mbr-section-title DIV {
-  color: #890602;
-}
-#content5-93 .mbr-section-title {
-  color: #053461;
-}
-#content5-92 .mbr-section-title {
-  text-align: right;
-  color: #7e0202;
-}
-#content5-92 .mbr-section-title DIV {
-  color: #053461;
-}
-#contacts1-8x P {
-  color: #26272c;
-  text-align: center;
-}
-#contacts1-8x STRONG {
-  color: #7e0202;
-}
-#contacts1-8x UL {
-  color: #f1c050;
-}
-#footer1-8y P {
-  color: #26272c;
-  text-align: center;
-}
-
-
 #content5-97 .mbr-section-title DIV {
   font-size: 36px;
   color: #7e0202;
@@ -2318,17 +2253,11 @@
   font-size: 46px;
   color: #053461;
 }
-#testimonials1-98 .card-block DIV {
-  text-align: center;
-  font-size: 20px;
-  color: #053461;
-}
-#testimonials1-98 .card-block {
+#header3-9m H3 {
   text-align: center;
 }
-#testimonials1-98 .card-block B {
-  font-size: 20px;
-  color: #053461;
+#content1-9i DIV {
+  text-align: center;
 }
 #content5-99 .mbr-section-title {
   font-size: 46px;
@@ -2339,15 +2268,11 @@
   font-size: 36px;
   color: #053461;
 }
-#testimonials1-9a .card-block DIV {
+#header3-9l H3 {
   text-align: center;
 }
-#testimonials1-9a .card-block {
+#content1-9k DIV {
   text-align: center;
-  color: #053461;
-}
-#testimonials1-9a .card-block B {
-  font-size: 20px;
 }
 #dropdown-menu-94 .hide-buttons [data-button] {
   display: none !important;

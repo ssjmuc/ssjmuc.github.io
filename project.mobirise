@@ -15,7 +15,7 @@
       ]
     },
     "versionFirst": "4.3.0",
-    "uniqCompNum": 341,
+    "uniqCompNum": 347,
     "versionPublish": "4.3.0",
     "favicon": "",
     "noImageResize": "",
@@ -383,76 +383,6 @@
             },
             "P": {
               "font-size": "22px"
-            }
-          }
-        },
-        {
-          "_inherit": "slider",
-          "_afterNavbarItem": ".mbr-slider",
-          "_params": {
-            "autoplay": true,
-            "showBullets": true,
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1619x1080.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": false,
-                "showTitle": true,
-                "title": "The International Food Festival",
-                "contentAlign": "right",
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page36.html#msg-box2-8l\" data-toolbar=\"-mbrBtnMove\">English</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"page36.html#msg-box3-8u\" data-toolbar=\"-mbrBtnMove\">Español</a>",
-                "overlay": true,
-                "overlayColor": "#053461"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-22-1620x1080.jpg",
-                "active": true,
-                "showButtons": true,
-                "showText": false,
-                "showTitle": true,
-                "title": "2017 Public Square Crusade",
-                "contentAlign": "left",
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page37.html#content5-93\" data-toolbar=\"-mbrBtnMove\">English</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"page37.html#content5-92\" data-toolbar=\"-mbrBtnMove\">Español</a>",
-                "overlay": true,
-                "overlayColor": "#725c48"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1614x1080.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": false,
-                "showTitle": true,
-                "title": "CENTENNIAL CELEBRATION <br>OF THE APPARITION OF OUR LADY OF FATIMA",
-                "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page38.html#content5-97\" data-toolbar=\"-mbrBtnMove\">English</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page38.html#content5-99\" data-toolbar=\"-mbrBtnMove\">Español</a>",
-                "overlay": true,
-                "overlayColor": "#053461"
-              }
-            ]
-          },
-          "articleLayout": true,
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider2",
-          "_anchor": "slider2-8e",
-          "_styles": {
-            "H2": {
-              "color": "#ffffff",
-              "font-size": "32px",
-              "text-align": "left",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            "DIV": {
-              "font-size": "36px",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           }
         },
@@ -10114,256 +10044,6 @@
         }
       ]
     },
-    "page37.html": {
-      "settings": {
-        "title": "Crusade",
-        "order": 2
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
-            },
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#053461",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-family": "'Oxygen', sans-serif"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
-            },
-            ".navbar-toggler": {
-              "color": "#053461"
-            }
-          },
-          "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": true,
-            "transparent": false,
-            "bgColor": "#ffffff",
-            "fontSize": "1",
-            "fontName": {
-              "name": "Oxygen",
-              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "css": "'Oxygen', sans-serif"
-            },
-            "fontColor": "#053461"
-          },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SS JOSEPH &amp; MICHAEL PARISH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content4-1f\">Pastoral Staff</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page26.html\">STS J&amp;M Brief History</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page30.html\">Parish Registration Form</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Bulletin%2010.8.17.pdf\">Download Today's Bulletin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Gallery</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Ministries</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Ministries</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Prayer and Workship</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page24.html\">Food Pantry</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Sacraments</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Sacrament&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\">Baptism</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">Reconciliation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\">Eucharist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\">Confirmation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page17.html\">Matrimony</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page18.html\">Anointing the Sick</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page19.html\">Holy Orders</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Faith Information</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Religious Education</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page20.html\">Sacrament Preparation</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Contact Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Links to Our Affiliations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/words-1140x128.png",
-              "class": "",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">STS Joseph &amp; Michael&nbsp;</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-8w"
-        },
-        {
-          "_inherit": "msg-box1",
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false,
-            "inverse": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "One of the Easiest Website Builders",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Try for Free</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-8z"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": 0.7
-          },
-          "title": "PLEASE JOIN THE\n<div>2017 PUBLIC SQUARE ROSARY CRUSADE</div>",
-          "caption": "<p>A bilingual Rosary rally will be held on Saturday, October 14th as part of the “America Needs Fatima” na-tionwide public crusade. This Rosary Crusade will take place in front of the Parish Office at 1314 Central Avenue at 12:00pm. Parishioners will join in the Rosary, prayers and song in English and Spanish asking Our Blessed Mother to help our country make moral, wise choices in these most difficult times. \n</p><p>Our nation is in great need of public prayer, repentance and conversion.</p><p> In this historic year of the Fatima Centennial (1917-2017), we ask God to save America through the Ro-sary of our Most Holy Mother Mary. Our Lady of Fatima, pray for us all!</p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-93",
-          "_styles": {
-            ".mbr-section-title DIV": {
-              "color": "#890602"
-            },
-            ".mbr-section-title": {
-              "color": "#053461"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.7
-          },
-          "title": "POR FAVOR, ÚNASE AL\n<div>CRUZADA DEL ROSARIO DEL PÚBLICO 2017</div>",
-          "caption": "<p>Una reunión del Rosario en inglés y español se llevará a cabo el sábado 14 de octubre como parte de la cruzada publica nacio-nal \"América Necesita Fatima\". Esta Cruzada del Rosario se llevará a cabo en frente de la Oficina de la Parroquia en la 1314 Central Avenue a las 12:00pm. Los feligreses se unirán a recitar el Rosario, oraciones y canciones en inglés y español pidiendo a Nuestra Madre Santísima que ayude a nuestro país a tomar deci-siones morales y sabias en estos tiempos más\r difíciles. Nuestra nación necesita mucha oración pública, arrepentimiento y conversión. En este año histórico del Centenario de Fátima (1917-2017), pedimos a Dios que salve a América a través del Rosario de nuestra Santísima Madre María. ¡Nuestra Señora de Fátima, ruega por todos\r nosotros!</p><p><br></p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-92",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "right",
-              "color": "#7e0202"
-            },
-            ".mbr-section-title DIV": {
-              "color": "#053461"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/words-265x29.png",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Address</strong><br>1314 Central Ave\n<br>Union City, NJ  07087<br>",
-          "text2": "<strong>Contacts</strong><br>Email: stsjmuc@gmail.com\n<br>Phone: (201) 865-2325\n<br>Fax:      (201) 348-4412<br>",
-          "text3": "<strong>Links</strong><ul><li>Archdiocese of Newark</li><li><a href=\"http://www.ccannj.com/\">Catholic Charities</a></li><li><br></li></ul>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "color": "#26272c",
-              "text-align": "center"
-            },
-            "STRONG": {
-              "color": "#7e0202"
-            },
-            "UL": {
-              "color": "#f1c050"
-            }
-          },
-          "_anchor": "contacts1-8x"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) SS JOSEPH &amp; MICHAEL &nbsp;<a href=\"https://mobirise.com/\" class=\"text-black\">Terms of Use</a>  | <a href=\"https://mobirise.com/\" class=\"text-black\">Privacy Policy</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#26272c",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "footer1-8y"
-        }
-      ]
-    },
     "page38.html": {
       "settings": {
         "title": "Fatima",
@@ -10374,7 +10054,7 @@
           "_params": {
             "showTitle": true,
             "showCaption": true,
-            "paddingTop": "3",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
@@ -10389,7 +10069,7 @@
             "overlayColor": "#fff",
             "overlayOpacity": 0.7
           },
-          "title": "STS. JOSEPH AND MICHAEL PARISH\n<div>invites you for the\n</div><div>CENTENNIAL CELEBRATION OF THE</div><div><b> APPARITION OF OUR LADY OF FATIMA</b></div>",
+          "title": "GOSPEL MEDITATION\n<div>ENCOURAGE DEEPER UNDERSTANDING\n</div><div>OF SCRIPTURE</div>",
           "caption": "",
           "alias": "purity/components",
           "_tags": [
@@ -10410,64 +10090,33 @@
         },
         {
           "_params": {
-            "showTitle": false,
-            "showName": false,
-            "showBio": false,
-            "count": "1",
-            "paddingTop": "0",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showMeta": false
           },
-          "header": "What Our Fantastic Users Say",
-          "items": [
-            {
-              "authorName": "ABANOUB S.",
-              "authorBio": "User",
-              "text": "<b>Date: Friday, October 13, 2017\r</b><div><b>Place: Mother Seton School Gymnasium\r</b></div><div><b>Program:\r</b></div><div><b>5:00pm Exposition of the Most Blessed Sacrament\r</b></div><div><b>Adoration continues until 6:45pm\r</b></div><div><b>Rosary and the Message of Fatima\r</b></div><div><b>6:45pm Benediction\r</b></div><div><b>SPECIAL EVENT:\r</b></div><div><b>7:00pm Healing Mass\r</b></div><div><b>Celebrant: Father Fernando Echeverri\r</b></div><div><b>8:30pm Candlelight Procession\r</b></div><div><b>Procession from Mother Seton to\r</b></div><div><b>STS. Joseph and Michael Church\r</b></div><div><b>Music will be provided\r</b></div><div><b>Contact: Marian Committee 201-865-2325</b></div>"
-            },
-            {
-              "authorName": "SUFFIAN A.",
-              "authorBio": "User",
-              "text": "<em>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</em>"
-            },
-            {
-              "authorName": "JHOLLMAN C.",
-              "authorBio": "User",
-              "text": "<em>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</em>"
-            }
-          ],
+          "title": "28th Sunday in Ordinary Time",
+          "meta": "By John Smith posted July 30, 2015",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "testimonials1",
-          "_anchor": "testimonials1-98",
-          "testimonial": [
-            {
-              "authorName": "ABANOUB S.",
-              "authorBio": "User",
-              "text": "<b>Date: Friday, October 13, 2017\n</b><div><b>Place: Mother Seton School Gymnasium\n</b></div><div><b>Program:\n</b></div><div><b>5:00pm Exposition of the Most Blessed Sacrament\n</b></div><div><b>Adoration continues until 6:45pm\n</b></div><div><b>Rosary and the Message of Fatima\n</b></div><div><b>6:45pm Benediction\n</b></div><div><b><i>SPECIAL EVENT:\n</i></b></div><div><b>7:00pm Healing Mass\n</b></div><div><b>Celebrant: Father Fernando Echeverri\n</b></div><div><b>8:30pm Candlelight Procession\n</b></div><div><b>Procession from Mother Seton to\n</b></div><div><b>STS. Joseph and Michael Church\n</b></div><div><b>Music will be provided\n</b></div><div><b>Contact: Marian Committee 201-865-2325</b></div>"
-            }
-          ],
+          "_name": "header3",
+          "_anchor": "header3-9m",
           "_styles": {
-            ".card-block DIV": {
-              "text-align": "center",
-              "font-size": "20px",
-              "color": "#053461"
-            },
-            ".card-block": {
+            "H3": {
               "text-align": "center"
-            },
-            ".card-block B": {
-              "font-size": "20px",
-              "color": "#053461"
+            }
+          }
+        },
+        {
+          "text": "\"My friend, how is it that you came in here without\n<div>a wedding garment?\" Today's Gospel parable is unsettling\n</div><div>in several ways. The various images of rejection,\n</div><div>mistreatment, and violence paint an unpleasant picture.\n</div><div>Guests refuse to come to a feast, servants are killed,\n</div><div>troops are dispatched. The King continues to try to fill his\n</div><div>dinner hall, and then when someone finally does show up,\n</div><div>the King throws him out for wearing the wrong clothes.\n</div><div>What is going on here?\n</div><div>The message would have been a poignant one for his Jewish\n</div><div>listeners. As the chosen people, they were the first to\n</div><div>receive the \"invitation\" to share in the kingdom of God.\n</div><div>But the chief priests and elders were uninterested in accepting\n</div><div>Jesus and his authority; thus they didn't show up\n</div><div>for the feast. But what about those who did come? Something\n</div><div>is expected of them as well. Donning a \"wedding\n</div><div>garment\" is like being properly prepared to enter God's\n</div><div>kingdom. Just showing up isn't enough.\n</div><div>Here it's important to pay attention to the details. The\n</div><div>King first calls his poorly dressed guest \"friend.\" The approach\n</div><div>begins with mercy and kindness. But the man\n</div><div>gives no defense for himself, and displays no desire to\n</div><div>change. It's as if he doesn't really care to be there at all.\n</div><div>The question this raises for us is whether or not we are\n</div><div>\"dressed\" appropriately. We may hang around the banquet\n</div><div>hall--going to church, professing to be Christian--but are\n</div><div>we sincere guests of the King of kings? Do we truly accept\n</div><div>Christ's teachings and live by them, or are we just\n</div><div>showing up? The splendors of the invitation Christ gives\n</div><div>us should not be taken for granted. We are called to share\n</div><div>in a royal feast. May we all be grateful guests.\n</div><div>Pope Francis constantly reminds us of the wideness\n</div><div>of God's mercy and its unconditional character. God\n</div><div>is always patiently loving his children and opening the\n</div><div>doors to his heart. We must, however, freely choose to\n</div><div>accept God's invitation and join in the feast of his love.\n</div><div>We desire many things and we have restless hearts. We\n</div><div>often attempt to quench our desire with things that are\n</div><div>short-lived and shallow. All of us long to be satisfied and\n</div><div>at peace. How do we announce to the world, in ways that\n</div><div>are convincing and without judgment, that it is really God\n</div><div>whom we seek?\n</div><div>In a stewardship way of life, we must always remind\n</div><div>ourselves that true wealth never comes from material\n</div><div>possessions and money. True wealth comes from the\n</div><div>love we share, the faith we develop, and the hope we\n</div><div>bring to others. The best things in life aren't free, though.\n</div><div>They require work, commitment, and fortitude. We need\n</div><div>to cultivate these things daily. If we are serious about living\n</div><div>life in this way, we will find that when our days on\n</div><div>this earth are through, we really had it all.</div>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-9i",
+          "_styles": {
+            "DIV": {
+              "text-align": "center"
             }
           }
         },
@@ -10475,8 +10124,8 @@
           "_params": {
             "showTitle": true,
             "showCaption": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -10490,7 +10139,7 @@
             "overlayColor": "#fff",
             "overlayOpacity": 0.7
           },
-          "title": "PARROQUIA DE SAN JOSÉ Y SAN MIGUEL\n<div>te invita a la\n</div><div>CELEBRACIÓN DEL CENTENARIO DE LA\n</div><div>APARICIÓN DE NUESTRA SEÑORA DE FÁTIMA</div>",
+          "title": "MEDITACIÓN DEL EVANGELIO\r<div>ENCUENTRE UN ENTENDIMIENTO MÁS PROFUNDO\r</div><div>DE LA ESCRITURA</div>",
           "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
           "alias": "purity/components",
           "_tags": [
@@ -10512,62 +10161,33 @@
         },
         {
           "_params": {
-            "showTitle": false,
-            "showName": false,
-            "showBio": false,
-            "count": "1",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showMeta": false
           },
-          "header": "What Our Fantastic Users Say",
-          "items": [
-            {
-              "authorName": "ABANOUB S.",
-              "authorBio": "User",
-              "text": "<em>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</em>"
-            },
-            {
-              "authorName": "SUFFIAN A.",
-              "authorBio": "User",
-              "text": "<em>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</em>"
-            },
-            {
-              "authorName": "JHOLLMAN C.",
-              "authorBio": "User",
-              "text": "<em>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</em>"
-            }
-          ],
+          "title": "28º Domingo del Tiempo Ordinario",
+          "meta": "By John Smith posted July 30, 2015",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "testimonials1",
-          "_anchor": "testimonials1-9a",
-          "testimonial": [
-            {
-              "authorName": "ABANOUB S.",
-              "authorBio": "User",
-              "text": "<b>Fecha: viernes, 13 de octubre 2017\n</b><div><b>Lugar: Gimnasio de la Escuela Mother Seton\n</b></div><div><b>Programa:\n</b></div><div><b>5:00pm Exposición del Santísimo Sacramento\n</b></div><div><b>La adoración continúa hasta las 6:45pm\n</b></div><div><b>Rosario y el Mensaje de Fátima\n</b></div><div><b>6:45pm Bendición\n</b></div><div><b>EVENTO ESPECIAL:\n</b></div><div><b>7:00pm Misa de sanación\n</b></div><div><b>Celebrante: Padre Fernando Echeverri\n</b></div><div><b>8:30pm Procesión con Velas\n</b></div><div><b>Procesión desde la Escuela Mother Seton hasta\n</b></div><div><b>la Iglesia de San José y Miguel\n</b></div><div><b>Habrá música.\n</b></div><div><b>Contacto: Comité Mariano 201-865-2325</b></div>"
-            }
-          ],
+          "_name": "header3",
+          "_anchor": "header3-9l",
           "_styles": {
-            ".card-block DIV": {
+            "H3": {
               "text-align": "center"
-            },
-            ".card-block": {
-              "text-align": "center",
-              "color": "#053461"
-            },
-            ".card-block B": {
-              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "text": "El evangelista Mateo nos muestra a Jesús desarrollando\n<div>su ministerio en Jerusalén. La tensión entre\n</div><div>Jesús y sus adversarios es muy notoria, hasta llegar a\n</div><div>ser imposible. Su destino se cumplirá dentro de poco, la\n</div><div>Pasión es inminente, ya está próxima. Las parábolas\n</div><div>nos lo han mostrado estos tres domingos. Hoy, si notamos,\n</div><div>la primera lectura del profeta Isaías va unida al\n</div><div>Evangelio con referencia al banquete preparado para los\n</div><div>invitados, la universalidad de la invitación es muy\n</div><div>clara. Dios en el banquete desea crear amistad e intimidad\n</div><div>con sus invitados. Por eso el profeta proclama: \"El\n</div><div>arrancará en este monte el velo que cubre el rostro de\n</div><div>todos los pueblos, el paño que oscurece a todas las\n</div><div>naciones\" (Is 25, 7).\n</div><div>En la parábola de los invitados al banquete, Jesús tenía\n</div><div>en su corazón todas estas imágenes de la bondad de su\n</div><div>Padre y de lo que éstas significaban. La misericordia y\n</div><div>el amor de Dios a su Hijo y a los que le siguen es la\n</div><div>causa de que se prepara la ocasión de celebrar. Existe\n</div><div>una última observación para los nuevos invitados y es\n</div><div>el llamado personal y el traje de fiesta. No se vale\n</div><div>asistir a una invitación sin preparar el vestido. Eso se\n</div><div>sabe de sobra, a la fiesta se lleva vestido nuevo. Dicho\n</div><div>de otra manera, hay que cumplir con las condiciones de\n</div><div>la invitación, y hacerlo con dignidad. En este caso sencillamente\n</div><div>es la conversión desde el fondo del corazón.\n</div><div>La Eucaristía es la preparación al banquete del Reino.\n</div><div>La invitación es participar con nuestra fe y amor y dar\n</div><div>frutos abundantes. ¿Lo haremos? ¿Tenemos vestido\n</div><div>nuevo para la invitación?\n</div><div>El Papa Francisco nos recuerda de la amplitud\n</div><div>de la misericordia de Dios y de su carácter incondicional.\n</div><div>Dios siempre ama a sus hijos con paciencia y abre\n</div><div>las puertas de su corazón. Sin embargo debemos escoger\n</div><div>libremente aceptar la invitación de Dios y acercarnos\n</div><div>a la fiesta de su amor. En ocasiones deseamos\n</div><div>muchas cosas y tenemos corazones inquietos. Tratamos\n</div><div>de saciar nuestros deseos con cosas terrenales, que no\n</div><div>tienen significado. Todos deseamos estar satisfechos y\n</div><div>tener paz. ¿Cómo le anunciamos al mundo, de una\n</div><div>manera convincente y sin juicio, que es Dios el que\n</div><div>buscamos?\n</div><div>En la vida del discipulado corresponsable, debemos\n</div><div>recordarnos que la verdadera riqueza nunca se\n</div><div>logra con cosas materiales ni con el dinero. La riqueza\n</div><div>verdadera llega del amor que compartimos, la fe que\n</div><div>desarrollamos y la esperanza que llevamos al mundo.\n</div><div>Sin embargo, las mejores cosas no son gratis.\n</div><div>Requieren trabajo, compromiso y fuerza. Necesitamos\n</div><div>cultivar esas cosas diariamente. Si verdaderamente vivimos\n</div><div>así nuestras vidas, nos daremos cuenta de que al\n</div><div>fin de nuestras vidas lo tuvimos todo.</div>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-9k",
+          "_styles": {
+            "DIV": {
+              "text-align": "center"
             }
           }
         },
