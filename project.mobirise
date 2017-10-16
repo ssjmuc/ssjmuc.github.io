@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "STS JOSEPH & MICHAEL PARISH",
-    "currentPage": "index.html",
+    "currentPage": "page20.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -15,7 +15,7 @@
       ]
     },
     "versionFirst": "4.3.0",
-    "uniqCompNum": 354,
+    "uniqCompNum": 359,
     "versionPublish": "4.3.0",
     "favicon": "",
     "noImageResize": "",
@@ -5113,7 +5113,7 @@
             }
           },
           "title": "<b>Baptism</b>",
-          "text": "<p>At Baptism, parents accept the responsibility of training their children in the practice of the faith, teaching them to keep God’s commandments as taught by Jesus, and to love God and neighbor...</p>",
+          "text": "<p>4 There is one body and one Spirit, just as you were called to one hope when you were called; 5 one Lord, one faith, one baptism; 6 one God and Father of all, who is over all and through all and in all. <b>Ephesians 4:4-6</b></p><p><b><i>Contact Our Rectory Office</i> &nbsp;</b></p><p><b>Email: </b>ssjmuc@gmail.com </p><p><b>Phone: </b>(201) 865-2325 &nbsp;<b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</b><b>Fax: </b>(201) 348-4412</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -5124,7 +5124,9 @@
           "_anchor": "msg-box4-4b",
           "_styles": {
             ".lead P": {
-              "font-size": "16px"
+              "font-size": "16px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".mbr-section-title": {
               "font-family": "'Oxygen', sans-serif",
@@ -5134,6 +5136,149 @@
               "color": "#053461"
             }
           }
+        },
+        {
+          "_params": {
+            "showImages": false,
+            "showTitles": true,
+            "showCaptions": false,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/feature-bootstrap.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/feature-responsive.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-google-fonts.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-websites.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "<b><a href=\"assets/files/Baptism%20Registration%20Form%20English.pdf\" class=\"text-danger\">Baptism Registration Form</a><br><a href=\"assets/files/Baptism%20Registration%20Form%20English.pdf\" class=\"text-danger\">English</a></b>",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "<b><a href=\"assets/files/Baptism%20Registration%20Form%20Spanish.pdf\" class=\"text-danger\">Forma De Bautismo </a><br><a href=\"assets/files/Baptism%20Registration%20Form%20Spanish.pdf\" class=\"text-danger\">&nbsp;Español</a></b>&nbsp;",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button1": "<a data-app-btn=\"true\" href=\"assets/files/Baptismal%20Requirements.pdf\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Requirements</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Requisitos</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-9x",
+          "_styles": {
+            "B": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "color": "#f1c050"
+            },
+            ".btn": {
+              "font-size": "19px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": false,
+            "showButton": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Modern Styles",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"assets/files/Baptismal Requirements.pdf\" data-toolbar=\"-mbrBtnMove\">Requirements / Requisitos</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-9y"
         },
         {
           "_styles": {
@@ -5174,7 +5319,7 @@
           },
           "title": "<b>First Reconciliation and First Communion:</b>",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Our children learn by observing how the significant adults in their lives respond to their own Baptismal call. No classroom or textbook can provide this. It is important for a child’s remote preparation for sacraments to begin by observing&nbsp;<span style=\"font-size: 1.25rem;\">his or her parents’/guardians’ behavior and priorities, which include&nbsp;</span><span style=\"font-size: 1.25rem;\">coming to Sunday Mass and experiencing time for prayer and a&nbsp;</span><span style=\"font-size: 1.25rem;\">growing relationship with God. </span><span style=\"font-size: 1.25rem;\">&nbsp;</span><span style=\"font-size: 1.25rem;\">Parish families who wish to have their children continue their&nbsp;</span><span style=\"font-size: 1.25rem;\">initiation into the Catholic Church are advised to enroll their children in</span></p><p><span style=\"font-size: 1.25rem;\">&nbsp;</span><span style=\"font-size: 1.25rem;\"><b>Sacrament Preparation</b>.</span></p><p><span style=\"font-size: 1.25rem;\">&nbsp;It is expected to attend Mass regularly, by every family preparing their\n&nbsp;</span><span style=\"font-size: 1.25rem;\">children for First Communion. Children &nbsp;</span><span style=\"font-size: 1.25rem;\">generally receive immediate preparation for &nbsp;</span><span style=\"font-size: 1.25rem;\">First Reconciliation </span><span style=\"font-size: 1.25rem;\">and First Communion &nbsp;</span></p>",
+          "text": "<p>A child learns by observing the behavior of his or her parents. This includes the behavior and priorities they have including coming to Sunday Mass and experiencing time for prayer and a growing relationship with God.If you<span style=\"font-size: 1.25rem;\">&nbsp;wish to have your children continue their&nbsp;</span><span style=\"font-size: 1.25rem;\">initiation into the Catholic Church, we advise to enroll your children in</span></p><p><span style=\"font-size: 1.25rem;\">&nbsp;</span><span style=\"font-size: 1.25rem;\"><b>Sacrament Preparation</b>.</span></p><p><span style=\"font-size: 1.25rem;\">We expect you to attend Mass regularly, by every family preparing their\n&nbsp;</span><span style=\"font-size: 1.25rem;\">children for First Communion. Children &nbsp;</span><span style=\"font-size: 1.25rem;\">generally receive immediate preparation for &nbsp;</span><span style=\"font-size: 1.25rem;\">First Reconciliation </span><span style=\"font-size: 1.25rem;\">and First Communion &nbsp;</span></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
           "alias": "purity/components",
           "_tags": [
@@ -5229,7 +5374,7 @@
             }
           },
           "title": "<b>Confirmation</b>",
-          "text": "<p>It is the expectation of the parish that each young person wishing\r&nbsp;<span style=\"font-size: 1.25rem;\">to be confirmed has received ongoing religious instruction in &nbsp;the&nbsp;</span><span style=\"font-size: 1.25rem;\">grades.</span><span style=\"font-size: 1.25rem;\">&nbsp;It is also expected that the young person attends <b>Sunday&nbsp;</b></span><span style=\"font-size: 1.25rem;\"><b>Mas</b>s each week.&nbsp;</span></p>",
+          "text": "<p>It is the expectation of the parish that each young person wishing\n&nbsp;<span style=\"font-size: 1.25rem;\">to be confirmed has received ongoing religious instruction in &nbsp;the&nbsp;</span><span style=\"font-size: 1.25rem;\">grades.</span><span style=\"font-size: 1.25rem;\">&nbsp;It is also expected that the young person attends <b>Sunday&nbsp;</b></span><span style=\"font-size: 1.25rem;\"><b>Mas</b>s each week.&nbsp;</span></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
