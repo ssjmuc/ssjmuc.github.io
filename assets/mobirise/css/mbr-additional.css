@@ -3,11 +3,14 @@
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+
 
 
 
@@ -119,10 +122,27 @@
 #pricing-table1-18 DIV {
   font-family: 'Oxygen', sans-serif;
 }
-#header3-8d H3 {
-  color: #890602;
+#content5-a0 .mbr-section-title {
   text-align: center;
-  font-family: 'Oxygen', sans-serif;
+  color: #053461;
+  font-family: 'Droid Sans', sans-serif;
+}
+#content5-a0 .mbr-section-title B {
+  color: #ffffff;
+}
+#features1-9z P {
+  text-align: center;
+  font-size: 36px;
+  font-family: 'Oswald', sans-serif;
+  color: #f1c050;
+}
+#features1-a1 H4 {
+  color: #7e0202;
+  font-family: 'Oswald', sans-serif;
+}
+#content5-a2 .mbr-section-title {
+  text-align: center;
+  color: #f1c050;
 }
 #content4-1d P {
   text-align: center;
