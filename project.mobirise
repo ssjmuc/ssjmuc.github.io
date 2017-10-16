@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "STS JOSEPH & MICHAEL PARISH",
-    "currentPage": "page20.html",
+    "currentPage": "page33.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -350,10 +350,10 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title1": "<font face=\"Oxygen, sans-serif\"><span style=\"font-size: 36px;\"><b><a href=\"page33.html\">Rebuilding Our Parish\n</a></b></span></font><div><b><a href=\"page33.html\">Update for September 2017</a></b></div><div><b><br></b></div><div><b><br></b></div>",
-          "caption1": "We are roughly 75% of the way toward rebuilding the trusses along the roofline.  Five of the seven sections have been replaced and work at the transept area has begun so we are on target for completion by the beginning of October.   ",
-          "title2": "<b><a href=\"page34.html\">Reconstruyendo Nuestra Parroquia\n</a></b><div><b><a href=\"page34.html\">Actualización Septiembre 2017</a></b></div>",
-          "caption2": "Estamos aproximadamente el 75% del camino hacia la reconstrucción de las armaduras a lo largo de la línea del techo. Cinco de las siete secciones han sido reemplazadas y el trabajo en el área del transepto ha comenzado, así que estamos a tiempo para terminar a principios de Octubre.",
+          "title1": "<br><font face=\"Oxygen, sans-serif\"><span style=\"font-size: 36px;\"><b><a href=\"page33.html\">Rebuilding Our Parish\n</a></b></span></font><div><b><a href=\"page33.html\">Update for October 13th, 2017</a></b></div>",
+          "caption1": "<br>The structural repair of the roof trusses has been completed in accordance with the engineer’s specifications.  The exterior shingles, many of which suffered damage during the fire, were removed and the new shingles were delivered Wednesday.  Our expectation is that the roof will be completed before the end of the month.   The debris trapped within the crevices of the Church ceiling has been removed.     ",
+          "title2": "<b><a href=\"page34.html\">Reconstruyendo Nuestra Parroquia\n</a></b><div><b><a href=\"page34.html\">Actualización para el 13 de Octubre de 2017</a></b></div>",
+          "caption2": "La reparación estructural de las armazones de techo se ha completado en acuerdo con las especificaciones del ingeniero.  Las tejas exteriores, muchas que sufrieron daños durante el incendio, fueron removidas y las nuevas tejas fueron entregadas el miércoles.  Esperamos que el techo será completado antes de fin de mes.  Los escombros atrapados dentro de las grietas del techo de la Iglesia han sido removidos.",
           "title3": "Web Fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Websites",
@@ -368,7 +368,7 @@
             "DIV": {
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "32px"
+              "font-size": "22px"
             },
             "B": {
               "font-size": "32px",
@@ -458,7 +458,7 @@
             "showButtons": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "columns": "2",
+            "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -500,7 +500,7 @@
           },
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/feature-google-fonts.png",
+              "src": "@PROJECT_PATH@/assets/images/feature-google-fonts.png",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -5126,7 +5126,8 @@
             ".lead P": {
               "font-size": "16px",
               "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#000000"
             },
             ".mbr-section-title": {
               "font-family": "'Oxygen', sans-serif",
@@ -5187,7 +5188,7 @@
           },
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/feature-google-fonts.png",
+              "src": "@PROJECT_PATH@/assets/images/feature-google-fonts.png",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -5374,7 +5375,7 @@
             }
           },
           "title": "<b>Confirmation</b>",
-          "text": "<p>It is the expectation of the parish that each young person wishing\n&nbsp;<span style=\"font-size: 1.25rem;\">to be confirmed has received ongoing religious instruction in &nbsp;the&nbsp;</span><span style=\"font-size: 1.25rem;\">grades.</span><span style=\"font-size: 1.25rem;\">&nbsp;It is also expected that the young person attends <b>Sunday&nbsp;</b></span><span style=\"font-size: 1.25rem;\"><b>Mas</b>s each week.&nbsp;</span></p>",
+          "text": "<p>It is the expectation of the parish that each young person wishing\n&nbsp;<span style=\"font-size: 1.25rem;\">to be confirmed has received ongoing religious instructions in &nbsp;their&nbsp;</span><span style=\"font-size: 1.25rem;\">grades.</span><span style=\"font-size: 1.25rem;\">&nbsp;In addtion, it's expected that the young person attends <b>Sunday&nbsp;</b></span><span style=\"font-size: 1.25rem;\"><b>Mass</b> each week.&nbsp;</span></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -9086,6 +9087,9 @@
             },
             ".lead P": {
               "color": "#26272c"
+            },
+            ".mbr-section-title DIV": {
+              "color": "#f1c050"
             }
           },
           "_params": {
@@ -9108,9 +9112,9 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<b>Rebuilding Our Parish\n</b><div><b>Update for September 2017\n</b></div><div><br></div>",
+          "title": "<b>Rebuilding Our Parish\n</b><div><font color=\"#7e0202\"><b>Update for October 13th, 2017</b></font></div><div><br></div>",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>&nbsp;<b style=\"font-size: 1.25rem;\">Roof trusses</b></p><p>We are roughly 75% of the way toward rebuilding the trusses along the roofline.  Five of the seven sections have been replaced and work at the transept area has begun so we are on target for completion by the beginning of October.<span style=\"font-size: 1.25rem;\">&nbsp;</span></p><p><b>Architects/Engineers\n</b></p><p>Foresight Architects have been retained to develop plans and specifications for all aspects of the restoration project including the liturgical design of the worship space.  Representatives from Foresight have already met with Father Nathan and the parish advisory committee to get some preliminary insight as to how to go about gaining a consensus of the preferences of the parish pertaining to restoration plans and design.  Foresight has also had a meeting last week with Father Dente and Monsignor Groncki from the Office of Divine Worship to gather their direction and feedback.   We also expect to retain an HVAC Engineer this week for the purpose of receiving their guidance for the specifications of the new HVAC systems.  We should also receive final word on the structural engineer’s inspection of structural integrity of the plaster ceiling.</p><p><b>Steeple &amp; Tower\n</b></p><p>Foresight Architects are in the process of gathering information and comparative pricing on steeple repair and replacement.  We will review this information at the next meeting of the parish advisory committee, which is scheduled to take place next week. \n</p><p>We will continue to provide monthly updates going forward and post them on the parish home page.</p><p>  \n</p><p><b>You are welcome to e-mail any questions to either: \n</b></p><p><b>Father Tim Graff, New Energies, Parish Transition Project at</b></p><p><b> Rev.Timothy.Graff@rcan.org \n</b></p><p><b>Gladys Pozza, Director of Parish Outreach at </b></p><p><b>Gladys.Pozza@rcan.org \n</b></p><p><b>Steve Belloise, Executive Director of Property Management at</b></p><p><b> Steve.Belloise@rcan.org\n</b></p><p><br></p>",
+          "text": "<p><b>Roof</b> \n</p><p>The structural repair of the roof trusses has been completed in accordance with the engineer’s specifications.  The exterior shingles, many of which suffered damage during the fire, were removed and the new shingles were delivered Wednesday.  Our expectation is that the roof will be completed before the end of the month.   The debris trapped within the crevices of the Church ceiling has been removed.  \n</p><p><b>Architects/Engineers\n</b></p><p>Foresight Architects have been working with the parish committee on seating plans and alternative liturgical furnishing layouts. Odea Lynch &amp; Abbatista (OLA) has been retained to develop plans and specifications for the renovation of the heating and air conditioning systems. OLA will coordinate their efforts with Foresight Architects and Malanga Construction to make sure the various projects are sequenced properly. Paul Beck, the engineer who supervised the truss repair, has been retained to oversee the steeple replacement as well as the repair and renovation of the tower interior.  \n</p><p><b>Progress Update\n</b></p><p>While the bulk of the plaster ceiling has maintained structural integrity, there are still areas of concern to be addressed. It is our intention to finalize the scope of work for the scraping, plastering and repainting of the Church. Foresight Architects will be presenting a proposal to install a full-height aluminum replacement steeple to the parish committee on October 25th.   The committee will evaluate the proposal based on how closely the new steeple approximates the aesthetics of the original version as well as the cost. It is hoped that there will be considerable cost savings achieved by creating a more functional version of the internal structure of the tower, which would more than likely be a simple staircase with platforms at each landing.  \n</p><p><b>Short and Long Term Goals\n</b></p><p>We anticipate formulating scopes of work for competitive bidding on the following: HVAC renovation and repair, tower reconstruction, exterior masonry repair and plastering and painting of Church interior.   We are confident that bids will be received and vendors selected by sometime in December and that we will be able to confirm a timeline for execution and completion by January 1st.  Our preliminary guess is that the actual work will take six to eight months from start to finish.  We will continue to update this timeline, which is obviously a work in progress. You are welcome to e-mail any questions to either </p><p><b>Father Tim Graff</b>, New Energies, Parish Transition Project at Rev.Timothy.Graff@rcan.org; <b>Gladys Pozza</b>, Coordinator of Parish Outreach at Gladys.Pozza@rcan.org; &nbsp;or &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>&nbsp;</b><span style=\"font-size: 1.25rem;\"><b>Steve Belloise</b>, Executive Director of Property Management at steve.belloise@rcan.org. &nbsp;</span></p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
           "alias": "purity/components",
           "_tags": [
@@ -9274,11 +9278,18 @@
             },
             ".mbr-section-title DIV": {
               "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#f1c050"
             },
             ".mbr-section-title B": {
               "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#f1c050"
+            },
+            ".lead P": {
+              "color": "#000000",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
           },
           "_params": {
@@ -9301,9 +9312,9 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<b>Reconstruyendo Nuestra Parroquia\n</b><div><b>Actualización Septiembre 2017\n</b></div><div><br></div>",
+          "title": "<b><i>Reconstruyendo Nuestra Parroquia\n</i></b><div><b><i>Actualización Septiembre 2017\n</i></b></div><div><br></div>",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><b>Armazones de techo\n</b></p><p>Estamos aproximadamente el 75% del camino hacia la reconstrucción de las armaduras a lo largo de la línea del techo. Cinco de las siete secciones han sido reemplazadas y el trabajo en el área del transepto ha comenzado, así que estamos a tiempo para terminar a principios de octubre.\n</p><p>\n</p><p><b>Arquitectos / Ingenieros\n</b></p><p>Foresight Architects han sido retenidos para desarrollar planes y especificaciones para todos los aspectos del proyecto de restauración incluyendo el diseño litúrgico. Los representantes de Foresight se han reunido con el Padre Nathan y el comité consultivo de la parroquia para obtener información preliminar sobre cómo llegar a obtener un consenso sobre las preferencias de la parroquia en relación con los planes de restauración y el diseño. Foresight también ha tenido una reunión la semana pasada con el Padre Dente y Monseñor Groncki de la Oficina de Liturgia para obtener su dirección y comentarios. También esperamos retener un ingeniero de HVAC esta semana con el propósito de recibir su guía para las especificaciones de los nuevos sistemas HVAC. Esperamos recibir la última palabra sobre la inspección del ingeniero estructural sobre la integridad estructural del techo de yeso.\n</p><p>&nbsp;\n</p><p><b>Torre y Campanario\n</b></p><p>Foresight Architects están en el proceso de reunir información y precios comparativos para la reparación del campanario y el reemplazo. Revisaremos esta información en la próxima reunión del comité consultivo de la parroquia, que se va reunir la próxima semana.\n</p><p>Continuaremos proporcionando actualizaciones mensuales y publicándolas en la página principal de la parroquia.</p><p> \n</p><p><b>Le invitamos a enviar cualquier pregunta al: \n</b></p><p><b>Padre Tim Graff, New Energies, Parish Transition Project  \n</b></p><p><b>Rev.Timothy.Graff@rcan.org,\n</b></p><p><span style=\"font-size: 1.25rem;\"><b>Gladys Pozza, Director of Parish Outreach at Gladys.Pozza@rcan.org &nbsp;</b></span></p><p><b>Steve Belloise, Executive Director of Property Management at Steve.Belloise@rcan.org\n</b></p><p><br></p>",
+          "text": "<p><b>Armazones de Techo\n</b><span style=\"font-size: 1.25rem;\"></span></p><p>La reparación estructural de las armazones de techo se ha completado en acuerdo con las especificaciones del ingeniero.  Las tejas exteriores, muchas que sufrieron daños durante el incendio, fueron removidas y las nuevas tejas fueron entregadas el miércoles.  Esperamos que el techo será completado antes de fin de mes.  Los escombros atrapados dentro de las grietas del techo de la Iglesia han sido removidos.</p><p><b>Arquitectos / Ingenieros\n</b><span style=\"font-size: 1.25rem;\"></span></p><p>Foresight Architects han estado trabajando con el comité consultivo de la parroquia sobre los planes de asientos y diseños alternativo de muebles litúrgico.  Odea Lynch &amp; Abbatista (OLA) ha sido contratada para desarrollar planes y especificaciones para la renovación de los sistemas de calefacción y aire acondicionado.  OLA coordinará sus esfuerzos con Foresight Architects y Malanga Construction para asegurarse de que los varios proyectos estén secuenciados correctamente.  Paul Beck, el ingeniero que supervisó la reparación de la armadura, ha sido retenido para supervisar el reemplazo de la torre, así como la reparación y renovación del interior de la torre.\n</p><p>\n</p><p><b>Progreso \n</b><span style=\"font-size: 1.25rem;\"></span></p><p>Aunque la mayor parte del techo de yeso ha mantenido la integridad estructural, todavía hay áreas de preocupación.  Es nuestra intención finalizar el alcance del trabajo para raspar, enyesar y volver a pintar la Iglesia.  Foresight Architects presentará a el comité consultivo de la parroquia, el 25 de Octubre, una propuesta para instalar un campanario de reemplazo de aluminio con la altura completa.  El comité evaluará la propuesta basado en cuán cerca el nuevo campanario se aproxima a la estética de la versión original, así como al costo.  Se espera que habrá ahorros considerables creando una versión más funcional de la estructura interna de la torre, que muy probablemente sea una simple escalera con plataformas en cada rellano.\n</p><p>\n</p><p><b>Objetivos a Corto y Largo Plazo\n</b></p><p>Anticipamos la formulación del ámbito de trabajo para las ofertas competiva en lo siguiente: renovación y reparación de HVAC, reconstrucción de la torre, reparación de albañilería y enlucido exterior, y pintura del interior de la Iglesia.  Confiamos en que las ofertas se recibirán y los vendedores seleccionados durante Diciembre y que podremos confirmar una línea de tiempo para su ejecución y finalización antes del 1 de Enero.  Nuestra suposición preliminar es que el trabajo actual tomará seis a ocho meses de principio a fin. Continuaremos actualizando esta línea de tiempo, que obviamente es un trabajo en progreso.  Le invitamos a enviar cualquier pregunta al Pe. </p><p><b>Tim Graff</b>, New Energies, Parish Transition Project at</p><p><i> Rev.Timothy.Graff@rcan.org</i></p><p><b>Gladys Pozza</b>, Coordinator of Parish Outreach at </p><p><i>Gladys.Pozza@rcan.org; or </i></p><p><b>Steve Belloise</b>, Executive Director of Property Management at </p><p><i>Steve.Belloise@rcan.org</i>.\n</p><p><b><br></b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
           "alias": "purity/components",
           "_tags": [

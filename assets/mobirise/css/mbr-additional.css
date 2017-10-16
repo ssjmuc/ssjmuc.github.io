@@ -7,6 +7,7 @@
 @import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 
 
 
@@ -97,7 +98,7 @@
 }
 #content4-7q DIV {
   font-family: 'Oxygen', sans-serif;
-  font-size: 32px;
+  font-size: 22px;
 }
 #content4-7q B {
   font-size: 32px;
@@ -1145,6 +1146,7 @@
 #msg-box4-4b .lead P {
   font-size: 16px;
   font-family: 'Raleway', sans-serif;
+  color: #000000;
 }
 #msg-box4-4b .mbr-section-title {
   font-family: 'Oxygen', sans-serif;
@@ -2007,6 +2009,9 @@
 #msg-box3-7v .lead P {
   color: #26272c;
 }
+#msg-box3-7v .mbr-section-title DIV {
+  color: #f1c050;
+}
 #contacts1-7t P {
   color: #26272c;
   text-align: center;
@@ -2021,6 +2026,7 @@
   color: #26272c;
   text-align: center;
 }
+
 
 
 
@@ -2057,9 +2063,15 @@
 }
 #msg-box3-83 .mbr-section-title DIV {
   font-family: 'Oxygen', sans-serif;
+  color: #f1c050;
 }
 #msg-box3-83 .mbr-section-title B {
   font-family: 'Oxygen', sans-serif;
+  color: #f1c050;
+}
+#msg-box3-83 .lead P {
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
 }
 #contacts1-81 P {
   color: #26272c;
