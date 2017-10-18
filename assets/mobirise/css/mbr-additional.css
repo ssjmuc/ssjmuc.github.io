@@ -1683,8 +1683,6 @@
 
 
 
-
-
 #msg-box3-6a .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -1712,21 +1710,6 @@
 #msg-box4-6j .lead P {
   font-family: 'Oxygen', sans-serif;
 }
-#msg-box3-69 .mbr-header .mbr-header__text {
-  text-align: center;
-}
-#msg-box3-69 .mbr-header .mbr-header__subtext {
-  text-align: center;
-}
-#msg-box3-69 .mbr-section-title {
-  font-family: 'Oxygen', sans-serif;
-}
-#msg-box3-69 .mbr-section-title B {
-  color: #7e0202;
-}
-#msg-box3-69 .lead P {
-  font-family: 'Oxygen', sans-serif;
-}
 #dropdown-menu-64 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -1735,7 +1718,7 @@
 }
 #dropdown-menu-64 .nav .link,
 #dropdown-menu-64 .dropdown-item {
-  font-size: 1.2em;
+  font-size: 1em;
   color: #053461;
   font-family: 'Oxygen', sans-serif;
 }
