@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "STS JOSEPH & MICHAEL PARISH",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -15,7 +15,7 @@
       ]
     },
     "versionFirst": "4.3.0",
-    "uniqCompNum": 363,
+    "uniqCompNum": 364,
     "versionPublish": "4.3.0",
     "favicon": "",
     "noImageResize": "",
@@ -451,43 +451,53 @@
           }
         },
         {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-section-title B": {
+              "font-size": "48px",
+              "color": "#ffffff"
+            }
+          },
           "_params": {
             "showTitle": true,
-            "showCaption": false,
+            "showMeta": false,
+            "showText": false,
+            "showButton": false,
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-23-1620x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColor": "#FFF8E0",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#7e0202",
-            "overlayOpacity": "0.3"
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "title": "<b>2017 International Food Festival!</b>",
-          "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "title": "<b>2017 International Food Festival</b>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "content5",
-          "_anchor": "content5-a0",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "center",
-              "color": "#053461",
-              "font-family": "'Droid Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
-            },
-            ".mbr-section-title B": {
-              "color": "#ffffff"
-            }
-          }
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-a3"
         },
         {
           "_params": {
