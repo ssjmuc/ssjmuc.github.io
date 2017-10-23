@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "STS JOSEPH & MICHAEL PARISH",
-    "currentPage": "RegistrationForm.html",
+    "currentPage": "Home.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -15,7 +15,7 @@
       ]
     },
     "versionFirst": "4.3.0",
-    "uniqCompNum": 364,
+    "uniqCompNum": 368,
     "versionPublish": "4.3.0",
     "favicon": "",
     "noImageResize": "",
@@ -213,7 +213,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             },
             ".nav .link, .dropdown-item": {
-              "font-size": "1em",
+              "font-size": "0.8em",
               "color": "#053461",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "font-family": "'Oxygen', sans-serif"
@@ -229,13 +229,13 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -383,6 +383,301 @@
             },
             "P": {
               "font-size": "22px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showImages": false,
+            "showTitles": true,
+            "showCaptions": false,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-bootstrap.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-responsive.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-google-fonts.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-websites.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "<b>All Saints Day</b><br>",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "<b>El Dia De Todos Los Santos</b>",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-a4",
+          "_styles": {
+            "B": {
+              "font-size": "30px",
+              "color": "#7e0202"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "November 1, 2017",
+          "caption1": "<p>All Saints Day is a solemn Holy Day of the Catholic Church celebratedannually on November 1st. The day is dedicated to the saints of the church, that is all those who lives a holy life and attained Heaven and recognized in the Catholic Church. All Saints Day Mass schedule is as follows<br><br></p><b><i>Wednesday, November 1, 2017</i></b><br><br><b>8:30 am&nbsp;Holy Mass (English)</b><br>at Saint Francis Academy<br><b>11:00 am Holy Mass (English)</b><br>at Sacred&nbsp; Heart Hall \n<br><b>4:00pm Holy Masss (Bilingual)</b><br>at Bellas Vista<br><b>7:00 pm Holy Mass (Spanish)</b><br>at Sacred Heart Hall<br>at Mother Seton School Gym<br><b>8:00pm Holy Mass (Bilingual</b><br>Neo-Catechumenal<br>at Mother Seton School Gym<br><p><br></p><p><br></p>",
+          "title2": "1 De Noviembre 2017",
+          "caption2": "El Dia de Todos los Santos es un dia solemne de la Iglesia Catolica que se celebra anualmente el 1 de noviembre. El dia esta dedicado a los Santod de la iglesia, es decir todos aquellos que vivieron una vida santa &nbsp;alwacanzaron el cielo y son reconozidos en el canon de los Santos en La Iglesia Calito. Los Horarios de las misas de Dia de Todos los Santos son lo ssguientes:<br><b><br>Miercoles 1 de Noviembre 2017</b><br><b><br>8:30 am&nbsp;Santa Misa (Inglés)</b><br>en la Academia Saint Francis<br><b>11:00 am&nbsp;Santa Misa (Inglés)&nbsp;</b><br>en el Salon del Sagrado Corazon\n<br><b>4:00pm&nbsp;Santa Misa (Bilingüe)</b><br>en Bella Vista<br><b>7:00 pm&nbsp;Santa Misa - (Español)</b><br>en el Salon del Sagrado Corazon<br>Neocatecumenal<br><b>8:00pm&nbsp;Santa Misa (Bilingüe)</b><br>\tNeocatecumenal<br>Escuela Mother Seton – Gimnasio<br><br><br><br>",
+          "title3": "Web Fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Websites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-a7",
+          "_styles": {
+            "P": {
+              "text-align": "right",
+              "color": "#26272c",
+              "font-size": "19px"
+            },
+            "B": {
+              "font-size": "22px",
+              "color": "#7e0202"
+            },
+            "I": {
+              "font-size": "22px"
+            },
+            "H4": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showImages": false,
+            "showTitles": true,
+            "showCaptions": false,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-bootstrap.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-responsive.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-google-fonts.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-websites.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "<b>All Souls Day</b>",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "<b>El Dia De Los Difuntos</b>",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-a6",
+          "_styles": {
+            "B": {
+              "color": "#890602"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "November 2, 2017",
+          "caption1": "All Souls Day is observed on November 2nd and is dedicated to those who have died and have not reached Heaven (&nbsp;maybe in the process of purification in purgatory). On that day, we visit the cemeteries of our loved ones to pray and offer thye Holy Mass for the repose of the souls of the departed<br><b><i>Thursday. November 2, 2017</i></b><br><br><b>8:30am Holy Mass(English)</b><br>at Scared heart Hall<br><b>7:00pm Holy Mass (Bilingual)</b><br>at Mother Seton School Gym<br><br>Daylight Savings Times Ends on Sunday, November 5t &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Dont forget to change your clocks to one hour back.<br>",
+          "title2": "2 De Noviembre 2017",
+          "caption2": "El Dia de los Difuntos se celebra el 2 de noviembre y se dedica a los que han fallecido y que no han alcanzado el Cielo ( tal vez en el proceso de purificación en el purgatorio). Este día, visitamos los cementerios de nuestros seres querido para orar y ofrecer la Santa misa por el Descanso de las almas de los difuntos.\n<br><b><i>Jueves 2 de Noviembre 2017</i>\n<br></b><br><b>8:30am \tSanta Misa (Ingles)\n</b><br>\t\ten el Salon del Sagrado Corazon\n<br><b>7:00pm \tSanta Misa (Bilingüe)\n</b><br>\t\tEscuela Mother Seton - Gimnasio\n<br> \n<br>El cambio de hora es el domingo 5 de noviembre. &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; No se olvide de cambiar sus relojes una hora atras.  ",
+          "title3": "Web Fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Websites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-a5",
+          "_styles": {
+            "P": {
+              "text-align": "right",
+              "font-size": "16px"
+            },
+            "B": {
+              "font-size": "24px",
+              "color": "#890602"
             }
           }
         },
@@ -1122,13 +1417,13 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -1461,13 +1756,13 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -1556,13 +1851,13 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -2215,13 +2510,13 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -2360,13 +2655,13 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -2524,13 +2819,13 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -2824,13 +3119,13 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -3316,13 +3611,13 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -3674,13 +3969,13 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -4056,13 +4351,13 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -4380,13 +4675,13 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -4700,13 +4995,13 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -4964,13 +5259,13 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -5229,13 +5524,13 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -5522,13 +5817,13 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -5760,13 +6055,13 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -6005,13 +6300,13 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -6273,13 +6568,13 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -6538,13 +6833,13 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -6798,13 +7093,13 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -7403,13 +7698,13 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -8241,13 +8536,13 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -8336,13 +8631,13 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -8799,13 +9094,13 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -8944,13 +9239,13 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -9546,13 +9841,13 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -9746,13 +10041,13 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -9944,13 +10239,13 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -10368,13 +10663,13 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -10548,13 +10843,13 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
@@ -10728,13 +11023,13 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Oxygen",
               "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
