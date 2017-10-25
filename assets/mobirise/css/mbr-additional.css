@@ -30,6 +30,7 @@
 
 
 
+
 #msg-box3-15 .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -95,8 +96,9 @@
   font-size: 22px;
 }
 #features1-a4 B {
-  font-size: 30px;
+  font-size: 36px;
   color: #7e0202;
+  font-family: 'Oswald', sans-serif;
 }
 #content4-a7 P {
   text-align: right;

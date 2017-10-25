@@ -383,7 +383,7 @@
             "showTitles": true,
             "showCaptions": false,
             "showButtons": false,
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "columns": "2",
             "bgImageRadio": false,
@@ -471,8 +471,10 @@
           "_anchor": "features1-a4",
           "_styles": {
             "B": {
-              "font-size": "30px",
-              "color": "#7e0202"
+              "font-size": "36px",
+              "color": "#7e0202",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           }
         },
