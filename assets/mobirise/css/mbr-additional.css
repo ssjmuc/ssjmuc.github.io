@@ -1,5 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
@@ -31,26 +30,6 @@
 
 
 
-
-
-
-#slider-76 H2 {
-  font-size: 24px;
-  font-family: 'Oxygen', sans-serif;
-  color: #ffffff;
-}
-#slider-76 DIV {
-  color: #26272c;
-  font-family: 'Oxygen', sans-serif;
-}
-#slider-76 P {
-  color: #f1c050;
-}
-#slider-76 B {
-  color: #ffffff;
-  font-family: 'Roboto Condensed', sans-serif;
-  font-size: 25px;
-}
 #msg-box3-15 .mbr-header .mbr-header__text {
   text-align: center;
 }

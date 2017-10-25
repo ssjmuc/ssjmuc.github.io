@@ -15,7 +15,7 @@
       ]
     },
     "versionFirst": "4.3.0",
-    "uniqCompNum": 368,
+    "uniqCompNum": 371,
     "versionPublish": "4.3.0",
     "favicon": "",
     "noImageResize": "",
@@ -70,24 +70,32 @@
           "_params": {
             "autoplay": true,
             "fullScreen": true,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "showBullets": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": false,
             "bgColor": "#ffffff",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/29169-st-joseph-and-michael-church-07087-lat-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20140923-134255-resized-2000x1125.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
-                "title": "<b>And in all things whatsoever you shall ask in prayer, \n</b><div><b>believing, you shall receive.\" \n</b></div><div><b>-Matt 21:22</b></div>",
+                "title": "Slide 1",
                 "contentAlign": "right",
-                "text": "<b>And in all things whatsoever you shall ask in prayer,\n<br>believing, you shall receive.\"\n<br>-Matt 21:22</b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#pricing-table1-18\" data-toolbar=\"-mbrBtnMove\">Join Us</a> ",
-                "overlay": true,
-                "overlayOpacity": "0.3",
-                "overlayColor": "#000000"
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/ssjoseph-michaeluc1-2000x3000.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 2",
+                "contentAlign": "left",
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/20161118-120346-2000x1125.jpg",
@@ -95,27 +103,32 @@
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
-                "title": "<b>For God did not give us a spirit of timidity, but a spirit of power, of love and of self-discipline. </b><br><b>Timothy 1:7</b>",
-                "contentAlign": "left",
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"index.html#pricing-table1-18\" data-toolbar=\"-mbrBtnMove\">Join Us</a>",
-                "overlay": true,
-                "overlayColor": "#000000",
-                "overlayOpacity": "0.1"
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/bcd65aeb-1600x1600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-5269-1224x1632.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 2",
+                "contentAlign": "left",
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/29169-st-joseph-and-michael-church-07087-lat-2000x1500.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
-                "title": "<b>Be strong and of good courage; be not frightened, neither be dismayed; for the LORD your God is with you wherever you go. Joshua 1:9</b>",
-                "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#pricing-table1-18\" data-toolbar=\"-mbrBtnMove\">Join Us</a> ",
-                "overlay": true,
-                "overlayOpacity": "0.3",
-                "overlayColor": "#000000"
+                "title": "Slide 2",
+                "contentAlign": "left",
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
               }
             ]
           },
@@ -125,29 +138,7 @@
             "Theme"
           ],
           "_name": "slider",
-          "_anchor": "slider-76",
-          "_styles": {
-            "H2": {
-              "font-size": "24px",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "color": "#ffffff"
-            },
-            "DIV": {
-              "color": "#26272c",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            "P": {
-              "color": "#f1c050"
-            },
-            "B": {
-              "color": "#ffffff",
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-size": "25px"
-            }
-          }
+          "_anchor": "slider-aa"
         },
         {
           "_styles": {
