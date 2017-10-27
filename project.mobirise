@@ -625,7 +625,10 @@
           "_anchor": "features1-a6",
           "_styles": {
             "B": {
-              "color": "#890602"
+              "color": "#890602",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "30px"
             }
           }
         },
@@ -671,6 +674,10 @@
             "B": {
               "font-size": "24px",
               "color": "#890602"
+            },
+            "H4": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             }
           }
         },
