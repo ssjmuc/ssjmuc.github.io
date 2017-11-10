@@ -32,6 +32,8 @@
 
 
 
+
+
 #msg-box3-15 .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -101,6 +103,29 @@
   font-family: 'Titillium Web', sans-serif;
 }
 #pricing-table1-18 DIV {
+  font-family: 'Oxygen', sans-serif;
+}
+#content5-az .mbr-section-title {
+  color: #ffffff;
+  text-align: left;
+}
+#content5-az .mbr-section-title P {
+  color: #ffffff;
+}
+#content5-b0 .mbr-section-title {
+  text-align: right;
+  color: #ffffff;
+}
+#content5-b0 P {
+  text-align: right;
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+  font-size: 30px;
+}
+#msg-box2-b1 H2 {
+  color: #ffffff;
+}
+#msg-box2-b1 .btn {
   font-family: 'Oxygen', sans-serif;
 }
 #msg-box1-am H2 {
@@ -2487,6 +2512,7 @@
 
 
 
+
 #dropdown-menu-ao .hide-buttons [data-button] {
   display: none !important;
 }
@@ -2516,7 +2542,7 @@
   text-align: left;
 }
 #content5-as .mbr-section-title P {
-  color: #000000;
+  color: #ffffff;
 }
 #content5-at .mbr-section-title {
   text-align: right;
@@ -2535,13 +2561,14 @@
 }
 #content5-aw P {
   font-size: 23px;
+  font-family: 'Lato', sans-serif;
 }
 #footer1-aq P {
   color: #26272c;
   text-align: center;
 }
 #content5-ax P {
-  font-family: 'Slabo 27px', serif;
+  font-family: 'Lato', sans-serif;
   font-size: 22px;
   color: #ffffff;
 }
