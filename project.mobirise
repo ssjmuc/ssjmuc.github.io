@@ -624,7 +624,7 @@
             "showText": false,
             "showButton": false,
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-23-1620x1080.jpg",
             "parallax": true,
