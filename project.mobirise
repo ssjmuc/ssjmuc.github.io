@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "STS JOSEPH & MICHAEL PARISH",
-    "currentPage": "UpdateEspanol.html",
+    "currentPage": "Home.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -343,10 +343,10 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title1": "<br><font face=\"Oxygen, sans-serif\"><span style=\"font-size: 36px;\"><b><a href=\"page33.html\">Rebuilding Our Parish\n</a></b></span></font><div><b><a href=\"page33.html\">Update for October 13th, 2017</a></b></div>",
-          "caption1": "<br>The structural repair of the roof trusses has been completed in accordance with the engineer’s specifications.  The exterior shingles, many of which suffered damage during the fire, were removed and the new shingles were delivered Wednesday.  Our expectation is that the roof will be completed before the end of the month.   The debris trapped within the crevices of the Church ceiling has been removed.     ",
-          "title2": "<b><a href=\"page34.html\">Reconstruyendo Nuestra Parroquia\n</a></b><div><b><a href=\"page34.html\">Actualización para el 13 de Octubre de 2017</a></b></div>",
-          "caption2": "La reparación estructural de las armazones de techo se ha completado en acuerdo con las especificaciones del ingeniero.  Las tejas exteriores, muchas que sufrieron daños durante el incendio, fueron removidas y las nuevas tejas fueron entregadas el miércoles.  Esperamos que el techo será completado antes de fin de mes.  Los escombros atrapados dentro de las grietas del techo de la Iglesia han sido removidos.",
+          "title1": "<br><font face=\"Oxygen, sans-serif\"><span style=\"font-size: 36px;\"><b><a href=\"page33.html\">Rebuilding Our Parish\n</a></b></span></font><div><b><a href=\"page33.html\">Update for&nbsp;</a>November 6th, 2017</b></div>",
+          "caption1": "<br>The new roof shingles were installed work was completed by the end of October as scheduled. Scaffold will remain in place for the duration of the exterior renovation on the steeple and tower. The debris from the roof damage left between the outer roof and the Church ceiling has been removed.        ",
+          "title2": "<b><a href=\"page34.html\">Reconstruyendo Nuestra Parroquia\n</a></b><div><b><a href=\"page34.html\">Actualización para el&nbsp;</a>6 de Noviembre de 2017</b></div>",
+          "caption2": "Las nuevas tejas del techo se instalaron y el trabajo se completó a fines de octubre como planeado. El andamio se mantendrá en su lugar para la duración de la renovación exterior del campanario y la torre.  Los escombros del daño del techo entre el techo exterior y el techo de la iglesia se han eliminado.",
           "title3": "Web Fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Websites",
