@@ -124,18 +124,14 @@
 #msg-box2-b1 .btn {
   font-family: 'Oxygen', sans-serif;
 }
-#content5-b3 P {
-  text-align: center;
+#content5-b7 .mbr-section-title {
   color: #ffffff;
-}
-#content5-b3 .mbr-section-title {
   text-align: center;
 }
-#content5-b3 .mbr-section-title DIV {
+#content5-b7 P {
   color: #ffffff;
-}
-#content5-b3 .mbr-section-title B {
-  color: #ffffff;
+  font-size: 21px;
+  text-align: center;
 }
 #content5-a2 .mbr-section-title {
   text-align: center;
