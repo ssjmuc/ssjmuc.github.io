@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "STS JOSEPH & MICHAEL PARISH",
-    "currentPage": "Home.html",
+    "currentPage": "page33.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -17,7 +17,7 @@
       ]
     },
     "versionFirst": "4.3.0",
-    "uniqCompNum": 402,
+    "uniqCompNum": 403,
     "versionPublish": "4.3.0",
     "favicon": "",
     "noImageResize": "",
@@ -10084,7 +10084,7 @@
           "_params": {
             "showTitle": true,
             "showCaption": false,
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1080x1080.jpg",
@@ -10291,6 +10291,31 @@
               "color": "#ffffff"
             }
           }
+        },
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/universe-1400x1813.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-b6"
         },
         {
           "_params": {
