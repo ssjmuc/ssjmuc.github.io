@@ -539,7 +539,7 @@
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#fff8e0",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -565,7 +565,7 @@
               "text-align": "center"
             },
             ".mbr-section-title DIV": {
-              "color": "#26272c"
+              "color": "#ffffff"
             },
             ".mbr-section-title B": {
               "color": "#26272c"
