@@ -548,7 +548,7 @@
             "overlayColor": "#f1c050",
             "overlayOpacity": 0.7
           },
-          "title": "<b>PARROQUIA</b> <b>SAN JOSE Y SAN MIGUEL</b>\n<div><b>NOVENA</b> <b>POSADAS NAVIDEÑAS 2017\n</b></div>",
+          "title": "<b>PARROQUIA</b> <b>SAN JOSE Y SAN MIGUEL</b>\n<div><b>NOVENA POSADAS NAVIDEÑAS 2017\n</b></div>",
           "caption": "<p>Como cada año también este tendremos las Posadas Navideñas patrocinada por Acción Católica esperando esperando la celebración del Nacimiento del Niño Jesús. Mediante la Novena tendremos la oportunidad \nde leer pasajes bíblicos, cantar villancicos y elevar oraciones al Divino Niño Jesús pornuestra juventud, por la felicidad de los hogares y por la paz del mundo. Están invitados a participarde esta bella tradición, que nos enfoca el verdadero sentido de la Navidad. Abajo aparecenlas fechas, familias y direcciones donde se celebrarán las Posadas. Tendrá comienzo a las 8:00 de \n\n\nla noche EN PUNTO durante los días del 1 al 9 de diciembre. ¡Todos están bienvenidos!</p>",
           "alias": "purity/components",
           "_tags": [
@@ -568,7 +568,7 @@
               "color": "#26272c"
             },
             ".mbr-section-title B": {
-              "color": "#890602"
+              "color": "#26272c"
             }
           }
         },
