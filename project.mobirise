@@ -17,7 +17,7 @@
       ]
     },
     "versionFirst": "4.3.0",
-    "uniqCompNum": 399,
+    "uniqCompNum": 402,
     "versionPublish": "4.3.0",
     "favicon": "",
     "noImageResize": "",
@@ -531,31 +531,71 @@
         },
         {
           "_params": {
-            "showTitle": false,
-            "showCaption": false,
-            "paddingTop": "2",
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#ffffff",
+            "overlayColor": "#f1c050",
             "overlayOpacity": 0.7
           },
-          "title": "Easy to Use!",
-          "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "title": "<b>PARROQUIA</b> <b>SAN JOSE Y SAN MIGUEL</b>\n<div><b>NOVENA</b> <b>POSADAS NAVIDEÑAS 2017\n</b></div>",
+          "caption": "<p>Como cada año también este tendremos las Posadas Navideñas patrocinada por Acción Católica esperando esperando la celebración del Nacimiento del Niño Jesús. Mediante la Novena tendremos la oportunidad \nde leer pasajes bíblicos, cantar villancicos y elevar oraciones al Divino Niño Jesús pornuestra juventud, por la felicidad de los hogares y por la paz del mundo. Están invitados a participarde esta bella tradición, que nos enfoca el verdadero sentido de la Navidad. Abajo aparecenlas fechas, familias y direcciones donde se celebrarán las Posadas. Tendrá comienzo a las 8:00 de \n\n\nla noche EN PUNTO durante los días del 1 al 9 de diciembre. ¡Todos están bienvenidos!</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
           "_name": "content5",
-          "_anchor": "content5-b2"
+          "_anchor": "content5-b3",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#7e0202"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
+            },
+            ".mbr-section-title DIV": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title B": {
+              "color": "#890602"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/posadas-1400x474.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-b4"
         },
         {
           "_params": {
