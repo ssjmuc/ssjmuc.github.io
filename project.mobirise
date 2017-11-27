@@ -539,7 +539,7 @@
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff8e0",
+            "bgColor": "#7e0202",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -559,7 +559,7 @@
           "_styles": {
             "P": {
               "text-align": "center",
-              "color": "#7e0202"
+              "color": "#ffffff"
             },
             ".mbr-section-title": {
               "text-align": "center"
@@ -568,7 +568,7 @@
               "color": "#ffffff"
             },
             ".mbr-section-title B": {
-              "color": "#26272c"
+              "color": "#ffffff"
             }
           }
         },
