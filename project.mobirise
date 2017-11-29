@@ -17,7 +17,7 @@
       ]
     },
     "versionFirst": "4.3.0",
-    "uniqCompNum": 414,
+    "uniqCompNum": 415,
     "versionPublish": "4.3.0",
     "favicon": "",
     "noImageResize": "",
@@ -417,41 +417,37 @@
             "showText": true,
             "showButtons": true,
             "showArrow": false,
-            "contentAlign": "center",
+            "contentAlign": "left",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-720x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColor": "#fff8e0",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
             "overlayColor": "#053461",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": "0.6"
           },
-          "title": "<b>Schedule Your \n</b><div><b>Appointment \n</b></div><div><b>Today!</b></div>",
-          "text": "<p><i>Technology has changed the way you can view directories!<br>Our church directory will not be complete without you. </i></p><p><i>Join us to celebrate faith and family with our new church family album.</i><br><br><b>Username</b> : <i>NJ156&nbsp;&nbsp;</i>&nbsp;&nbsp;&nbsp; &nbsp; <b>Password</b>: <i>saints&nbsp;</i><br></p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://ucdir.com/schedule/login.php\" data-toolbar=\"-mbrBtnMove\">Click Here</a>",
+          "title": "Schedule Your\r Appointment\n&nbsp;<span style=\"font-size: 4.3rem;\">Today!</span>",
+          "text": "Technology has changed the way you can view directories!\n<br>Our church directory will not be complete without you.\n<br>\n<br>Join us to celebrate faith and family with our new church family album.\n<br>\n<br>Username : NJ156        Password: saints&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">English</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Español</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "header2",
+          "_name": "header4",
+          "_anchor": "header4-bi",
           "_styles": {
             "H1": {
-              "color": "#ffffff",
-              "text-align": "center"
+              "color": "#ffffff"
             },
             "P": {
-              "color": "#ffffff",
-              "font-size": "30px",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+              "color": "#ffffff"
             }
-          },
-          "_anchor": "header2-b9"
+          }
         },
         {
           "_inherit": "msg-box1",
