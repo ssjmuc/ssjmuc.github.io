@@ -428,7 +428,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000000",
+            "overlayColor": "#ffffff",
             "overlayOpacity": "0.7"
           },
           "title": "<b>Schedule Your \n</b><div><b>Appointment \n</b></div><div><b>Today!</b></div>",
