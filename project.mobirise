@@ -518,7 +518,7 @@
           },
           "title": "<b>Para mas Informacion!</b>",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Haz Click Aqui</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://ucdir.com/schedule/login.php\" data-toolbar=\"-mbrBtnMove\">Haz Click Aqui</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
