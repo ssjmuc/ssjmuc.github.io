@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "STS JOSEPH & MICHAEL PARISH",
-    "currentPage": "Home.html",
+    "currentPage": "page31.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -17,7 +17,7 @@
       ]
     },
     "versionFirst": "4.3.0",
-    "uniqCompNum": 415,
+    "uniqCompNum": 417,
     "versionPublish": "4.3.0",
     "favicon": "",
     "noImageResize": "",
@@ -514,7 +514,7 @@
           },
           "title": "<b>Para mas Informacion!</b>",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://ucdir.com/schedule/login.php\" data-toolbar=\"-mbrBtnMove\">Haz Click Aqui</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"page31.html\" data-toolbar=\"-mbrBtnMove\">Haz Click Aqui</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -10022,9 +10022,9 @@
             "showText": true,
             "showButtons": true,
             "showArrow": false,
-            "contentAlign": "center",
+            "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-720x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-32-1620x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -10033,25 +10033,34 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000000",
+            "overlayColor": "#053461",
             "overlayOpacity": "0.7"
           },
-          "title": "Schedule Your \n<div>&nbsp; &nbsp; Appointment \n</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Today!</div>",
-          "text": "<p>Technology has changed the way you can view directories!<br>Our church directory will not be complete without you. Join us to celebrate faith and family with our new church family album.<br><br><b>Username</b> : <i>NJ156&nbsp;&nbsp;</i>&nbsp;&nbsp;&nbsp; &nbsp; <b>Password</b>: <i>saints&nbsp;</i><br></p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://ucdir.com/schedule/login.php\" data-toolbar=\"-mbrBtnMove\">Click Here</a>",
+          "title": "<b>Schedule Your\n</b><div>&nbsp; &nbsp; <b>Appointment\n</b></div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>Today</b>!</div>",
+          "text": "Technology has changed the way you can view directories!\n<br>Our church directory will not be complete without you. Join us to celebrate faith and family with our new church family album.\n<br>\n<br><b>Username : </b>NJ156<b>        Password: </b>saints&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://ucdir.com/schedule/login.php\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
           "_name": "header2",
-          "_anchor": "header2-b8",
+          "_anchor": "header2-bj",
           "_styles": {
-            "H1": {
-              "color": "#ffffff"
+            "B": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             "P": {
+              "font-size": "30px",
               "color": "#ffffff",
-              "font-size": "36px"
+              "text-align": "right"
+            },
+            "H1": {
+              "color": "#ffffff",
+              "text-align": "right"
+            },
+            "DIV": {
+              "text-align": "right"
             }
           }
         },
@@ -10134,7 +10143,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": 0.7
           },
-          "title": "It's Time for a&nbsp;\n<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; New Directory!</div>",
+          "title": "<b>It's Time for a&nbsp;\n</b><div><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; New Directory!</b></div>",
           "caption": "<p><b>Schedual your proffesional photography session when you stop by the sign- up table at church or simply go online and follow the instrucitons below</b>.&nbsp;<span style=\"font-size: 1.25rem;\">If we dont see your name on our list of appointments, you will receive a phone call inviting you to participate.&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\"><b>Everyone who is photographed by Universal will recieve a complimentary 8x10 portrait and a directory!</b></span></p><p><span style=\"font-size: 1.25rem;\"><b>Universal provides a complete professional portrait studio right here at our church! </b>You'll enjoy a viariety of poses, backgrounds, portrait sizes, finish and framing options AND have the opportunity to purchase portraits to give family and friends.&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\"><br></span></p>",
           "alias": "purity/components",
           "_tags": [
@@ -10150,7 +10159,17 @@
               "color": "#ffffff"
             },
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "left"
+            },
+            ".mbr-section-title DIV": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "text-align": "left"
+            },
+            ".mbr-section-title B": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           }
         },
@@ -10221,31 +10240,6 @@
             }
           },
           "_anchor": "footer1-aq"
-        },
-        {
-          "_params": {
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/universe-1400x1813.png",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-b6"
         },
         {
           "_params": {
@@ -10353,9 +10347,9 @@
             "showText": true,
             "showButtons": true,
             "showArrow": false,
-            "contentAlign": "center",
+            "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-720x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-33-1620x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -10364,27 +10358,29 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.7"
+            "overlayColor": "#053461",
+            "overlayOpacity": 0.5
           },
-          "title": "\n<div><b>¡Programe su\n</b></div><div><b>&nbsp; &nbsp; Cita&nbsp;<span style=\"font-size: 4.3rem;\">Hoy!</span></b></div>",
-          "text": "<p><br>¡La tecnología ha cambiado la forma en que puedes ver los directorios!\n<br>Nuestro directorio de iglesias no estará completo sin ti. Únase a nosotros para celebrar la fe y la familia con nuestro nuevo álbum familiar de la iglesia.\n<br>\n<br><b>Nombre de Usuario</b>: NJ156 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Contraseña</b>: saints<br></p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://ucdir.com/schedule/login.php\" data-toolbar=\"-mbrBtnMove\">Click Here</a>",
+          "title": "<b>¡Programe su\n</b><div><b>&nbsp; &nbsp; Cita Hoy!</b></div>",
+          "text": "<br>¡La tecnología ha cambiado la forma en que puedes ver los directorios! \n<br>Nuestro directorio de iglesias no estará completo sin ti. Únase a nosotros para celebrar la fe y la familia con nuestro nuevo álbum familiar de la iglesia. \n<br>\n<br><b>Nombre de Usuario</b>: NJ156 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>Contraseña:</b> saints",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
           "_name": "header2",
+          "_anchor": "header2-bk",
           "_styles": {
-            "H1": {
+            "B": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "color": "#ffffff"
             },
             "P": {
               "color": "#ffffff",
-              "font-size": "36px"
+              "font-size": "30px"
             }
-          },
-          "_anchor": "header2-bb"
+          }
         },
         {
           "_styles": {
@@ -10465,8 +10461,8 @@
             "overlayColor": "#000000",
             "overlayOpacity": 0.7
           },
-          "title": "\r<div>&nbsp;¡Es Hora de un</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Nuevo Directorio!</div>",
-          "caption": "<p><span style=\"font-size: 1.25rem;\">Programe su sesión de fotografía profesional cuando pase por la mesa de inscripción en la iglesia o simplemente vaya en línea y siga las instrucciones a continuación. Si no vemos su nombre en nuestra lista de citas, recibirá una llamada telefónica invitándolo a participar.</span><br></p><p><span style=\"font-size: 1.25rem;\">¡Todos los que son fotografiados por Universal <i>recibirán</i> un retrato de <b>8x10</b> y un <b>directorio</b>!\r</span></p><p><span style=\"font-size: 1.25rem;\">¡Universal ofrece un estudio de retratos profesional completo aquí en nuestra iglesia! Disfrutarás de una variedad de poses, fondos, tamaños de retratos, opciones de acabado y encuadre Y tendrás la oportunidad de comprar retratos para regalar a familiares y amigos.</span></p>",
+          "title": "\n<div>&nbsp;<b>¡Es Hora de un</b></div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>Nuevo</b> <b>Directorio!</b></div>",
+          "caption": "<p><span style=\"font-size: 1.25rem;\">Programe su sesión de fotografía profesional cuando pase por la mesa de inscripción en la iglesia o simplemente vaya en línea y siga las instrucciones a continuación. Si no vemos su nombre en nuestra lista de citas, recibirá una llamada telefónica invitándolo a participar.</span><br></p><p><span style=\"font-size: 1.25rem;\">¡Todos los que son fotografiados por Universal <i>recibirán</i> un retrato de <b>8x10</b> y un <b>directorio</b>!\n</span></p><p><span style=\"font-size: 1.25rem;\">¡Universal ofrece un estudio de retratos profesional completo aquí en nuestra iglesia! Disfrutarás de una variedad de poses, fondos, tamaños de retratos, opciones de acabado y encuadre Y tendrás la oportunidad de comprar retratos para regalar a familiares y amigos.</span></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -10481,6 +10477,10 @@
             },
             ".mbr-section-title": {
               "color": "#ffffff"
+            },
+            ".mbr-section-title DIV": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_anchor": "content5-bd"

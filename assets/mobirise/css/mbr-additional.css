@@ -2261,12 +2261,23 @@
 
 
 
-#header2-b8 H1 {
-  color: #ffffff;
+
+
+
+#header2-bj B {
+  font-family: 'Oswald', sans-serif;
 }
-#header2-b8 P {
+#header2-bj P {
+  font-size: 30px;
   color: #ffffff;
-  font-size: 36px;
+  text-align: right;
+}
+#header2-bj H1 {
+  color: #ffffff;
+  text-align: right;
+}
+#header2-bj DIV {
+  text-align: right;
 }
 #dropdown-menu-ao .hide-buttons [data-button] {
   display: none !important;
@@ -2299,6 +2310,14 @@
 }
 #content5-ax .mbr-section-title {
   color: #ffffff;
+  text-align: left;
+}
+#content5-ax .mbr-section-title DIV {
+  font-family: 'Oswald', sans-serif;
+  text-align: left;
+}
+#content5-ax .mbr-section-title B {
+  font-family: 'Oswald', sans-serif;
 }
 #content5-at .mbr-section-title {
   text-align: right;
@@ -2328,6 +2347,8 @@
 
 
 
+
+
 #content5-be .mbr-section-title {
   text-align: right;
   color: #ffffff;
@@ -2338,12 +2359,13 @@
   font-family: 'Oswald', sans-serif;
   font-size: 30px;
 }
-#header2-bb H1 {
+#header2-bk B {
+  font-family: 'Oswald', sans-serif;
   color: #ffffff;
 }
-#header2-bb P {
+#header2-bk P {
   color: #ffffff;
-  font-size: 36px;
+  font-size: 30px;
 }
 #dropdown-menu-bc .hide-buttons [data-button] {
   display: none !important;
@@ -2376,6 +2398,9 @@
 }
 #content5-bd .mbr-section-title {
   color: #ffffff;
+}
+#content5-bd .mbr-section-title DIV {
+  font-family: 'Oswald', sans-serif;
 }
 #footer1-bf P {
   color: #26272c;
