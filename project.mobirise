@@ -10349,7 +10349,7 @@
             "showArrow": false,
             "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1704x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-33-1620x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -10374,7 +10374,7 @@
             "B": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "color": "#ffffff"
+              "color": "#d5f4f0"
             },
             "P": {
               "color": "#ffffff",
