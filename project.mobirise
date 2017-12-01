@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "STS JOSEPH & MICHAEL PARISH",
-    "currentPage": "Home.html",
+    "currentPage": "page31.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -10349,7 +10349,7 @@
             "showArrow": false,
             "contentAlign": "right",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-33-1620x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1704x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
