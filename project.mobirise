@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "STS JOSEPH & MICHAEL PARISH",
-    "currentPage": "Home.html",
+    "currentPage": "Directorio.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -1005,295 +1005,6 @@
               "text-align": "center"
             }
           }
-        }
-      ]
-    },
-    "Info.html": {
-      "settings": {
-        "title": "Information",
-        "order": 8
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "color": "#890602"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": false,
-            "showButton": false,
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Schedule &amp; Services",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-8a"
-        },
-        {
-          "_params": {
-            "showTitles": true,
-            "showCaptions": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "columns": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title1": "<b>Confessions</b>",
-          "caption1": "Saturday &nbsp;1:00 PM-2:00 PM\n<br>Sacred Heart Hall",
-          "title2": "<b>Marriages</b>",
-          "caption2": " Contact Rectory one year in advance. ",
-          "title3": "Religious  Ed",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Websites",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content4",
-          "_anchor": "content4-8b",
-          "_styles": {
-            "H4": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "30px",
-              "color": "#890602"
-            },
-            "P": {
-              "text-align": "center",
-              "color": "#053461"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitles": true,
-            "showCaptions": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "columns": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title1": "<b>CCD</b>",
-          "caption1": "Saturday- 10:00 AM",
-          "title2": "<b>Confirmation:</b>",
-          "caption2": " Thursdays - 4:00PM",
-          "title3": "<b>Adult Religious Ed:&nbsp;</b>",
-          "caption3": "Thursdays 7:30PM",
-          "title4": "Unlimited Websites",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content4",
-          "_anchor": "content4-8c",
-          "_styles": {
-            "H4": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "color": "#890602",
-              "font-size": "30px"
-            },
-            "P": {
-              "text-align": "center",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "color": "#053461"
-            },
-            "B": {
-              "font-size": "30px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/words-265x29.png",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Address</strong><br>1314 Central Ave\n<br>Union City, NJ  07087<br>",
-          "text2": "<strong>Contacts</strong><br>Email: stsjmuc@gmail.com\n<br>Phone: (201) 865-2325\n<br>Fax:      (201) 348-4412<br>",
-          "text3": "<strong>Links</strong><ul><li>Archdiocese of Newark</li><li><a href=\"http://www.ccannj.com/\">Catholic Charities</a></li><li><br></li></ul>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "color": "#26272c",
-              "text-align": "center"
-            },
-            "STRONG": {
-              "color": "#7e0202"
-            },
-            "UL": {
-              "color": "#f1c050"
-            }
-          },
-          "_anchor": "contacts1-87"
-        },
-        {
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
-            },
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#053461",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-family": "'Oxygen', sans-serif"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
-            },
-            ".navbar-toggler": {
-              "color": "#053461"
-            }
-          },
-          "_params": {
-            "logo": false,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": true,
-            "transparent": false,
-            "bgColor": "#ffffff",
-            "fontSize": "1",
-            "fontName": {
-              "name": "Oxygen",
-              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "css": "'Oxygen', sans-serif"
-            },
-            "fontColor": "#053461"
-          },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SS JOSEPH &amp; MICHAEL PARISH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Home.html#msg-box2-1h\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content4-1f\">Pastoral Staff</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page26.html\">STS J&amp;M Brief History</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page30.html\">Parish Registration Form</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Bulletin%2012.10.17.pdf\">Download Today's Bulletin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Calendar%20for%202017%2012.1.17%20updated.pdf\">CCD Calendar 2017-2018<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Ministries</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Ministries</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Prayer and Workship</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page24.html\">Food Pantry</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Sacraments</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Sacrament&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\">Baptism</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">Reconciliation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\">Eucharist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\">Confirmation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page17.html\">Matrimony</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page18.html\">Anointing the Sick</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page19.html\">Holy Orders</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Faith Information</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Religious Education</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page20.html\">Sacrament Preparation</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Contact Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Links to Our Affiliations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/words-1140x128.png",
-              "class": "",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">STS Joseph &amp; Michael&nbsp;</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-88"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) SS JOSEPH &amp; MICHAEL &nbsp;<a href=\"https://mobirise.com/\" class=\"text-black\">Terms of Use</a>  | <a href=\"https://mobirise.com/\" class=\"text-black\">Privacy Policy</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#26272c",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "footer1-89"
         }
       ]
     },
@@ -8401,828 +8112,6 @@
         }
       ]
     },
-    "UpdateEspanol.html": {
-      "settings": {
-        "title": "Update Espanol",
-        "order": 5
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
-            },
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#053461",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-family": "'Oxygen', sans-serif"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
-            },
-            ".navbar-toggler": {
-              "color": "#053461"
-            }
-          },
-          "_params": {
-            "logo": false,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": true,
-            "transparent": false,
-            "bgColor": "#ffffff",
-            "fontSize": "1",
-            "fontName": {
-              "name": "Oxygen",
-              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "css": "'Oxygen', sans-serif"
-            },
-            "fontColor": "#053461"
-          },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SS JOSEPH &amp; MICHAEL PARISH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Home.html#msg-box2-1h\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content4-1f\">Pastoral Staff</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page26.html\">STS J&amp;M Brief History</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page30.html\">Parish Registration Form</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Bulletin%2012.10.17.pdf\">Download Today's Bulletin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Calendar%20for%202017%2012.1.17%20updated.pdf\">CCD Calendar 2017-2018<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Ministries</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Ministries</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Prayer and Workship</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page24.html\">Food Pantry</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Sacraments</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Sacrament&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\">Baptism</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">Reconciliation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\">Eucharist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\">Confirmation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page17.html\">Matrimony</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page18.html\">Anointing the Sick</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page19.html\">Holy Orders</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Faith Information</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Religious Education</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page20.html\">Sacrament Preparation</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Contact Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Links to Our Affiliations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/words-1140x128.png",
-              "class": "",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">STS Joseph &amp; Michael&nbsp;</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-80"
-        },
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            },
-            ".mbr-section-title DIV": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "color": "#f1c050"
-            },
-            ".mbr-section-title B": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "color": "#f1c050"
-            },
-            ".lead P": {
-              "color": "#000000",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "<font color=\"#f1c050\" face=\"Oxygen, sans-serif\"><b>Actualización para el 6 de </b>Noviembre de 2017</font><br><div><br></div>",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><b>Armazones de Techo\n</b></p><p>Las nuevas tejas del techo se instalaron y el trabajo se completó a fines de octubre como planeado. El andamio se mantendrá en su lugar para la duración de la renovación exterior del campanario y la torre.  Los escombros del daño del techo entre el techo exterior y el techo de la iglesia se han eliminado.\n</p><p><b>Arquitectos / Ingenieros\n</b></p><p>Hubo una reunión el 24 de octubre con la oficina de PMA, Foresight Architects y Paul Beck (ingeniero estructural).  El Sr. Beck supervisará el reemplazo del campanario y la reparación y renovación de la torre.  Foresight Architects presentó a el comité consultivo de la parroquia varios diseños alternativos junto con una revisión de posibles escenarios de planes de iluminación.  Se espera que el comité decida sobre un enfoque de colaboración para ambos durante este mes.  El jueves de esta semana, el Sr. Hundt se reunió con el Padre Dente, Archdiocesan Office of Divine Worship, para hablar sobre las opciones disponibles.\n<span style=\"font-size: 1.25rem;\"></span></p><p>El comité también revisó una propuesta para instalar un campanario de reemplazo de aluminio de altura completa.  El estilo y la estética del campanario será prácticamente idéntica a la original, pero hay decisiones para tomar con respecto a la composición (cobre o aluminio).  Se debe llegar a una decisión final en la próxima reunión, el 15 de noviembre.\n</p><p><b>El Enlucido y Pintura   \n</b></p><p>Las ofertas competitivas se deben recibir a principios de diciembre y todavía estamos en el objetivo de confirmar una línea de tiempo completa para la ejecución y la finalización para el 1 de enero.\n</p><p>Nuestro estimado es que el trabajo completo tomará seis a ocho meses de principio a fin. Continuaremos actualizando esta línea de tiempo, que es un trabajo en progreso.  Le invitamos a enviar cualquier pregunta al </p><p><b>Pe. Tim Graff</b>, New Energies, Parish Transition Project at Rev.Timothy.Graff@rcan.org; </p><p><b>Gladys Pozza</b>, Coordinator of Parish Outreach at </p><p>Gladys.Pozza@rcan.org; or </p><p><b>Steve Belloise</b>, Executive Director of Property Management at Steve.Belloise@rcan.org.</p><p><b><br></b></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-83"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/words-265x29.png",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Address</strong><br>1314 Central Ave\n<br>Union City, NJ  07087<br>",
-          "text2": "<strong>Contacts</strong><br>Email: stsjmuc@gmail.com\n<br>Phone: (201) 865-2325\n<br>Fax:      (201) 348-4412<br>",
-          "text3": "<strong>Links</strong><ul><li>Archdiocese of Newark</li><li><a href=\"http://www.ccannj.com/\">Catholic Charities</a></li><li><br></li></ul>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "color": "#26272c",
-              "text-align": "center"
-            },
-            "STRONG": {
-              "color": "#7e0202"
-            },
-            "UL": {
-              "color": "#f1c050"
-            }
-          },
-          "_anchor": "contacts1-81"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) SS JOSEPH &amp; MICHAEL &nbsp;<a href=\"https://mobirise.com/\" class=\"text-black\">Terms of Use</a>  | <a href=\"https://mobirise.com/\" class=\"text-black\">Privacy Policy</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#26272c",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "footer1-82"
-        }
-      ]
-    },
-    "UpdateEnglish.html": {
-      "settings": {
-        "title": "Update 2017",
-        "order": 6
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
-            },
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#053461",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-family": "'Oxygen', sans-serif"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
-            },
-            ".navbar-toggler": {
-              "color": "#053461"
-            }
-          },
-          "_params": {
-            "logo": false,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": true,
-            "transparent": false,
-            "bgColor": "#ffffff",
-            "fontSize": "1",
-            "fontName": {
-              "name": "Oxygen",
-              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "css": "'Oxygen', sans-serif"
-            },
-            "fontColor": "#053461"
-          },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SS JOSEPH &amp; MICHAEL PARISH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Home.html#msg-box2-1h\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content4-1f\">Pastoral Staff</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page26.html\">STS J&amp;M Brief History</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page30.html\">Parish Registration Form</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Bulletin%2012.10.17.pdf\">Download Today's Bulletin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Calendar%20for%202017%2012.1.17%20updated.pdf\">CCD Calendar 2017-2018<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Ministries</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Ministries</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Prayer and Workship</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page24.html\">Food Pantry</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Sacraments</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Sacrament&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\">Baptism</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">Reconciliation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\">Eucharist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\">Confirmation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page17.html\">Matrimony</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page18.html\">Anointing the Sick</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page19.html\">Holy Orders</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Faith Information</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Religious Education</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page20.html\">Sacrament Preparation</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Contact Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Links to Our Affiliations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/words-1140x128.png",
-              "class": "",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">STS Joseph &amp; Michael&nbsp;</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-7s"
-        },
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".mbr-section-title B": {
-              "color": "#7e0202"
-            },
-            ".lead P": {
-              "color": "#26272c"
-            },
-            ".mbr-section-title DIV": {
-              "color": "#f1c050"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "<div><font color=\"#7e0202\"><b>Update for&nbsp;</b></font></div><div>November 6th, 2017</div>",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><b>Roof&nbsp;</b></p><p>The new roof shingles were installed work was completed by the end of October as scheduled. Scaffold will remain in place for the duration of the exterior renovation on the steeple and tower. The debris from the roof damage left between the outer roof and the Church ceiling has been removed.   \n</p><p><b>Architects/Engineers\n</b></p><p>There was a meeting on October 24th with the Office of PMA, Foresight Architects and Paul Beck (structural engineer).  Mr. Beck will oversee the steeple replacement and tower repair and renovation. Foresight Architects presented several alternative floor plans for the parish committee along with a review of potential lighting plan scenarios.  It is hoped that the committee will decide on a collaborative approach for both sometime during this month. On Thursday of this week Mr. Hundt met with Father Dente from the Archdiocesan Office of Divine Worship to discuss the options at hand.\n</p><p>&nbsp;A proposal to install a full-height aluminum replacement steeple was also reviewed by the committee.  The style and aesthetics of the steeple will be virtually identical to the original, however, decisions must still be made with respect to composition (copper or aluminum). A final decision should be reached at the next meeting, which is scheduled for November 15th.  \n</p><p><b>Plastering and Painting\n</b></p><p>Competitive bids should be received by early December and we are still on target to confirm a comprehensive timeline for execution and completion by January 1st. \n</p><p>As mentioned, our estimate for the entire scope of work is six to eight months from start to finish and we will continue to update this timeline as the project evolves.  You are welcome to e-mail any questions to either </p><p>Father Tim Graff, New Energies, Parish Transition Project at </p><p>Rev.Timothy.Graff@rcan.org; </p><p>Gladys Pozza, Coordinator of Parish Outreach at</p><p> Gladys.Pozza@rcan.org; or</p><p> Steve Belloise, Executive Director of Property Management at </p><p>steve.belloise@rcan.org. \n</p><p><br></p><p><br></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-7v"
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/words-265x29.png",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Address</strong><br>1314 Central Ave\n<br>Union City, NJ  07087<br>",
-          "text2": "<strong>Contacts</strong><br>Email: stsjmuc@gmail.com\n<br>Phone: (201) 865-2325\n<br>Fax:      (201) 348-4412<br>",
-          "text3": "<strong>Links</strong><ul><li>Archdiocese of Newark</li><li><a href=\"http://www.ccannj.com/\">Catholic Charities</a></li><li><br></li></ul>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "color": "#26272c",
-              "text-align": "center"
-            },
-            "STRONG": {
-              "color": "#7e0202"
-            },
-            "UL": {
-              "color": "#f1c050"
-            }
-          },
-          "_anchor": "contacts1-7t"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) SS JOSEPH &amp; MICHAEL &nbsp;<a href=\"https://mobirise.com/\" class=\"text-black\">Terms of Use</a>  | <a href=\"https://mobirise.com/\" class=\"text-black\">Privacy Policy</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#26272c",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "footer1-7u"
-        }
-      ]
-    },
-    "PastoralStaff.html": {
-      "settings": {
-        "title": "Pastoral Staff",
-        "order": 7
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
-            },
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#053461",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-family": "'Oxygen', sans-serif"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
-            },
-            ".navbar-toggler": {
-              "color": "#053461"
-            }
-          },
-          "_params": {
-            "logo": false,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": true,
-            "transparent": false,
-            "bgColor": "#ffffff",
-            "fontSize": "1",
-            "fontName": {
-              "name": "Oxygen",
-              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "css": "'Oxygen', sans-serif"
-            },
-            "fontColor": "#053461"
-          },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SS JOSEPH &amp; MICHAEL PARISH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Home.html#msg-box2-1h\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content4-1f\">Pastoral Staff</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page26.html\">STS J&amp;M Brief History</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page30.html\">Parish Registration Form</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Bulletin%2012.10.17.pdf\">Download Today's Bulletin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Calendar%20for%202017%2012.1.17%20updated.pdf\">CCD Calendar 2017-2018<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Ministries</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Ministries</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Prayer and Workship</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page24.html\">Food Pantry</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Sacraments</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Sacrament&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\">Baptism</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">Reconciliation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\">Eucharist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\">Confirmation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page17.html\">Matrimony</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page18.html\">Anointing the Sick</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page19.html\">Holy Orders</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Faith Information</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Religious Education</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page20.html\">Sacrament Preparation</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Contact Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Links to Our Affiliations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/words-1140x128.png",
-              "class": "",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">STS Joseph &amp; Michael&nbsp;</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-78"
-        },
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".mbr-section-title B": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": false,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#7e0202",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "<b>Pastoral Staff</b>",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-7a"
-        },
-        {
-          "_params": {
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/c3481388-1-1400x1866.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-7c"
-        },
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".mbr-section-title B": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "showTitle": false,
-            "showMeta": false,
-            "showText": false,
-            "showButton": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#7e0202",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "<b>Modern Styles</b>",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-7d"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": "30",
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/91de43f7-1400x929.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Rev. Aro Nathan.,&nbsp;",
-          "text": "<p><i>Pastor</i></p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-7e",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "32px",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "color": "#053461"
-            }
-          }
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "23",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-18-1620x1080.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Rev. Guillermo Mora Ph.L",
-          "text": "<p><i>Parochial Vicar</i></p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-7f",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "color": "#7e0202"
-            }
-          }
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": "32",
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/photo-4.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Rev. Anthony Savarimuthu",
-          "text": "<p><i>Priest in Residence</i></p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-7g",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "color": "#053461"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/words-265x29.png",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Address</strong><br>1314 Central Ave\n<br>Union City, NJ  07087<br>",
-          "text2": "<strong>Contacts</strong><br>Email: stsjmuc@gmail.com\n<br>Phone: (201) 865-2325\n<br>Fax:      (201) 348-4412<br>",
-          "text3": "<strong>Links</strong><ul><li>Archdiocese of Newark</li><li><a href=\"http://www.ccannj.com/\">Catholic Charities</a></li><li><br></li></ul>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "color": "#26272c",
-              "text-align": "center"
-            },
-            "STRONG": {
-              "color": "#7e0202"
-            },
-            "UL": {
-              "color": "#f1c050"
-            }
-          },
-          "_anchor": "contacts1-79"
-        }
-      ]
-    },
     "StJoseph.html": {
       "settings": {
         "title": "St Joseph",
@@ -10088,61 +8977,12 @@
         }
       ]
     },
-    "page33.html": {
+    "Anuncio Parroquial.html": {
       "settings": {
-        "title": "Directory Photography",
-        "order": 3
+        "title": "Anuncio",
+        "order": 1
       },
       "components": [
-        {
-          "_inherit": "header1",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": false,
-            "contentAlign": "right",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-32-1620x1080.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#053461",
-            "overlayOpacity": "0.7"
-          },
-          "title": "<b>Schedule Your\n</b><div>&nbsp; &nbsp; <b>Appointment\n</b></div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>Today</b>!</div>",
-          "text": "Technology has changed the way you can view directories!\n<br>Our church directory will not be complete without you. Join us to celebrate faith and family with our new church family album.\n<br>\n<br><b>Username : </b>NJ156<b>        Password: </b>saints&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://ucdir.com/schedule/login.php\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header2",
-          "_anchor": "header2-bj",
-          "_styles": {
-            "B": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            "P": {
-              "font-size": "30px",
-              "color": "#ffffff",
-              "text-align": "right"
-            },
-            "H1": {
-              "color": "#ffffff",
-              "text-align": "right"
-            },
-            "DIV": {
-              "text-align": "right"
-            }
-          }
-        },
         {
           "_styles": {
             ".hide-buttons [data-button]": {
@@ -10192,8 +9032,7 @@
               "height": 128,
               "alt": "Mobirise",
               "link": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             }
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">STS Joseph &amp; Michael&nbsp;</a>",
@@ -10201,97 +9040,7 @@
             "Theme"
           ],
           "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-ao"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-25-1620x1080.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": 0.7
-          },
-          "title": "<b>It's Time for a&nbsp;\n</b><div><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; New Directory!</b></div>",
-          "caption": "<p><b>Schedual your proffesional photography session when you stop by the sign- up table at church or simply go online and follow the instrucitons below</b>.&nbsp;<span style=\"font-size: 1.25rem;\">If we dont see your name on our list of appointments, you will receive a phone call inviting you to participate.&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\"><b>Everyone who is photographed by Universal will recieve a complimentary 8x10 portrait and a directory!</b></span></p><p><span style=\"font-size: 1.25rem;\"><b>Universal provides a complete professional portrait studio right here at our church! </b>You'll enjoy a viariety of poses, backgrounds, portrait sizes, finish and framing options AND have the opportunity to purchase portraits to give family and friends.&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\"><br></span></p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-ax",
-          "_styles": {
-            "P": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-size": "22px",
-              "color": "#ffffff"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff",
-              "text-align": "left"
-            },
-            ".mbr-section-title DIV": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "text-align": "left"
-            },
-            ".mbr-section-title B": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1080x1080.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#7e0202",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#7e0202",
-            "overlayOpacity": "0.8"
-          },
-          "title": "<i>Every</i> <i>Family Photographed</i>",
-          "caption": "<p>will receive a complimentary 8x10 portrait and a church directory</p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-at",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "right",
-              "color": "#ffffff"
-            },
-            "P": {
-              "text-align": "right",
-              "color": "#ffffff",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "30px"
-            }
-          }
+          "_anchor": "dropdown-menu-bv"
         },
         {
           "_params": {
@@ -10318,303 +9067,262 @@
               "text-align": "center"
             }
           },
-          "_anchor": "footer1-aq"
+          "_anchor": "footer1-bx"
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "showTitle": true,
+            "showCaption": false,
+            "paddingTop": 3,
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/words-265x29.png",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Address</strong><br>1314 Central Ave\n<br>Union City, NJ  07087<br>",
-          "text2": "<strong>Contacts</strong><br>Email: stsjmuc@gmail.com\n<br>Phone: (201) 865-2325\n<br>Fax:      (201) 348-4412<br>",
-          "text3": "<strong>Links</strong><ul><li>Archdiocese of Newark</li><li><a href=\"http://www.ccannj.com/\">Catholic Charities</a></li><li><br></li></ul>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "color": "#26272c",
-              "text-align": "center"
-            },
-            "STRONG": {
-              "color": "#7e0202"
-            },
-            "UL": {
-              "color": "#f1c050"
-            }
-          },
-          "_anchor": "contacts1-ap"
-        }
-      ]
-    },
-    "page31.html": {
-      "settings": {
-        "title": "DIrectorio",
-        "order": 4
-      },
-      "components": [
-        {
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1080x1080.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#7e0202",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#7e0202",
-            "overlayOpacity": "0.8"
-          },
-          "title": "<i>Cada Familia Fotografiada</i>",
-          "caption": "<p>recibirá un retrato complementario de 8x10 y un directorio de la iglesia<br></p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "right",
-              "color": "#ffffff"
-            },
-            "P": {
-              "text-align": "right",
-              "color": "#ffffff",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "30px"
-            }
-          },
-          "_anchor": "content5-be"
-        },
-        {
-          "_inherit": "header1",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": false,
-            "contentAlign": "right",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-33-1620x1080.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
             "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#053461",
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "<b>Anuncios Parroquiales\n</b><div><b>Parroquia San Jose y Miguel\n</b></div><div><b><i>9-10 de Diciembre, 2017\n</i></b></div><div><br></div>",
+          "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-c6",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#7e0202",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<b>¡Programe su\n</b><div><b>&nbsp; &nbsp; Cita Hoy!</b></div>",
-          "text": "<br>¡La tecnología ha cambiado la forma en que puedes ver los directorios! \n<br>Nuestro directorio de iglesias no estará completo sin ti. Únase a nosotros para celebrar la fe y la familia con nuestro nuevo álbum familiar de la iglesia. \n<br>\n<br><b>Nombre de Usuario</b>: NJ156 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>Contraseña:</b> saints",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/ffff-600x654.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/churchh-374x362.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/nativity-600x620.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-websites.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "<b>Universal Church Directories</b>",
+          "caption1": "Universal Church Directories vendrán a nuestra Capilla del Sagrado Corazón el lunes 18 de diciembre y el martes 19 de diciembre a partir de las 2:00p.m. para fotografiar profesionalmente a nuestras familias y darnos un retrato de 8x10 y un directorio gratis. Todavía quedan muchos espacios disponibles. Familias de todos los tamaños están bienvenidos para obtener un retrato gratuito de 8x10. Para obtener más información, consulte el boletín de esta semana.",
+          "title2": "<b>Calendario de Misa de Navidad</b>",
+          "caption2": "Los parroquianos que reciben los sobres del ofertorio en su hogar han comenzado a recibir el Calendario de Misa de Navidad. Lamentablemente, los calendarios se envían para imprimir con meses de anticipación y algunos de los detalles ahora han cambiado. Por favor, siga el Calendario de Navidad que está en el boletín de esta semana, folletos y en nuestro página web.<div><br></div><br><div><br></div>",
+          "title3": "<b>Obra Anual de Navidad</b>",
+          "caption3": "Te invitamos a redescubrir el verdadero significado de la Navidad. Los niños de nuestra parroquia realizarán nuestra obra anual de Navidad el domingo 10 de diciembre a las 3:00 p.m. en el gimnasio de Mother Seton School. Todos están invitados.<br><br><br><br><br><br><br>",
+          "title4": "Unlimited Sites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "header2",
-          "_anchor": "header2-bk",
+          "_name": "features1",
+          "_anchor": "features1-c7",
           "_styles": {
-            "B": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "color": "#d5f4f0"
+            "H4": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
-            "P": {
-              "color": "#ffffff",
-              "font-size": "30px"
+            "B": {
+              "color": "#7e0202"
             }
           }
         },
         {
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
-            },
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#053461",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-family": "'Oxygen', sans-serif"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
-            },
-            ".navbar-toggler": {
-              "color": "#053461"
-            }
-          },
           "_params": {
-            "logo": false,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": true,
-            "transparent": false,
-            "bgColor": "#ffffff",
-            "fontSize": "1",
-            "fontName": {
-              "name": "Oxygen",
-              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "css": "'Oxygen', sans-serif"
-            },
-            "fontColor": "#053461"
-          },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SS JOSEPH &amp; MICHAEL PARISH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Home.html#msg-box2-1h\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content4-1f\">Pastoral Staff</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page26.html\">STS J&amp;M Brief History</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page30.html\">Parish Registration Form</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Bulletin%2012.10.17.pdf\">Download Today's Bulletin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Calendar%20for%202017%2012.1.17%20updated.pdf\">CCD Calendar 2017-2018<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Ministries</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Ministries</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Prayer and Workship</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page24.html\">Food Pantry</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Sacraments</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Sacrament&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\">Baptism</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">Reconciliation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\">Eucharist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\">Confirmation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page17.html\">Matrimony</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page18.html\">Anointing the Sick</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page19.html\">Holy Orders</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Faith Information</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Religious Education</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page20.html\">Sacrament Preparation</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Contact Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Links to Our Affiliations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/words-1140x128.png",
-              "class": "",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">STS Joseph &amp; Michael&nbsp;</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-bc"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-25-1620x1080.jpg",
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#fff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": 0.7
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "title": "\n<div>&nbsp;<b>¡Es Hora de un</b></div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>Nuevo</b> <b>Directorio!</b></div>",
-          "caption": "<p><span style=\"font-size: 1.25rem;\">Programe su sesión de fotografía profesional cuando pase por la mesa de inscripción en la iglesia o simplemente vaya en línea y siga las instrucciones a continuación. Si no vemos su nombre en nuestra lista de citas, recibirá una llamada telefónica invitándolo a participar.</span><br></p><p><span style=\"font-size: 1.25rem;\">¡Todos los que son fotografiados por Universal <i>recibirán</i> un retrato de <b>8x10</b> y un <b>directorio</b>!\n</span></p><p><span style=\"font-size: 1.25rem;\">¡Universal ofrece un estudio de retratos profesional completo aquí en nuestra iglesia! Disfrutarás de una variedad de poses, fondos, tamaños de retratos, opciones de acabado y encuadre Y tendrás la oportunidad de comprar retratos para regalar a familiares y amigos.</span></p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_styles": {
-            "P": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-size": "22px",
-              "color": "#ffffff"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-title DIV": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            }
-          },
-          "_anchor": "content5-bd"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) SS JOSEPH &amp; MICHAEL &nbsp;<a href=\"https://mobirise.com/\" class=\"text-black\">Terms of Use</a>  | <a href=\"https://mobirise.com/\" class=\"text-black\">Privacy Policy</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#26272c",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "footer1-bf"
-        },
-        {
-          "_params": {
-            "showText": false
-          },
-          "media": {
+          "media1": {
             "image": {
+              "src": "@PROJECT_PATH@/assets/images/virgen-de-guadalupe-6-300x300.png",
+              "class": "card-img-top",
+              "width": 600,
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/universe-1400x1813.png",
-              "width": 1400,
               "link": "",
               "alt": "",
               "title": ""
             },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
             }
           },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/billboard-600x466.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/interviews-600x529.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-websites.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "<b>Fiesta de Nuestra Señora de Guadalupe<br><br>\n</b><div><b>Celebración de Nuestra Patrona de Las Américas</b></div>",
+          "caption1": "El martes, 12 de diciembre, los Guadalupanos celebrarán la Fiesta de Nuestra Señora de Guadalupe a las 7:00 p.m. en el gimnasio de la Escuela Mother Seton con una misa especial. Todos están invitados a unirse a esta celebración especial.\n<br>\n<br>La Parroquia San José y San los Miguel invita a la gran celebración de Nuestra Patrona de Las Américas, La Virgen de Guadalupe el Martes 12 de Diciembre comenzando a las 6 p.m. con la adoración al Santísimo siguiendo con la misa a las 7:00 p.m. en el gimnasio de la Escuela Mother Seton.&nbsp;<br>",
+          "title2": "<b><br></b><br><br><b>Boletin</b>",
+          "caption2": "Por favor llévese un boletín este fin de semana que tiene información sobre eventos y actividades en nuestra parroquia.&nbsp;<br> ",
+          "title3": "<b><br></b><br><b>Entrevistas</b>",
+          "caption3": "Estamos entrevistando candidatos para unirse a nuestro Comité del Consejo Parroquial, así como a nuestro Comité del Consejo Financiero Parroquial. El Consejo Parroquial se reúne unas pocas veces al año para revisar y discutir programas y asuntos relacionados con la vida parroquial y el Consejo Financiero Parroquial se reúne durante el año con el párroco para revisar y administrar las finanzas de la parroquia. Todo el trabajo del comité es para construir una comunidad de fe, proclamar la Palabra de Dios, llamar a la gente a orar y motivar a las personas a servir a los demás. Si desea discutir sobre la posibilidad de ofrecer su tiempo y talentos como voluntario, comuníquese con el padre Nathan.",
+          "title4": "Unlimited Sites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "image2",
-          "_anchor": "image2-bg"
+          "_name": "features1",
+          "_anchor": "features1-c8",
+          "_styles": {
+            "H4": {
+              "color": "#7e0202",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          }
         },
         {
           "_params": {
@@ -10664,11 +9372,11 @@
               "color": "#f1c050"
             }
           },
-          "_anchor": "contacts1-bh"
+          "_anchor": "contacts1-bw"
         }
       ]
     },
-    "page32.html": {
+    "Parish Annoucnements.html": {
       "settings": {
         "title": "Announcements",
         "order": 2
@@ -11075,10 +9783,590 @@
         }
       ]
     },
-    "page34.html": {
+    "Directory.html": {
       "settings": {
-        "title": "Anuncio",
-        "order": 1
+        "title": "Directory Photography",
+        "order": 3
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-32-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#053461",
+            "overlayOpacity": "0.7"
+          },
+          "title": "<b>Schedule Your\n</b><div>&nbsp; &nbsp; <b>Appointment\n</b></div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>Today</b>!</div>",
+          "text": "Technology has changed the way you can view directories!\n<br>Our church directory will not be complete without you. Join us to celebrate faith and family with our new church family album.\n<br>\n<br><b>Username : </b>NJ156<b>        Password: </b>saints&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary-outline btn-primary\" href=\"https://ucdir.com/schedule/login.php\" data-toolbar=\"-mbrBtnMove\">CLICK HERE</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-bj",
+          "_styles": {
+            "B": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "P": {
+              "font-size": "30px",
+              "color": "#ffffff",
+              "text-align": "right"
+            },
+            "H1": {
+              "color": "#ffffff",
+              "text-align": "right"
+            },
+            "DIV": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#053461",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#053461"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
+            },
+            "fontColor": "#053461"
+          },
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SS JOSEPH &amp; MICHAEL PARISH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Home.html#msg-box2-1h\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content4-1f\">Pastoral Staff</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page26.html\">STS J&amp;M Brief History</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page30.html\">Parish Registration Form</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Bulletin%2012.10.17.pdf\">Download Today's Bulletin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Calendar%20for%202017%2012.1.17%20updated.pdf\">CCD Calendar 2017-2018<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Ministries</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Ministries</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Prayer and Workship</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page24.html\">Food Pantry</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Sacraments</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Sacrament&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\">Baptism</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">Reconciliation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\">Eucharist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\">Confirmation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page17.html\">Matrimony</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page18.html\">Anointing the Sick</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page19.html\">Holy Orders</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Faith Information</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Religious Education</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page20.html\">Sacrament Preparation</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Contact Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Links to Our Affiliations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/words-1140x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">STS Joseph &amp; Michael&nbsp;</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-ao"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-25-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": 0.7
+          },
+          "title": "<b>It's Time for a&nbsp;\n</b><div><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; New Directory!</b></div>",
+          "caption": "<p><b>Schedual your proffesional photography session when you stop by the sign- up table at church or simply go online and follow the instrucitons below</b>.&nbsp;<span style=\"font-size: 1.25rem;\">If we dont see your name on our list of appointments, you will receive a phone call inviting you to participate.&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\"><b>Everyone who is photographed by Universal will recieve a complimentary 8x10 portrait and a directory!</b></span></p><p><span style=\"font-size: 1.25rem;\"><b>Universal provides a complete professional portrait studio right here at our church! </b>You'll enjoy a viariety of poses, backgrounds, portrait sizes, finish and framing options AND have the opportunity to purchase portraits to give family and friends.&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\"><br></span></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-ax",
+          "_styles": {
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "22px",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "text-align": "left"
+            },
+            ".mbr-section-title DIV": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "text-align": "left"
+            },
+            ".mbr-section-title B": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1080x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#7e0202",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#7e0202",
+            "overlayOpacity": "0.8"
+          },
+          "title": "<i>Every</i> <i>Family Photographed</i>",
+          "caption": "<p>will receive a complimentary 8x10 portrait and a church directory</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-at",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "right",
+              "color": "#ffffff"
+            },
+            "P": {
+              "text-align": "right",
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "30px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) SS JOSEPH &amp; MICHAEL &nbsp;<a href=\"https://mobirise.com/\" class=\"text-black\">Terms of Use</a>  | <a href=\"https://mobirise.com/\" class=\"text-black\">Privacy Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#26272c",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-aq"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/words-265x29.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>1314 Central Ave\n<br>Union City, NJ  07087<br>",
+          "text2": "<strong>Contacts</strong><br>Email: stsjmuc@gmail.com\n<br>Phone: (201) 865-2325\n<br>Fax:      (201) 348-4412<br>",
+          "text3": "<strong>Links</strong><ul><li>Archdiocese of Newark</li><li><a href=\"http://www.ccannj.com/\">Catholic Charities</a></li><li><br></li></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#26272c",
+              "text-align": "center"
+            },
+            "STRONG": {
+              "color": "#7e0202"
+            },
+            "UL": {
+              "color": "#f1c050"
+            }
+          },
+          "_anchor": "contacts1-ap"
+        }
+      ]
+    },
+    "Directorio.html": {
+      "settings": {
+        "title": "DIrectorio",
+        "order": 4
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1080x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#7e0202",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#7e0202",
+            "overlayOpacity": "0.8"
+          },
+          "title": "<i>Cada Familia Fotografiada</i>",
+          "caption": "<p>recibirá un retrato complementario de 8x10 y un directorio de la iglesia<br></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "right",
+              "color": "#ffffff"
+            },
+            "P": {
+              "text-align": "right",
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "content5-be"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-33-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#053461",
+            "overlayOpacity": 0.5
+          },
+          "title": "<b>¡Programe su\n</b><div><b>&nbsp; &nbsp; Cita Hoy!</b></div>",
+          "text": "<br>¡La tecnología ha cambiado la forma en que puedes ver los directorios! \n<br>Nuestro directorio de iglesias no estará completo sin ti. Únase a nosotros para celebrar la fe y la familia con nuestro nuevo álbum familiar de la iglesia. \n<br>\n<br><b>Nombre de Usuario</b>: NJ156 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>Contraseña:</b> saints",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-bk",
+          "_styles": {
+            "B": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "color": "#d5f4f0"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-size": "30px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#053461",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#053461"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
+            },
+            "fontColor": "#053461"
+          },
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SS JOSEPH &amp; MICHAEL PARISH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Home.html#msg-box2-1h\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content4-1f\">Pastoral Staff</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page26.html\">STS J&amp;M Brief History</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page30.html\">Parish Registration Form</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Bulletin%2012.10.17.pdf\">Download Today's Bulletin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Calendar%20for%202017%2012.1.17%20updated.pdf\">CCD Calendar 2017-2018<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Ministries</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Ministries</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Prayer and Workship</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page24.html\">Food Pantry</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Sacraments</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Sacrament&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\">Baptism</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">Reconciliation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\">Eucharist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\">Confirmation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page17.html\">Matrimony</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page18.html\">Anointing the Sick</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page19.html\">Holy Orders</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Faith Information</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Religious Education</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page20.html\">Sacrament Preparation</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Contact Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Links to Our Affiliations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/words-1140x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">STS Joseph &amp; Michael&nbsp;</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-bc"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-25-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": 0.7
+          },
+          "title": "\n<div>&nbsp;<b>¡Es Hora de un</b></div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>Nuevo</b> <b>Directorio!</b></div>",
+          "caption": "<p><span style=\"font-size: 1.25rem;\">Programe su sesión de fotografía profesional cuando pase por la mesa de inscripción en la iglesia o simplemente vaya en línea y siga las instrucciones a continuación. Si no vemos su nombre en nuestra lista de citas, recibirá una llamada telefónica invitándolo a participar.</span><br></p><p><span style=\"font-size: 1.25rem;\">¡Todos los que son fotografiados por Universal <i>recibirán</i> un retrato de <b>8x10</b> y un <b>directorio</b>!\n</span></p><p><span style=\"font-size: 1.25rem;\">¡Universal ofrece un estudio de retratos profesional completo aquí en nuestra iglesia! Disfrutarás de una variedad de poses, fondos, tamaños de retratos, opciones de acabado y encuadre Y tendrás la oportunidad de comprar retratos para regalar a familiares y amigos.</span></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_styles": {
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "22px",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title DIV": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_anchor": "content5-bd"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) SS JOSEPH &amp; MICHAEL &nbsp;<a href=\"https://mobirise.com/\" class=\"text-black\">Terms of Use</a>  | <a href=\"https://mobirise.com/\" class=\"text-black\">Privacy Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#26272c",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-bf"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/universe-1400x1813.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-bg"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/words-265x29.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>1314 Central Ave\n<br>Union City, NJ  07087<br>",
+          "text2": "<strong>Contacts</strong><br>Email: stsjmuc@gmail.com\n<br>Phone: (201) 865-2325\n<br>Fax:      (201) 348-4412<br>",
+          "text3": "<strong>Links</strong><ul><li>Archdiocese of Newark</li><li><a href=\"http://www.ccannj.com/\">Catholic Charities</a></li><li><br></li></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#26272c",
+              "text-align": "center"
+            },
+            "STRONG": {
+              "color": "#7e0202"
+            },
+            "UL": {
+              "color": "#f1c050"
+            }
+          },
+          "_anchor": "contacts1-bh"
+        }
+      ]
+    },
+    "Actualización.html": {
+      "settings": {
+        "title": "Update Espanol",
+        "order": 5
       },
       "components": [
         {
@@ -11130,7 +10418,8 @@
               "height": 128,
               "alt": "Mobirise",
               "link": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">STS Joseph &amp; Michael&nbsp;</a>",
@@ -11138,7 +10427,112 @@
             "Theme"
           ],
           "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-bv"
+          "_anchor": "dropdown-menu-80"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-section-title DIV": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#f1c050"
+            },
+            ".mbr-section-title B": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#f1c050"
+            },
+            ".lead P": {
+              "color": "#000000",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<font color=\"#f1c050\" face=\"Oxygen, sans-serif\"><b>Actualización para el 6 de </b>Noviembre de 2017</font><br><div><br></div>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><b>Armazones de Techo\n</b></p><p>Las nuevas tejas del techo se instalaron y el trabajo se completó a fines de octubre como planeado. El andamio se mantendrá en su lugar para la duración de la renovación exterior del campanario y la torre.  Los escombros del daño del techo entre el techo exterior y el techo de la iglesia se han eliminado.\n</p><p><b>Arquitectos / Ingenieros\n</b></p><p>Hubo una reunión el 24 de octubre con la oficina de PMA, Foresight Architects y Paul Beck (ingeniero estructural).  El Sr. Beck supervisará el reemplazo del campanario y la reparación y renovación de la torre.  Foresight Architects presentó a el comité consultivo de la parroquia varios diseños alternativos junto con una revisión de posibles escenarios de planes de iluminación.  Se espera que el comité decida sobre un enfoque de colaboración para ambos durante este mes.  El jueves de esta semana, el Sr. Hundt se reunió con el Padre Dente, Archdiocesan Office of Divine Worship, para hablar sobre las opciones disponibles.\n<span style=\"font-size: 1.25rem;\"></span></p><p>El comité también revisó una propuesta para instalar un campanario de reemplazo de aluminio de altura completa.  El estilo y la estética del campanario será prácticamente idéntica a la original, pero hay decisiones para tomar con respecto a la composición (cobre o aluminio).  Se debe llegar a una decisión final en la próxima reunión, el 15 de noviembre.\n</p><p><b>El Enlucido y Pintura   \n</b></p><p>Las ofertas competitivas se deben recibir a principios de diciembre y todavía estamos en el objetivo de confirmar una línea de tiempo completa para la ejecución y la finalización para el 1 de enero.\n</p><p>Nuestro estimado es que el trabajo completo tomará seis a ocho meses de principio a fin. Continuaremos actualizando esta línea de tiempo, que es un trabajo en progreso.  Le invitamos a enviar cualquier pregunta al </p><p><b>Pe. Tim Graff</b>, New Energies, Parish Transition Project at Rev.Timothy.Graff@rcan.org; </p><p><b>Gladys Pozza</b>, Coordinator of Parish Outreach at </p><p>Gladys.Pozza@rcan.org; or </p><p><b>Steve Belloise</b>, Executive Director of Property Management at Steve.Belloise@rcan.org.</p><p><b><br></b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-83"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/words-265x29.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>1314 Central Ave\n<br>Union City, NJ  07087<br>",
+          "text2": "<strong>Contacts</strong><br>Email: stsjmuc@gmail.com\n<br>Phone: (201) 865-2325\n<br>Fax:      (201) 348-4412<br>",
+          "text3": "<strong>Links</strong><ul><li>Archdiocese of Newark</li><li><a href=\"http://www.ccannj.com/\">Catholic Charities</a></li><li><br></li></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#26272c",
+              "text-align": "center"
+            },
+            "STRONG": {
+              "color": "#7e0202"
+            },
+            "UL": {
+              "color": "#f1c050"
+            }
+          },
+          "_anchor": "contacts1-81"
         },
         {
           "_params": {
@@ -11165,52 +10559,404 @@
               "text-align": "center"
             }
           },
-          "_anchor": "footer1-bx"
+          "_anchor": "footer1-82"
+        }
+      ]
+    },
+    "Update .html": {
+      "settings": {
+        "title": "Update 2017",
+        "order": 6
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#053461",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#053461"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
+            },
+            "fontColor": "#053461"
+          },
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SS JOSEPH &amp; MICHAEL PARISH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Home.html#msg-box2-1h\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content4-1f\">Pastoral Staff</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page26.html\">STS J&amp;M Brief History</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page30.html\">Parish Registration Form</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Bulletin%2012.10.17.pdf\">Download Today's Bulletin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Calendar%20for%202017%2012.1.17%20updated.pdf\">CCD Calendar 2017-2018<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Ministries</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Ministries</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Prayer and Workship</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page24.html\">Food Pantry</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Sacraments</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Sacrament&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\">Baptism</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">Reconciliation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\">Eucharist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\">Confirmation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page17.html\">Matrimony</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page18.html\">Anointing the Sick</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page19.html\">Holy Orders</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Faith Information</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Religious Education</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page20.html\">Sacrament Preparation</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Contact Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Links to Our Affiliations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/words-1140x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">STS Joseph &amp; Michael&nbsp;</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-7s"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-section-title B": {
+              "color": "#7e0202"
+            },
+            ".lead P": {
+              "color": "#26272c"
+            },
+            ".mbr-section-title DIV": {
+              "color": "#f1c050"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<div><font color=\"#7e0202\"><b>Update for&nbsp;</b></font></div><div>November 6th, 2017</div>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><b>Roof&nbsp;</b></p><p>The new roof shingles were installed work was completed by the end of October as scheduled. Scaffold will remain in place for the duration of the exterior renovation on the steeple and tower. The debris from the roof damage left between the outer roof and the Church ceiling has been removed.   \n</p><p><b>Architects/Engineers\n</b></p><p>There was a meeting on October 24th with the Office of PMA, Foresight Architects and Paul Beck (structural engineer).  Mr. Beck will oversee the steeple replacement and tower repair and renovation. Foresight Architects presented several alternative floor plans for the parish committee along with a review of potential lighting plan scenarios.  It is hoped that the committee will decide on a collaborative approach for both sometime during this month. On Thursday of this week Mr. Hundt met with Father Dente from the Archdiocesan Office of Divine Worship to discuss the options at hand.\n</p><p>&nbsp;A proposal to install a full-height aluminum replacement steeple was also reviewed by the committee.  The style and aesthetics of the steeple will be virtually identical to the original, however, decisions must still be made with respect to composition (copper or aluminum). A final decision should be reached at the next meeting, which is scheduled for November 15th.  \n</p><p><b>Plastering and Painting\n</b></p><p>Competitive bids should be received by early December and we are still on target to confirm a comprehensive timeline for execution and completion by January 1st. \n</p><p>As mentioned, our estimate for the entire scope of work is six to eight months from start to finish and we will continue to update this timeline as the project evolves.  You are welcome to e-mail any questions to either </p><p>Father Tim Graff, New Energies, Parish Transition Project at </p><p>Rev.Timothy.Graff@rcan.org; </p><p>Gladys Pozza, Coordinator of Parish Outreach at</p><p> Gladys.Pozza@rcan.org; or</p><p> Steve Belloise, Executive Director of Property Management at </p><p>steve.belloise@rcan.org. \n</p><p><br></p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-7v"
         },
         {
           "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/words-265x29.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>1314 Central Ave\n<br>Union City, NJ  07087<br>",
+          "text2": "<strong>Contacts</strong><br>Email: stsjmuc@gmail.com\n<br>Phone: (201) 865-2325\n<br>Fax:      (201) 348-4412<br>",
+          "text3": "<strong>Links</strong><ul><li>Archdiocese of Newark</li><li><a href=\"http://www.ccannj.com/\">Catholic Charities</a></li><li><br></li></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#26272c",
+              "text-align": "center"
+            },
+            "STRONG": {
+              "color": "#7e0202"
+            },
+            "UL": {
+              "color": "#f1c050"
+            }
+          },
+          "_anchor": "contacts1-7t"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) SS JOSEPH &amp; MICHAEL &nbsp;<a href=\"https://mobirise.com/\" class=\"text-black\">Terms of Use</a>  | <a href=\"https://mobirise.com/\" class=\"text-black\">Privacy Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#26272c",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-7u"
+        }
+      ]
+    },
+    "Pastoral Staff.html": {
+      "settings": {
+        "title": "Pastoral Staff",
+        "order": 7
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#053461",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#053461"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
+            },
+            "fontColor": "#053461"
+          },
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SS JOSEPH &amp; MICHAEL PARISH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Home.html#msg-box2-1h\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content4-1f\">Pastoral Staff</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page26.html\">STS J&amp;M Brief History</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page30.html\">Parish Registration Form</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Bulletin%2012.10.17.pdf\">Download Today's Bulletin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Calendar%20for%202017%2012.1.17%20updated.pdf\">CCD Calendar 2017-2018<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Ministries</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Ministries</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Prayer and Workship</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page24.html\">Food Pantry</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Sacraments</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Sacrament&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\">Baptism</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">Reconciliation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\">Eucharist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\">Confirmation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page17.html\">Matrimony</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page18.html\">Anointing the Sick</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page19.html\">Holy Orders</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Faith Information</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Religious Education</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page20.html\">Sacrament Preparation</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Contact Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Links to Our Affiliations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/words-1140x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">STS Joseph &amp; Michael&nbsp;</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-78"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-section-title B": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
             "showTitle": true,
-            "showCaption": false,
+            "showMeta": false,
+            "showText": false,
+            "showButton": false,
             "paddingTop": 3,
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#7e0202",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.7
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "title": "<b>Anuncios Parroquiales\n</b><div><b>Parroquia San Jose y Miguel\n</b></div><div><b><i>9-10 de Diciembre, 2017\n</i></b></div><div><br></div>",
-          "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "title": "<b>Pastoral Staff</b>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "content5",
-          "_anchor": "content5-c6",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#7e0202",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          }
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-7a"
         },
         {
           "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showCaptions": true,
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/c3481388-1-1400x1866.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-7c"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".mbr-section-title B": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#7e0202",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<b>Modern Styles</b>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-7d"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
             "showButtons": false,
-            "paddingTop": 3,
-            "paddingBottom": "0",
-            "columns": "3",
+            "inverse": true,
+            "imageSize": "30",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -11221,107 +10967,123 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": false,
-            "overlayColor": "#222",
+            "overlayColor": "#fff",
             "overlayOpacity": 0.5
           },
-          "media1": {
+          "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ffff-600x654.png",
-              "class": "card-img-top",
-              "width": 600,
               "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/91de43f7-1400x929.jpg",
               "link": "",
               "alt": "",
               "title": ""
             },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/churchh-374x362.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
               "link": "",
               "size": 0
             }
           },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/nativity-600x620.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/feature-websites.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title1": "<b>Universal Church Directories</b>",
-          "caption1": "Universal Church Directories vendrán a nuestra Capilla del Sagrado Corazón el lunes 18 de diciembre y el martes 19 de diciembre a partir de las 2:00p.m. para fotografiar profesionalmente a nuestras familias y darnos un retrato de 8x10 y un directorio gratis. Todavía quedan muchos espacios disponibles. Familias de todos los tamaños están bienvenidos para obtener un retrato gratuito de 8x10. Para obtener más información, consulte el boletín de esta semana.",
-          "title2": "<b>Calendario de Misa de Navidad</b>",
-          "caption2": "Los parroquianos que reciben los sobres del ofertorio en su hogar han comenzado a recibir el Calendario de Misa de Navidad. Lamentablemente, los calendarios se envían para imprimir con meses de anticipación y algunos de los detalles ahora han cambiado. Por favor, siga el Calendario de Navidad que está en el boletín de esta semana, folletos y en nuestro página web.<div><br></div><br><div><br></div>",
-          "title3": "<b>Obra Anual de Navidad</b>",
-          "caption3": "Te invitamos a redescubrir el verdadero significado de la Navidad. Los niños de nuestra parroquia realizarán nuestra obra anual de Navidad el domingo 10 de diciembre a las 3:00 p.m. en el gimnasio de Mother Seton School. Todos están invitados.<br><br><br><br><br><br><br>",
-          "title4": "Unlimited Sites",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "title": "Rev. Aro Nathan.,&nbsp;",
+          "text": "<p><i>Pastor</i></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "features1",
-          "_anchor": "features1-c7",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-7e",
           "_styles": {
-            "H4": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            ".mbr-section-title": {
+              "font-size": "32px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#053461"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "23",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "B": {
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-18-1620x1080.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Rev. Guillermo Mora Ph.L",
+          "text": "<p><i>Parochial Vicar</i></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-7f",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
               "color": "#7e0202"
             }
           }
         },
         {
+          "_inherit": "msg-box5",
           "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showCaptions": true,
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
             "showButtons": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "columns": "3",
+            "inverse": true,
+            "imageSize": "32",
+            "paddingTop": 0,
+            "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -11332,93 +11094,42 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": false,
-            "overlayColor": "#222",
+            "overlayColor": "#fff",
             "overlayOpacity": 0.5
           },
-          "media1": {
+          "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/virgen-de-guadalupe-6-300x300.png",
-              "class": "card-img-top",
-              "width": 600,
               "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/photo-4.jpg"
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
               "link": "",
               "size": 0
             }
           },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/billboard-600x466.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/interviews-600x529.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/feature-websites.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title1": "<b>Fiesta de Nuestra Señora de Guadalupe<br><br>\n</b><div><b>Celebración de Nuestra Patrona de Las Américas</b></div>",
-          "caption1": "El martes, 12 de diciembre, los Guadalupanos celebrarán la Fiesta de Nuestra Señora de Guadalupe a las 7:00 p.m. en el gimnasio de la Escuela Mother Seton con una misa especial. Todos están invitados a unirse a esta celebración especial.\n<br>\n<br>La Parroquia San José y San los Miguel invita a la gran celebración de Nuestra Patrona de Las Américas, La Virgen de Guadalupe el Martes 12 de Diciembre comenzando a las 6 p.m. con la adoración al Santísimo siguiendo con la misa a las 7:00 p.m. en el gimnasio de la Escuela Mother Seton.&nbsp;<br>",
-          "title2": "<b><br></b><br><br><b>Boletin</b>",
-          "caption2": "Por favor llévese un boletín este fin de semana que tiene información sobre eventos y actividades en nuestra parroquia.&nbsp;<br> ",
-          "title3": "<b><br></b><br><b>Entrevistas</b>",
-          "caption3": "Estamos entrevistando candidatos para unirse a nuestro Comité del Consejo Parroquial, así como a nuestro Comité del Consejo Financiero Parroquial. El Consejo Parroquial se reúne unas pocas veces al año para revisar y discutir programas y asuntos relacionados con la vida parroquial y el Consejo Financiero Parroquial se reúne durante el año con el párroco para revisar y administrar las finanzas de la parroquia. Todo el trabajo del comité es para construir una comunidad de fe, proclamar la Palabra de Dios, llamar a la gente a orar y motivar a las personas a servir a los demás. Si desea discutir sobre la posibilidad de ofrecer su tiempo y talentos como voluntario, comuníquese con el padre Nathan.",
-          "title4": "Unlimited Sites",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "title": "Rev. Anthony Savarimuthu",
+          "text": "<p><i>Priest in Residence</i></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "features1",
-          "_anchor": "features1-c8",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-7g",
           "_styles": {
-            "H4": {
-              "color": "#7e0202",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            ".mbr-section-title": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#053461"
             }
           }
         },
@@ -11470,7 +11181,296 @@
               "color": "#f1c050"
             }
           },
-          "_anchor": "contacts1-bw"
+          "_anchor": "contacts1-79"
+        }
+      ]
+    },
+    "Information.html": {
+      "settings": {
+        "title": "Information",
+        "order": 8
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#890602"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Schedule &amp; Services",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-8a"
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "<b>Confessions</b>",
+          "caption1": "Saturday &nbsp;1:00 PM-2:00 PM\n<br>Sacred Heart Hall",
+          "title2": "<b>Marriages</b>",
+          "caption2": " Contact Rectory one year in advance. ",
+          "title3": "Religious  Ed",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Websites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-8b",
+          "_styles": {
+            "H4": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "30px",
+              "color": "#890602"
+            },
+            "P": {
+              "text-align": "center",
+              "color": "#053461"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "<b>CCD</b>",
+          "caption1": "Saturday- 10:00 AM",
+          "title2": "<b>Confirmation:</b>",
+          "caption2": " Thursdays - 4:00PM",
+          "title3": "<b>Adult Religious Ed:&nbsp;</b>",
+          "caption3": "Thursdays 7:30PM",
+          "title4": "Unlimited Websites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-8c",
+          "_styles": {
+            "H4": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#890602",
+              "font-size": "30px"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#053461"
+            },
+            "B": {
+              "font-size": "30px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/words-265x29.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>1314 Central Ave\n<br>Union City, NJ  07087<br>",
+          "text2": "<strong>Contacts</strong><br>Email: stsjmuc@gmail.com\n<br>Phone: (201) 865-2325\n<br>Fax:      (201) 348-4412<br>",
+          "text3": "<strong>Links</strong><ul><li>Archdiocese of Newark</li><li><a href=\"http://www.ccannj.com/\">Catholic Charities</a></li><li><br></li></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#26272c",
+              "text-align": "center"
+            },
+            "STRONG": {
+              "color": "#7e0202"
+            },
+            "UL": {
+              "color": "#f1c050"
+            }
+          },
+          "_anchor": "contacts1-87"
+        },
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#053461",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-family": "'Oxygen', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#053461"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Oxygen",
+              "url": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "css": "'Oxygen', sans-serif"
+            },
+            "fontColor": "#053461"
+          },
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">SS JOSEPH &amp; MICHAEL PARISH</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Home.html#msg-box2-1h\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#content4-1f\">Pastoral Staff</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page26.html\">STS J&amp;M Brief History</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page30.html\">Parish Registration Form</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Bulletin%2012.10.17.pdf\">Download Today's Bulletin</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html\">Gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Calendar%20for%202017%2012.1.17%20updated.pdf\">CCD Calendar 2017-2018<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Ministries</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Ministries</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Prayer and Workship</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page24.html\">Food Pantry</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page11.html\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\"></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Sacraments</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Sacrament&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page13.html\">Baptism</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page14.html\">Reconciliation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page15.html\">Eucharist</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page16.html\">Confirmation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page17.html\">Matrimony</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page18.html\">Anointing the Sick</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page19.html\">Holy Orders</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Faith Information</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Religious Education</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page20.html\">Sacrament Preparation</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Contact Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Contact Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Links to Our Affiliations</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/words-1140x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">STS Joseph &amp; Michael&nbsp;</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-88"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) SS JOSEPH &amp; MICHAEL &nbsp;<a href=\"https://mobirise.com/\" class=\"text-black\">Terms of Use</a>  | <a href=\"https://mobirise.com/\" class=\"text-black\">Privacy Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#26272c",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-89"
         }
       ]
     }
