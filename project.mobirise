@@ -189,7 +189,7 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -1234,7 +1234,7 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -1329,7 +1329,7 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -1988,7 +1988,7 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -2133,7 +2133,7 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -2297,7 +2297,7 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -2597,7 +2597,7 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -3089,7 +3089,7 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -3447,7 +3447,7 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -3829,7 +3829,7 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -4153,7 +4153,7 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -4473,7 +4473,7 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -4738,7 +4738,7 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -5003,7 +5003,7 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -5296,7 +5296,7 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -5534,7 +5534,7 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -5779,7 +5779,7 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -6047,7 +6047,7 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -6312,7 +6312,7 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -6572,7 +6572,7 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -7177,7 +7177,7 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -8016,7 +8016,7 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -8111,7 +8111,7 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -8433,7 +8433,7 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -8633,7 +8633,7 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -8831,7 +8831,7 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -9255,7 +9255,7 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -9435,7 +9435,7 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -9615,7 +9615,7 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -9781,7 +9781,7 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -10169,7 +10169,7 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -10487,7 +10487,7 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -10700,7 +10700,7 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -11107,7 +11107,7 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
