@@ -2226,6 +2226,9 @@
   color: #ffffff;
   font-size: 30px;
 }
+#header2-bk DIV {
+  color: #ffffff;
+}
 #dropdown-menu-bc .hide-buttons [data-button] {
   display: none !important;
 }

@@ -10153,6 +10153,9 @@
             "P": {
               "color": "#ffffff",
               "font-size": "30px"
+            },
+            "DIV": {
+              "color": "#ffffff"
             }
           }
         },
