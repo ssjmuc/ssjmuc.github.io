@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
@@ -8,7 +9,8 @@
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+
 
 
 
@@ -79,12 +81,32 @@
 #msg-box4-i .lead P {
   font-family: 'Lato', sans-serif;
 }
+#content5-cb .mbr-section-title {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  color: #7e0202;
+}
 #features1-br B {
   font-family: 'Oswald', sans-serif;
   font-size: 30px;
 }
 #features1-br H4 {
   font-family: 'Oswald', sans-serif;
+}
+#content5-a2 .mbr-section-title {
+  text-align: center;
+  color: #f1c050;
+}
+#content5-a2 .mbr-section-title B {
+  font-family: 'Open Sans', sans-serif;
+  color: #7e0202;
+}
+#pricing-table1-18 SPAN {
+  font-size: 13px;
+  font-family: 'Titillium Web', sans-serif;
+}
+#pricing-table1-18 DIV {
+  font-family: 'Oxygen', sans-serif;
 }
 #content4-7q DIV {
   font-family: 'Oxygen', sans-serif;
@@ -101,13 +123,6 @@
 }
 #content4-7q P {
   font-size: 22px;
-}
-#pricing-table1-18 SPAN {
-  font-size: 13px;
-  font-family: 'Titillium Web', sans-serif;
-}
-#pricing-table1-18 DIV {
-  font-family: 'Oxygen', sans-serif;
 }
 #header4-bi H1 {
   color: #ffffff;
@@ -133,10 +148,6 @@
   color: #ffffff;
   font-size: 21px;
   text-align: center;
-}
-#content5-a2 .mbr-section-title {
-  text-align: center;
-  color: #f1c050;
 }
 #content4-1d P {
   text-align: center;

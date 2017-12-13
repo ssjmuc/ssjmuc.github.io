@@ -17,7 +17,7 @@
       ]
     },
     "versionFirst": "4.3.0",
-    "uniqCompNum": 442,
+    "uniqCompNum": 444,
     "versionPublish": "4.5.2",
     "favicon": "",
     "noImageResize": "",
@@ -292,12 +292,48 @@
         },
         {
           "_params": {
+            "showTitle": true,
+            "showCaption": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-720x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "<b>Announcements/ Anuncios</b>",
+          "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-cb",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#7e0202"
+            }
+          }
+        },
+        {
+          "_params": {
             "showImages": true,
             "showTitles": false,
             "showCaptions": false,
             "showButtons": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "columns": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
@@ -402,13 +438,12 @@
         },
         {
           "_params": {
-            "showTitles": true,
-            "showCaptions": true,
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "columns": "2",
+            "showTitle": true,
+            "showCaption": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-29-1620x1080.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -416,43 +451,27 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlay": true,
+            "overlayColor": "#053461",
+            "overlayOpacity": "0.5"
           },
-          "title1": "<br><font face=\"Oxygen, sans-serif\"><span style=\"font-size: 36px;\"><b><a href=\"UpdateEnglish.html\">Rebuilding Our Parish</a></b></span></font><div><b><a href=\"UpdateEnglish.html\">Update for&nbsp;November 6th, 2017</a></b></div>",
-          "caption1": "<br>The new roof shingles were installed work was completed by the end of October as scheduled. Scaffold will remain in place for the duration of the exterior renovation on the steeple and tower. The debris from the roof damage left between the outer roof and the Church ceiling has been removed.        ",
-          "title2": "<b><a href=\"UpdateEspanol.html\">Reconstruyendo Nuestra Parroquia\n</a></b><div><b><a href=\"UpdateEspanol.html\">Actualización para el&nbsp;6 de Noviembre de 2017</a></b></div>",
-          "caption2": "Las nuevas tejas del techo se instalaron y el trabajo se completó a fines de octubre como planeado. El andamio se mantendrá en su lugar para la duración de la renovación exterior del campanario y la torre.  Los escombros del daño del techo entre el techo exterior y el techo de la iglesia se han eliminado.",
-          "title3": "Web Fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Websites",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title": "<b><a href=\"Information.html\" class=\"text-danger\">Schedule &amp; Services!</a></b>",
+          "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "content4",
-          "_anchor": "content4-7q",
+          "_name": "content5",
+          "_anchor": "content5-a2",
           "_styles": {
-            "DIV": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "22px"
+            ".mbr-section-title": {
+              "text-align": "center",
+              "color": "#f1c050"
             },
-            "B": {
-              "font-size": "32px",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+            ".mbr-section-title B": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "color": "#7e0202"
-            },
-            "H4": {
-              "font-size": "32px",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            "P": {
-              "font-size": "22px"
             }
           }
         },
@@ -517,6 +536,62 @@
             "DIV": {
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "<br><font face=\"Oxygen, sans-serif\"><span style=\"font-size: 36px;\"><b><a href=\"UpdateEnglish.html\" class=\"text-danger\">Rebuilding Our Parish</a></b></span></font><div><b><a href=\"UpdateEnglish.html\" class=\"text-danger\">Update for&nbsp;November 6th, 2017</a></b></div>",
+          "caption1": "<br>The new roof shingles were installed work was completed by the end of October as scheduled. Scaffold will remain in place for the duration of the exterior renovation on the steeple and tower. The debris from the roof damage left between the outer roof and the Church ceiling has been removed.        ",
+          "title2": "<b><a href=\"UpdateEspanol.html\" class=\"text-danger\">Reconstruyendo Nuestra Parroquia\n</a></b><div><b><a href=\"UpdateEspanol.html\" class=\"text-danger\">Actualización para el&nbsp;6 de Noviembre de 2017</a></b></div>",
+          "caption2": "Las nuevas tejas del techo se instalaron y el trabajo se completó a fines de octubre como planeado. El andamio se mantendrá en su lugar para la duración de la renovación exterior del campanario y la torre.  Los escombros del daño del techo entre el techo exterior y el techo de la iglesia se han eliminado.",
+          "title3": "Web Fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Websites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-7q",
+          "_styles": {
+            "DIV": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "22px"
+            },
+            "B": {
+              "font-size": "32px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#7e0202"
+            },
+            "H4": {
+              "font-size": "32px",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            "P": {
+              "font-size": "22px"
             }
           }
         },
@@ -701,40 +776,6 @@
           ],
           "_name": "image2",
           "_anchor": "image2-b4"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showCaption": false,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-29-1620x1080.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#053461",
-            "overlayOpacity": "0.5"
-          },
-          "title": "<a href=\"page35.html\"><b>Schedule &amp; Services!</b></a>",
-          "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-a2",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "center",
-              "color": "#f1c050"
-            }
-          }
         },
         {
           "_params": {
