@@ -17,7 +17,7 @@
       ]
     },
     "versionFirst": "4.3.0",
-    "uniqCompNum": 444,
+    "uniqCompNum": 445,
     "versionPublish": "4.5.2",
     "favicon": "",
     "noImageResize": "",
@@ -438,6 +438,57 @@
         },
         {
           "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "<b>2017 </b><b>Christmas Schedule</b><b>&nbsp;</b><br><i>All Confessions for Adventt Sacred Heart Chapel&nbsp;</i>",
+          "caption1": "<i><b>Wednesday, </b></i><b><i>December 20th&nbsp;</i></b><br>7:30 pm until 8:30pm<br><br><b><i>Thursday, December 21st</i></b><br>7:30 pm until 8:30<br><br><b><i>Friday December 22nd</i></b><br><i>Advent Communal Penance Service with Individual\n<br>Confessions\n<br>Deanery Priests are Available</i><br>7:30 pm until 8:30pm\n<br>\n<br><b><i>Saturday, December 23rd</i></b><br>1:00 pm until 2:00pm<br><br><b><i>Saturday and Sunday Masses will be held at their regularly schedualed times and locations</i></b><br><br><b><i>Sunday, December 24th, 2017: Mass on Christmas Eve at Veteran's Memorial School</i></b><br>5:00 pm Christmas Carols&nbsp;<br>5:30 pm Mass in English&nbsp;<br><br><b><i>Monday, December 25th: Mass on Christmas Eve at Veteran's</i></b> <i><b>Memorial School&nbsp;</b><br></i>***No EveningMasses on Christmas**<br><br><i><b>S</b></i><b><i>aturday, December 23rd and 30th at Bella Vista</i></b><br>1:00 pm Bilingual Mass<br><br><i><b>Saturday and Sunday Masses on\n<br>January 30th and 31st will be held at\n<br>their regularly scheduled times and locations\n</b></i><br><br><b><i>Monday, January 1, 2018: New Year’s Day\n<br>Mass for the Solemnity of Mary\n<br>at the Sacred Heart Chapel\n</i></b><br>9:30 am Mass in English\n<br><b><i>There will be no evening mass this day.\n</i></b><br><br><b><br></b><br><b>MERRY CHRISTMAS &amp;\n<br>HAPPY NEW YEAR!&nbsp;</b><br>",
+          "title2": "<i><b>Horario de Navidad 2017\n</b></i><div><i>Las Confesiones para Adviento serán en la&nbsp;</i><span style=\"font-size: 1.5rem;\"><i>Capil</i><i>la del Sagrado Corazón</i></span></div>",
+          "caption2": "<i><b>Miércoles 20 de Diciembre\n</b></i><br>7:30 pm a 8:30 pm\n<br><br><i><b>Jueves 21 de Diciembre\n</b></i><br>7:30 pm a 8:30 pm\n<br><br><i><b>Viernes 22 de Diciembre\n</b></i><br><i>Servicio de Penitencia Comunitaria de Adviento\n<br>con Confesiones Individuales\n<br>Sacerdotes Decanatos Están Disponibles\n</i><br>7:30 pm a 8:30 pm\n<br><br><i><b>Sábado 23 de Diciembre\n</b></i><br>1:00pm a 2:00 pm\n<i><b><br></b></i><br><b><i>Las misas del sábado y el domingo se llevarán a\n<br>cabo ensus horarios y ubicaciones regular\n</i></b><br><br><i><b>Domingo 24 de Diciembre: Misa en Nochebuena</b></i><b><i>\n</i></b><br><b><i>en la Escuela Veteran’s Memorial\n</i></b><br>11:30 pm Villancicos\n<br>12:00 am Misa de Medianoche (Misa de Gallo)\n<br><br><b><i>Lunes 25 de Diciembre: Misa el Dia de Navidad\n<br>en la Escuela Veteran’s Memorial\n</i></b><br>11:30 am Misa en Español\n<br><b><i>**No habrá Misa por la noche el día de Navidad **\n</i></b><br><br><b><i>Sábado 23 y 30 de Diciembre\n<br>en Bella Vista</i></b>\n<br>4:00 pm Misa Bilingüe\n<br><i><b>Las misas del sábado 30 y el domingo 31 de\n<br>enero se llevarán a cabo en\n<br>sus horarios y ubicaciones regular\n</b></i><br><br><i><b>Lunes 1 de enero de 2018: Día de Año Nuevo\n<br>Misa por la solemnidad de María\n<br>en la Capilla del Sagrado Corazón</b></i>\n<br>11:00 am Misa en Español\n<br><i><b>No habrá Misa esta noche.\n</b></i><br><br><br><b>FELIZ NAVIDAD Y\n<br>PROSPERO AÑO NUEVO</b>",
+          "title3": "Web Fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Websites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-cc",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
+              "color": "#053461"
+            },
+            "I": {
+              "color": "#7e0202",
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
+            },
+            "B": {
+              "color": "#7e0202"
+            }
+          }
+        },
+        {
+          "_params": {
             "showTitle": true,
             "showCaption": false,
             "paddingTop": "1",
@@ -561,7 +612,7 @@
           },
           "title1": "<br><font face=\"Oxygen, sans-serif\"><span style=\"font-size: 36px;\"><b><a href=\"UpdateEnglish.html\" class=\"text-danger\">Rebuilding Our Parish</a></b></span></font><div><b><a href=\"UpdateEnglish.html\" class=\"text-danger\">Update for&nbsp;November 6th, 2017</a></b></div>",
           "caption1": "<br>The new roof shingles were installed work was completed by the end of October as scheduled. Scaffold will remain in place for the duration of the exterior renovation on the steeple and tower. The debris from the roof damage left between the outer roof and the Church ceiling has been removed.        ",
-          "title2": "<b><a href=\"UpdateEspanol.html\" class=\"text-danger\">Reconstruyendo Nuestra Parroquia\n</a></b><div><b><a href=\"UpdateEspanol.html\" class=\"text-danger\">Actualización para el&nbsp;6 de Noviembre de 2017</a></b></div>",
+          "title2": "<b><a href=\"UpdateEspanol.html\" class=\"text-danger\">Reconstruyendo Nuestra Parroquia\n</a></b><div><b><a href=\"UpdateEspanol.html\" class=\"text-danger\">Actualización para el&nbsp;</a></b></div><div><b><a href=\"UpdateEspanol.html\" class=\"text-danger\">6 de Noviembre de 2017</a></b></div>",
           "caption2": "Las nuevas tejas del techo se instalaron y el trabajo se completó a fines de octubre como planeado. El andamio se mantendrá en su lugar para la duración de la renovación exterior del campanario y la torre.  Los escombros del daño del techo entre el techo exterior y el techo de la iglesia se han eliminado.",
           "title3": "Web Fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
