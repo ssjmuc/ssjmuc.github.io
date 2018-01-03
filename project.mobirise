@@ -460,31 +460,6 @@
         },
         {
           "_params": {
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/spa-813x1041.png",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-ch"
-        },
-        {
-          "_params": {
             "showTitle": true,
             "showCaption": false,
             "paddingTop": "0",
@@ -553,7 +528,7 @@
           "currency3": "<b>Monday</b> <b>to Friday</b><br><b>8:30 AM</b> Sacred Heart&nbsp;Hall<br>&nbsp;(English)<br><b>7:00 PM</b> Sacred Heart Hall<br>&nbsp;(Spanish)<br><br><br>",
           "currency4": "<b>Confessions -&nbsp;Saturday</b><b><br></b>1:00PM-2:00PM<br>Sacred Heart Hall<br><b>Marriages</b>: Contact Rectory one year in advance.&nbsp;<br><b>Religious &nbsp;Ed:</b> Sat-&nbsp;10:00 AM<br><b>Confirmation</b>: Thurs -&nbsp;4:00PM<br><b>Adult Religious Ed:</b> <br>Thurs 7:30PM<br>",
           "price1": "<br> ",
-          "price2": "&nbsp;<br><b>11:00AM</b> - Veteran's Memorial (Spanish)<br><b>12:30 PM&nbsp;</b>Veteran's Memorial (Spanish)<br><br>",
+          "price2": "&nbsp;<br><b>11:30AM</b> - Veteran's Memorial (Spanish)<br><br><br><br>",
           "price3": " ",
           "price4": "",
           "period1": "",
