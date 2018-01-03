@@ -17,7 +17,7 @@
       ]
     },
     "versionFirst": "4.3.0",
-    "uniqCompNum": 460,
+    "uniqCompNum": 462,
     "versionPublish": "4.5.2",
     "favicon": "",
     "noImageResize": "",
@@ -455,6 +455,83 @@
             "H4": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showName": false,
+            "showBio": false,
+            "count": "2",
+            "paddingTop": "0",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "<b>ATENCION/ATTENTION</b>",
+          "items": [
+            {
+              "authorName": "ABANOUB S.",
+              "authorBio": "User",
+              "text": "<p><i><b>Please note there will only be one mass in Spanish.  We all love our parish community, and are thankful  that our church can be rebuilt after the  devastating fire that it suffered on </b></i></p><p><i><b>March 4, 2017.</b></i></p>"
+            },
+            {
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User",
+              "text": "<em>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag &amp; drop with no time design bootstrap builder in present web design world.”</em>"
+            },
+            {
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User",
+              "text": "<em>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</em>"
+            }
+          ],
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-ct",
+          "testimonial": [
+            {
+              "authorName": "ABANOUB S.",
+              "authorBio": "User",
+              "text": "<p><i><b>Please note there will only be one mass in Spanish.  We all love our parish community, and are thankful  that our church can be rebuilt after the  devastating fire that it suffered on </b></i></p><p><i><b>March 4, 2017.</b></i></p>"
+            },
+            {
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User",
+              "text": "<em><b>\n</b></em><div><em><b>Tenga en cuenta que solo habrá una misa en español. Todos amamos a nuestra comunidad parroquial, y estamos agradecidos de que nuestra iglesia pueda ser reconstruida después del devastador incendio que sufrió en\n</b></em></div><div><em><b>\n</b></em></div><div><em><b>4 de Marzo de 2017.</b></em></div>"
+            }
+          ],
+          "_styles": {
+            ".card-block I": {
+              "font-size": "32px"
+            },
+            ".card-block": {
+              "text-align": "center"
+            },
+            ".card-block P": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
+            },
+            ".mbr-section-title B": {
+              "font-size": "60px",
+              "color": "#890602"
+            },
+            ".card-block DIV": {
+              "font-size": "32px"
             }
           }
         },
