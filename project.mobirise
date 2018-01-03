@@ -475,7 +475,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "header": "<b>ATENCION/ATTENTION</b>",
+          "header": "<b>Atención/Attention</b>",
           "items": [
             {
               "authorName": "ABANOUB S.",
@@ -485,7 +485,7 @@
             {
               "authorName": "SUFFIAN A.",
               "authorBio": "User",
-              "text": "<em>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag &amp; drop with no time design bootstrap builder in present web design world.”</em>"
+              "text": "<em><b>\n</b></em><div><em><b>Tenga en cuenta que solo habrá una misa en español. Todos amamos a nuestra comunidad parroquial, y estamos agradecidos de que nuestra iglesia pueda ser reconstruida después del devastador incendio que sufrió en\n</b></em></div><div><em><b>\n</b></em></div><div><em><b>4 de Marzo de 2017.</b></em></div>"
             },
             {
               "authorName": "JHOLLMAN C.",
@@ -527,11 +527,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             },
             ".mbr-section-title B": {
-              "font-size": "60px",
+              "font-size": "100px",
               "color": "#890602"
             },
             ".card-block DIV": {
-              "font-size": "32px"
+              "font-size": "32px",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
             }
           }
         },

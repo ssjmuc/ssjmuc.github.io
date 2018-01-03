@@ -36,6 +36,7 @@
 
 
 
+
 #msg-box3-15 .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -109,11 +110,12 @@
   font-family: 'Roboto Condensed', sans-serif;
 }
 #testimonials1-ct .mbr-section-title B {
-  font-size: 60px;
+  font-size: 100px;
   color: #890602;
 }
 #testimonials1-ct .card-block DIV {
   font-size: 32px;
+  font-family: 'PT Sans', sans-serif;
 }
 #content5-a2 .mbr-section-title {
   text-align: center;
