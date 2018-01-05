@@ -17,7 +17,7 @@
       ]
     },
     "versionFirst": "4.3.0",
-    "uniqCompNum": 471,
+    "uniqCompNum": 472,
     "versionPublish": "4.5.2",
     "favicon": "",
     "noImageResize": "",
@@ -697,6 +697,62 @@
           }
         },
         {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": false,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/attention-1400x858.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Drag &amp; Drop Website Builder",
+          "text": "<p>Mobirise helps you cut down development time by providing you with a flexible website editor.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"assets/files/Bulletin 12.31.17.pdf\" data-toolbar=\"-mbrBtnMove\">CLICK TO VIEW</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-d3"
+        },
+        {
           "_params": {
             "showTitles": true,
             "showCaptions": true,
@@ -719,7 +775,7 @@
           "title1": "<b>Rectory/Rectoria</b>",
           "caption1": "1314 Central Ave, Union City, N.J. 071087<br>Tel: (201) 865-2325 | Fax: (201) 348-4412<br>Email:&nbsp;Sts@Joseph.Michael@Outlook.com<br><b>Office Hours / Horas de Oficina</b><br>9:00 AM - 4:00 PM (Monday to Friday)<b><br></b>",
           "title2": "<b>Mother Seton<br> (School/Escuela)</b><br>",
-          "caption2": "1501 New York Ave, Union City N.J. 07087<br>Tel: (201) 863-8145<br>Principal: <i>Miss Mary P McErlaine</i><br><i><br></i>",
+          "caption2": "1501 New York Ave, Union City N.J. 07087<br>Tel: (201) 863-8145<br>Principal: <i>Miss Mary P McErlaine</i><i><br></i><br><i><br></i>",
           "title3": "Web Fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Websites",
