@@ -17,7 +17,7 @@
       ]
     },
     "versionFirst": "4.3.0",
-    "uniqCompNum": 467,
+    "uniqCompNum": 470,
     "versionPublish": "4.5.2",
     "favicon": "",
     "noImageResize": "",
@@ -567,179 +567,53 @@
         },
         {
           "_params": {
-            "showTitle": true,
-            "showName": false,
-            "showBio": false,
-            "count": "2",
-            "paddingTop": "1",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "showText": false
           },
-          "header": "<b>Atención/Attention</b>",
-          "items": [
-            {
-              "authorName": "ABANOUB S.",
-              "authorBio": "User",
-              "text": "<b>Please note there will only be one mass in Spanish. We all love our parish community, and are thankful that our church can be rebuilt after the devastating fire that it suffered on&nbsp;</b><b>March 4th, 2017. &nbsp;</b><div>&nbsp; &nbsp;</div><div><br></div>"
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/attention-1400x567.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
-            {
-              "authorName": "SUFFIAN A.",
-              "authorBio": "User",
-              "text": "<font face=\"Oswald, sans-serif\"><b>Tenga en cuenta que solo habrá una misa en español. Todos amamos a nuestra comunidad parroquial, y estamos agradecidos de que nuestra iglesia pueda ser reconstruida después del devastador incendio que sufrió en\r&nbsp;</b></font><b>4 de Marzo de 2017.</b>"
-            },
-            {
-              "authorName": "JHOLLMAN C.",
-              "authorBio": "User",
-              "text": "<em>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</em>"
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
             }
-          ],
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "testimonials1",
-          "_anchor": "testimonials1-cx",
-          "testimonial": [
-            {
-              "authorName": "ABANOUB S.",
-              "authorBio": "User",
-              "text": "<b>Please note there will only be one mass in Spanish. We all love our parish community, and are thankful that our church can be rebuilt after the devastating fire that it suffered on&nbsp;</b><b>March 4th, 2017. &nbsp;</b><div>&nbsp; &nbsp;</div><div><br></div>"
-            },
-            {
-              "authorName": "SUFFIAN A.",
-              "authorBio": "User",
-              "text": "<font face=\"Oswald, sans-serif\"><b>Tenga en cuenta que solo habrá una misa en español. Todos amamos a nuestra comunidad parroquial, y estamos agradecidos de que nuestra iglesia pueda ser reconstruida después del devastador incendio que sufrió en\r&nbsp;</b></font><b>4 de Marzo de 2017.</b>"
-            }
-          ],
-          "_styles": {
-            ".card-block DIV": {
-              "text-align": "center"
-            },
-            ".card-block": {
-              "text-align": "center"
-            },
-            ".card-block I": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            ".card-block B": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "32px"
-            },
-            ".card-block SPAN": {
-              "font-size": "32px"
-            },
-            ".mbr-section-title": {
-              "color": "#890602",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            ".mbr-section-title B": {
-              "font-size": "80px"
-            }
-          }
+          "_name": "image1",
+          "_anchor": "image1-d0"
         },
         {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center"
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/attention-1400x454.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "text-align": "left"
-            },
-            ".mbr-section-title B": {
-              "color": "#d9534f"
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": false,
-            "showButton": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "<b>Parishioner's who have already scheduled their mass intentions for 11:30 am and 12:30 pm will still have their intentions scheduled for 11 am.&nbsp;</b>",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-cy"
-        },
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            },
-            ".mbr-section-title DIV": {
-              "text-align": "right",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "color": "#d9534f"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": false,
-            "showButton": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "\n<div><b><span style=\"color: inherit; font-size: 2.8rem;\">Los feligreses que ya han programado sus intenciones masivas para las 11:30 a.m. y las 12:30 pm aún tendrán sus intenciones programadas para las &nbsp;</span><span style=\"color: inherit; font-size: 2.8rem;\">11 am</span></b><br></div>",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>\r</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-cw"
+          "_name": "image1",
+          "_anchor": "image1-d1"
         },
         {
           "_params": {
