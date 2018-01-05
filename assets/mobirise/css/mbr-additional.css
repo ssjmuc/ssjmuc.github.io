@@ -2307,6 +2307,10 @@
 
 
 
+
+
+
+
 #dropdown-menu-cl .hide-buttons [data-button] {
   display: none !important;
 }
@@ -2337,13 +2341,23 @@
 #msg-box3-co .mbr-header .mbr-header__subtext {
   text-align: center;
 }
+#msg-box3-co .mbr-section-title DIV {
+  font-family: 'Oswald', sans-serif;
+}
+#msg-box3-co .mbr-section-title {
+  font-family: 'Oswald', sans-serif;
+}
 #content4-cr P {
   text-align: left;
   font-size: 20px;
   font-family: 'Roboto', sans-serif;
 }
 #content4-cr B {
-  font-size: 30px;
+  font-size: 19px;
+  font-family: 'Oswald', sans-serif;
+}
+#content4-cr H4 {
+  font-family: 'Oswald', sans-serif;
 }
 #contacts1-cm P {
   color: #26272c;

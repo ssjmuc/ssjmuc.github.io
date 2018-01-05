@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "STS JOSEPH & MICHAEL PARISH",
-    "currentPage": "page30.html",
+    "currentPage": "page31.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -10343,6 +10343,14 @@
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center"
+            },
+            ".mbr-section-title DIV": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_params": {
@@ -10365,7 +10373,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Parish Announcements \r<div>Ss. Joseph &amp; Michael Church</div>",
+          "title": "<b>Parish Announcements \n</b><div><b>Ss. Joseph &amp; Michael Church</b></div>",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
@@ -10489,9 +10497,9 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title1": "<b>ALLIANCE OF THE TWO HEARTS&nbsp;</b>",
+          "title1": "ALLIANCE OF THE TWO HEARTS&nbsp;",
           "caption1": "<b>First Friday:</b>\n<br>7:00pm -Holy Mass (Most Sacred Heart of Jesus)\n<br> Exposition of the Blessed Sacrament\n<br> Consecration of the Two Hearts\n<br><br><b>8:00pm</b> - Holy Rosary (Sorrowful Mystery)\n<br><b>8:30pm</b> -Nine Divine Office - Most Sacred Heart\n<br> of Jesus\n<br><b>10:00pm</b> -Silent Adoration (Coffee Break at Parish\n<br> Hall)\n<br><br><b>10:30pm</b> - Chaplet to God our Heavenly Father\n<br><b>11:00pm</b> - Prayer for Priest\n<br><b>11:30pm</b> - Chaplet of Divine Mercy\n<br><br><b>First Saturday:\n</b><br><b>12:00am</b> - Office of the Immaculate Heart of Mary\n<br> Benediction\n<br> Holy Mass (Immaculate Heart of Mary)",
-          "title2": "<b>SPECIAL INVITATION FOR JANUARY 14</b>",
+          "title2": "SPECIAL INVITATION FOR JANUARY 14",
           "caption2": "In June, our Archbishop, Cardinal Joseph Tobin,\n<br>approved the reconstruction of our parish church.\n<br>Since that time, a committee of parishioners along\n<br>with Father Aro Nathan and Father Guillermo\n<br>Mora, has gathered numerous times with the\n<br>archdiocesan architect, Mr. James Hundt, to\n<br>develop the reconstruction plans for the temple.\n<br>According the liturgical guidelines, the committee\n<br>considered different models presented by Mr.\n<br>Hundt.\n<br>\n<br>On Sunday, January 14th, Mr. Hundt will make a\n<br>presentation to the entire parish community of the\n<br>model which has received the greatest support to\n<br>date. The presentation will be made in English and\n<br>Spanish.\n<br>\n<br>It is important that every parishioner have this\n<br>information readily available, as well as the\n<br>opportunity to express an opinion on the various\n<br>details personally considered important in the\n<br>reconstruction of the temple. The members of the\n<br>committee will make note of suggestions and\n<br>views expressed by the parish community before\n<br>making its final recommendation.\n<br>To facilitate the attendance at this presentation the\n<br>Mass Schedule will be different on Sunday,\n<br>January 14th. \n<br>\n<br><b>9:30AM</b>: Mass (English)\n<br><b>10:30AM</b>: Presentation of the Proposed Plan\n<br>for the Church Renovation\n<br><b>12:00PM</b>: Mass (Spanish)\n<br><br>Please note there will only be one mass in Spanish.\n<br>We all love our parish community, and are thankful\n<br>that our church can be rebuilt after the\n<br>devastating fire that it suffered on March 4, 2017.\n<br>We are all encouraged to attend this presentation.\n<br>It is necessary to remain informed and to express\n<br>what we each find to be important (or preferred) in\n<br>the restoration, in order to make our parish church\n<br>the best possible home for all the liturgical\n<br>celebrations of our community of Ss. Joseph and\n<br>Michael.<br><br>",
           "title3": "Web Fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
@@ -10511,7 +10519,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             "B": {
-              "font-size": "30px"
+              "font-size": "19px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "H4": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           }
         },
