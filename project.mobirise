@@ -17,7 +17,7 @@
       ]
     },
     "versionFirst": "4.3.0",
-    "uniqCompNum": 466,
+    "uniqCompNum": 467,
     "versionPublish": "4.5.2",
     "favicon": "",
     "noImageResize": "",
@@ -655,26 +655,19 @@
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center"
             },
-            ".lead P": {
+            ".mbr-section-title": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "46px",
-              "color": "#890602",
               "text-align": "left"
             },
             ".mbr-section-title B": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "color": "#d9534f"
-            },
-            ".mbr-section-title": {
-              "text-align": "left"
             }
           },
           "_params": {
             "showTitle": true,
             "showMeta": false,
-            "showText": true,
+            "showText": false,
             "showButton": false,
             "paddingTop": "0",
             "paddingBottom": "0",
@@ -693,14 +686,14 @@
           },
           "title": "<b>Parishioner's who have already scheduled their mass intentions for 11:30 am and 12:30 pm will still have their intentions scheduled for 11 am.&nbsp;</b>",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-cu"
+          "_anchor": "msg-box3-cy"
         },
         {
           "_styles": {
@@ -722,7 +715,7 @@
             "showMeta": false,
             "showText": false,
             "showButton": false,
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
