@@ -585,7 +585,7 @@
           "_anchor": "image1-d0"
         },
         {
-          "text": "<p><b>Parishioners who have already scheduled their mass intentions for 11:30 am and 12:30 am will still have their intentions scheduled for 11:30am&nbsp;</b></p>",
+          "text": "<p><b>Parishioners who have already scheduled their mass intentions for 11:00am and 12:30 pm will still have their intentions scheduled for 11:30am&nbsp;</b></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -602,7 +602,7 @@
           }
         },
         {
-          "text": "<p><b>Los feligreses que ya han programado sus intenciones masivas para las 11:30 a.m. y las 12:30 a.m., todavía tendrán sus intenciones programadas para las 11:30am</b></p>",
+          "text": "<p><b>Los feligreses que ya han programado sus intenciones masivas para las 11:00a.m. y las 12:30p.m., todavía tendrán sus intenciones programadas para las 11:30am</b></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
