@@ -3,8 +3,6 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
-@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
@@ -101,25 +99,46 @@
 #features1-br H4 {
   font-family: 'Oswald', sans-serif;
 }
-#testimonials1-ct .card-block I {
-  font-size: 32px;
+#content5-a2 .mbr-section-title {
+  text-align: center;
+  color: #f1c050;
 }
-#testimonials1-ct .card-block {
+#content5-a2 .mbr-section-title B {
+  font-family: 'Open Sans', sans-serif;
+  color: #7e0202;
+}
+#pricing-table1-18 SPAN {
+  font-size: 13px;
+  font-family: 'Titillium Web', sans-serif;
+}
+#pricing-table1-18 DIV {
+  font-family: 'Oxygen', sans-serif;
+}
+#pricing-table1-18 B {
+  font-size: 18px;
+}
+#testimonials1-cx .card-block DIV {
   text-align: center;
 }
-#testimonials1-ct .card-block P {
-  font-family: 'PT Sans', sans-serif;
+#testimonials1-cx .card-block {
+  text-align: center;
 }
-#testimonials1-ct .mbr-section-title {
-  font-family: 'Roboto Condensed', sans-serif;
+#testimonials1-cx .card-block I {
+  font-family: 'Oswald', sans-serif;
 }
-#testimonials1-ct .mbr-section-title B {
-  font-size: 100px;
-  color: #890602;
-}
-#testimonials1-ct .card-block DIV {
+#testimonials1-cx .card-block B {
+  font-family: 'Oswald', sans-serif;
   font-size: 32px;
-  font-family: 'PT Sans', sans-serif;
+}
+#testimonials1-cx .card-block SPAN {
+  font-size: 32px;
+}
+#testimonials1-cx .mbr-section-title {
+  color: #890602;
+  font-family: 'Oswald', sans-serif;
+}
+#testimonials1-cx .mbr-section-title B {
+  font-size: 80px;
 }
 #msg-box3-cu .mbr-header .mbr-header__text {
   text-align: center;
@@ -150,21 +169,6 @@
   text-align: right;
   font-family: 'Oswald', sans-serif;
   color: #d9534f;
-}
-#content5-a2 .mbr-section-title {
-  text-align: center;
-  color: #f1c050;
-}
-#content5-a2 .mbr-section-title B {
-  font-family: 'Open Sans', sans-serif;
-  color: #7e0202;
-}
-#pricing-table1-18 SPAN {
-  font-size: 13px;
-  font-family: 'Titillium Web', sans-serif;
-}
-#pricing-table1-18 DIV {
-  font-family: 'Oxygen', sans-serif;
 }
 #content4-7q DIV {
   font-family: 'Oxygen', sans-serif;
