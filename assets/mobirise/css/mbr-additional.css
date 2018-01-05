@@ -3,14 +3,11 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
-
-
 
 
 
@@ -100,16 +97,6 @@
 #content5-a2 .mbr-section-title B {
   font-family: 'Open Sans', sans-serif;
   color: #7e0202;
-}
-#pricing-table1-18 SPAN {
-  font-size: 13px;
-  font-family: 'Titillium Web', sans-serif;
-}
-#pricing-table1-18 DIV {
-  font-family: 'Oxygen', sans-serif;
-}
-#pricing-table1-18 B {
-  font-size: 18px;
 }
 #content4-7q DIV {
   font-family: 'Oxygen', sans-serif;
@@ -2257,6 +2244,8 @@
 }
 
 
+
+
 #dropdown-menu-ci .hide-buttons [data-button] {
   display: none !important;
 }
@@ -2286,6 +2275,20 @@
 }
 #msg-box3-cp .mbr-header .mbr-header__subtext {
   text-align: center;
+}
+#msg-box3-cp .mbr-section-title {
+  font-family: 'Oswald', sans-serif;
+}
+#content4-db B {
+  font-size: 20px;
+}
+#content4-db P {
+  text-align: center;
+  font-size: 20px;
+}
+#content4-db H4 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 30px;
 }
 #contacts1-cj P {
   color: #26272c;
