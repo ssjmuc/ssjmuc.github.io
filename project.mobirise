@@ -17,7 +17,7 @@
       ]
     },
     "versionFirst": "4.3.0",
-    "uniqCompNum": 472,
+    "uniqCompNum": 473,
     "versionPublish": "4.5.2",
     "favicon": "",
     "noImageResize": "",
@@ -103,6 +103,17 @@
             "bgColor": "#ffffff",
             "slides": [
               {
+                "image": "@PROJECT_PATH@/assets/images/img-118-2000x1500.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/20140923-134255-resized-2000x1125.jpg",
                 "active": false,
                 "showButtons": false,
@@ -137,7 +148,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-9884-2000x2000.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -200,7 +211,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<font color=\"#7e0202\"><b>STS. JOSEPH &amp; MICHAEL PARISH</b></font>",
+          "title": "<font color=\"#7e0202\"><b>SS. JOSEPH &amp; MICHAEL PARISH</b></font>",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p><i><b>\"Saint Michael the Archangel, defend us in the battle, that we may not perish in the fearful judgment.\n\"</b></i></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
@@ -2134,47 +2145,6 @@
           ],
           "_name": "msg-box3",
           "_anchor": "msg-box3-7o"
-        },
-        {
-          "_params": {
-            "showBullets": true,
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgColor": "#efefef",
-            "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/c3481388-1536x2048.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/c3481388-1536x2048-800x1066.jpg",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/neocateastervigil-768x960.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/neocateastervigil-768x960-768x960.jpg",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/photo-100jpg-2-480x640.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/photo-100jpg-2-480x640-480x640.jpg",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-6218-960x1280.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-6218-960x1280-800x1066.jpg",
-                "active": true,
-                "alt": ""
-              }
-            ]
-          },
-          "articleLayout": false,
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-7j"
         },
         {
           "_inherit": "msg-box1",
