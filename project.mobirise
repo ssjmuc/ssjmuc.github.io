@@ -17,7 +17,7 @@
       ]
     },
     "versionFirst": "4.3.0",
-    "uniqCompNum": 462,
+    "uniqCompNum": 465,
     "versionPublish": "4.5.2",
     "favicon": "",
     "noImageResize": "",
@@ -504,7 +504,7 @@
             {
               "authorName": "ABANOUB S.",
               "authorBio": "User",
-              "text": "<p><i><b>Please note there will only be one mass in Spanish.  We all love our parish community, and are thankful  that our church can be rebuilt after the  devastating fire that it suffered on </b></i></p><p><i><b>March 4, 2017.</b></i></p>"
+              "text": "<p><i><b>Please note there will only be one mass in Spanish.  We all love our parish community, and are thankful  that our church can be rebuilt after the  devastating fire that it suffered on </b></i></p><p><i><b>March 4, 2017. &nbsp;</b></i></p>"
             },
             {
               "authorName": "SUFFIAN A.",
@@ -539,10 +539,111 @@
           }
         },
         {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".lead P": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "46px",
+              "color": "#890602",
+              "text-align": "left"
+            },
+            ".mbr-section-title B": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "color": "#d9534f"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "<b>Parishioner's who have already scheduled their mass intentions for 11:30 am and 12:30 pm will still have their intentions scheduled for 11 am.&nbsp;</b>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-cu"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-section-title DIV": {
+              "text-align": "right",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "color": "#d9534f"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "\n<div><b><span style=\"color: inherit; font-size: 2.8rem;\">Los feligreses que ya han programado sus intenciones masivas para las 11:30 a.m. y las 12:30 pm aún tendrán sus intenciones programadas para las &nbsp;</span><span style=\"color: inherit; font-size: 2.8rem;\">11 am</span></b><br></div>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>\r</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-cw"
+        },
+        {
           "_params": {
             "showTitle": true,
             "showCaption": false,
-            "paddingTop": "0",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-29-1620x1080.jpg",

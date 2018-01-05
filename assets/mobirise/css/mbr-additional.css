@@ -37,6 +37,9 @@
 
 
 
+
+
+
 #msg-box3-15 .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -117,6 +120,36 @@
 #testimonials1-ct .card-block DIV {
   font-size: 32px;
   font-family: 'PT Sans', sans-serif;
+}
+#msg-box3-cu .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-cu .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-cu .lead P {
+  font-family: 'Oswald', sans-serif;
+  font-size: 46px;
+  color: #890602;
+  text-align: left;
+}
+#msg-box3-cu .mbr-section-title B {
+  font-family: 'Oswald', sans-serif;
+  color: #d9534f;
+}
+#msg-box3-cu .mbr-section-title {
+  text-align: left;
+}
+#msg-box3-cw .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-cw .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-cw .mbr-section-title DIV {
+  text-align: right;
+  font-family: 'Oswald', sans-serif;
+  color: #d9534f;
 }
 #content5-a2 .mbr-section-title {
   text-align: center;
