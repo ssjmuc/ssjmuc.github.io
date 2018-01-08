@@ -71,7 +71,7 @@
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_params": {
             "autoplay": true,
-            "fullScreen": true,
+            "fullScreen": false,
             "paddingTop": "0",
             "paddingBottom": "0",
             "showBullets": false,
