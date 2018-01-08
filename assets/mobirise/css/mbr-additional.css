@@ -3,6 +3,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
@@ -79,11 +80,15 @@
 }
 #msg-box4-i .lead P {
   font-family: 'Lato', sans-serif;
+  font-size: 21px;
 }
 #content5-cb .mbr-section-title {
   text-align: center;
   font-family: 'Open Sans', sans-serif;
   color: #7e0202;
+}
+#content5-cb .mbr-section-title B {
+  color: #053461;
 }
 #features1-br B {
   font-family: 'Oswald', sans-serif;
@@ -100,15 +105,14 @@
   font-family: 'Open Sans', sans-serif;
   color: #7e0202;
 }
-#content1-dc P {
-  font-family: 'Oswald', sans-serif;
-  font-size: 46px;
-  text-align: left;
+#features1-de H4 {
+  font-family: 'Lato', sans-serif;
+  font-size: 25px;
 }
-#content1-dd P {
-  font-size: 46px;
-  text-align: right;
-  font-family: 'Oswald', sans-serif;
+#features1-de B {
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 36px;
+  color: #053461;
 }
 #content4-7q DIV {
   font-family: 'Oxygen', sans-serif;
