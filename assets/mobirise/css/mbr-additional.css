@@ -1,8 +1,8 @@
-@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
-@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
@@ -27,29 +27,6 @@
 
 
 
-
-
-
-
-
-#msg-box3-15 .mbr-header .mbr-header__text {
-  text-align: center;
-}
-#msg-box3-15 .mbr-header .mbr-header__subtext {
-  text-align: center;
-}
-#msg-box3-15 .mbr-section-title {
-  font-family: 'Oxygen', sans-serif;
-}
-#msg-box3-15 .mbr-section-title B {
-  color: #7e0202;
-  font-family: 'Oxygen', sans-serif;
-  font-size: 48px;
-}
-#msg-box3-15 .lead P {
-  color: #7e0202;
-  font-family: 'Oxygen', sans-serif;
-}
 #dropdown-menu-0 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -74,14 +51,6 @@
 #dropdown-menu-0 .navbar-toggler {
   color: #053461;
 }
-#msg-box4-i .mbr-section-title {
-  color: #7e0202;
-  font-family: 'Oxygen', sans-serif;
-}
-#msg-box4-i .lead P {
-  font-family: 'Lato', sans-serif;
-  font-size: 21px;
-}
 #content5-cb .mbr-section-title {
   text-align: center;
   font-family: 'Open Sans', sans-serif;
@@ -96,6 +65,22 @@
 }
 #features1-br H4 {
   font-family: 'Oswald', sans-serif;
+}
+#content4-7q DIV {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 22px;
+}
+#content4-7q B {
+  font-size: 32px;
+  font-family: 'Oxygen', sans-serif;
+  color: #7e0202;
+}
+#content4-7q H4 {
+  font-size: 32px;
+  font-family: 'Oxygen', sans-serif;
+}
+#content4-7q P {
+  font-size: 22px;
 }
 #content5-a2 .mbr-section-title {
   text-align: center;
@@ -113,22 +98,6 @@
   font-family: 'Alegreya Sans', sans-serif;
   font-size: 36px;
   color: #053461;
-}
-#content4-7q DIV {
-  font-family: 'Oxygen', sans-serif;
-  font-size: 22px;
-}
-#content4-7q B {
-  font-size: 32px;
-  font-family: 'Oxygen', sans-serif;
-  color: #7e0202;
-}
-#content4-7q H4 {
-  font-size: 32px;
-  font-family: 'Oxygen', sans-serif;
-}
-#content4-7q P {
-  font-size: 22px;
 }
 #content4-1d P {
   text-align: center;
