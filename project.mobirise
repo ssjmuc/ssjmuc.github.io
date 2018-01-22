@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "STS JOSEPH & MICHAEL PARISH",
-    "currentPage": "Home.html",
+    "currentPage": "page30.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -17,7 +17,7 @@
       ]
     },
     "versionFirst": "4.3.0",
-    "uniqCompNum": 483,
+    "uniqCompNum": 485,
     "versionPublish": "4.5.2",
     "favicon": "@PROJECT_PATH@/assets/images/untitled-1-128x111-1.png",
     "noImageResize": "",
@@ -9875,9 +9875,124 @@
         },
         {
           "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": false,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": "0",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/souper-bowl-logo-344x214.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/untitled-1-600x520.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-google-fonts.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-websites.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "<b><br></b><br><b><br></b><br><br><br><br><b><br></b><br>",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "<b>MEDITACIÓN DEL EVANGELIO - FOMENTAR UNA\n</b><div><b>COMPRENSIÓN MÁS PROFUNDA DE LAS ESCRITURAS</b></div><div><br></div>",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-dg",
+          "_styles": {
+            "B": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "DIV": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "32px"
+            },
+            "H4": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "32px"
+            }
+          }
+        },
+        {
+          "_params": {
             "showTitles": true,
             "showCaptions": true,
-            "paddingTop": 3,
+            "paddingTop": "0",
             "paddingBottom": 3,
             "columns": "2",
             "bgImageRadio": false,
@@ -9893,10 +10008,10 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title1": "ALIANZA DE LOS DOS CORAZONES&nbsp;",
-          "caption1": "<br><b>Primer viernes</b>:\n<br><br><b>7:00 p.m</b>. -Hola de Misa (Sagrado Corazón de Jesús)\n<br>Exposición del Santísimo Sacramento\n<br>Consagración de los dos corazones\n<br>\n<br><b>8:00 p.m</b>. - Holy Rosary (Misterio doloroso)\n<br><b>8:30 pm</b> -Nine Divine Office - Most Sacred Heart\n<br>de Jesús\n<br><b>10:00 pm -</b>Silent Adoration (Pausa para el café en la parroquia)\n<br>Sala)\n<br>\n<br><b>10:30 p.m</b>. - Chaplet to God our Heavenly Father\n<br><b>11:00 p.m</b>. - Oración por el sacerdote\n<br><b>11:30 p.m</b>. - Coronilla de la Divina Misericordia\n<br>\n<br><b>Primer sábado:\n</b><br><br><b>12:00 a.m.</b> - Oficina del Inmaculado Corazón de María\n<br>Bendición\n<br>Santa Misa (Inmaculado Corazón de María)",
-          "title2": "ALIANZA DE LOS DOS CORAZONES&nbsp;",
-          "caption2": "En junio, nuestro arzobispo, el cardenal Joseph Tobin,\n<br>aprobó la reconstrucción de nuestra iglesia parroquial.\n<br>Desde ese momento, un comité de feligreses a lo largo de\n<br>con el padre Aro Nathan y el padre Guillermo\n<br>Mora, se ha reunido en numerosas ocasiones con el\n<br>arquitecto arquidiocesano, el Sr. James Hundt, a\n<br>desarrollar los planes de reconstrucción para el templo.\n<br>Según las pautas litúrgicas, el comité\n<br>consideraron diferentes modelos presentados por el Sr.\n<br>Hundt.\n<br>\n<br>El domingo, 14 de enero, el Sr. Hundt hará una\n<br>presentación a toda la comunidad parroquial de la\n<br>modelo que ha recibido el mayor apoyo para\n<br>fecha. La presentación se hará en inglés y\n<br>Español.\n<br>\n<br>Es importante que cada feligrés tenga esto\n<br>información disponible, así como\n<br>oportunidad de expresar una opinión sobre los diversos\n<br>detalles personalmente considerados importantes en el\n<br>reconstrucción del templo. Los miembros de la\n<br>el comité tomará nota de las sugerencias y\n<br>puntos de vista expresados ​​por la comunidad parroquial antes\n<br>haciendo su recomendación final.\n<br>Para facilitar la asistencia a esta presentación,\n<br>El horario de misa será diferente el domingo,\n<br>14 de enero.\n<br>\n<br><b>9:30 a.m</b>.: misa (inglés)\n<br><b>10:30 AM</b>: Presentación del Plan Propuesto\n<br>para la Renovación de la Iglesia\n<br><b>12:00 PM</b>: Misa (español)\n<br>\n<br>Tenga en cuenta que solo habrá una misa en español.\n<br>Todos amamos a nuestra comunidad parroquial, y estamos agradecidos\n<br>que nuestra iglesia puede ser reconstruida después de la\n<br>fuego devastador que sufrió el 4 de marzo de 2017.\n<br>Se nos anima a todos a asistir a esta presentación.\n<br>Es necesario mantenerse informado y expresar\n<br>lo que cada uno consideramos importante (o preferido) en\n<br>la restauración, para hacer que nuestra iglesia parroquial\n<br>el mejor hogar posible para todos los litúrgicos\n<br>celebraciones de nuestra comunidad de Ss. Joseph y\n<br>Miguel.",
+          "title1": "El domingo 4 de febrero de 2018, más de 100 millones de estadounidenses sintonizarán para ver el Super Bowl. En \n<div>muchos hogares, se organizarán fiestas con abundancia de comida, amistad y \n</div><div>compañerismo. Al mismo \n</div><div>tiempo, otros miembros de la comunidad tendrán dificultades para poner comida en sus \n</div><div>mesas. Al leer fuera de la misa los días 3 y 4 de febrero, verás a los miembros de nuestro programa de \n</div><div>Confirmación de la parroquia con grandes ollas para sopa. ¡Por favor, done todo lo que pueda! Todas las donaciones beneficiarán a nuestra despensa de \n</div><div>alimentos de la parroquia para proporcionar alimentos a las familias necesitadas en nuestra comunidad local.\n</div><div><br></div>",
+          "caption1": "<br><br>",
+          "title2": "<div>21 de enero de 2018 tercer domingo del tiempo ordinario \"Entonces dejaron a su padre Zebedeo en la barca junto con los jornaleros y lo siguieron\". ¿Qué pensó Zebedee acerca de todo esto? Sus hijos y sus socios, James y John, repentinamente dejaron su puesto y siguieron a Jesús. Entonces allí estaba parado en el bote con una tripulación de empleados, pero ninguno de sus hijos. No podemos evitar preguntarnos si Zebedeo estaba a favor de esta promesa de que sus herederos se convertirían en \"pescadores de hombres\". Lo más probable es que este evento haya sido la causa de cierta tensión familiar.\n</div><div>&nbsp;A lo largo de los Evangelios, Jesús nos instruye a amar y servir a los demás por el amor de Dios. Pero el Señor también deja en claro que nuestra devoción por él tiene como fin superar nuestra devoción a cualquier cosa, o a cualquier otra persona. Por nuestra parte, estamos llamados a permitir que esta lealtad divina exista en aquellos a quienes amamos, incluso cuando también signifique un sacrificio para nosotros. Los padres, por ejemplo, como Zebedeo, están llamados a alentar a sus hijos a seguir el llamado del Señor. La vocación de un hijo o hija a la vida religiosa ciertamente ejemplifica este tipo de sacrificio para un padre que podría haber tenido un plan diferente en mente. Pero en verdad cada hijo e hija tiene una vocación de Dios y los padres tienen la oportunidad de apoyar y ayudar a sus hijos mientras buscan escuchar y seguir el plan especial de Dios para sus vidas.\n</div><div>&nbsp;No sabemos con certeza cómo respondió Zebedeo a la vocación de sus hijos, pero sabemos que Santiago y Juan fueron contados entre los Doce Apóstoles y que su devoción y dedicación ayudaron a difundir el Evangelio hasta los confines de la tierra. Independientemente de lo que podría haber pensado al estar parado en ese bote, podemos estar seguros de que al mirar hacia atrás ahora, Zebedeo puede regocijarse sinceramente en la elección de sus hijos de dejar sus redes y seguir a Cristo.\n</div><div><br></div>",
+          "caption2": "",
           "title3": "Web Fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Websites",
@@ -9916,9 +10031,14 @@
               "font-size": "20px"
             },
             "H4": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "30px"
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "20px"
+            },
+            "DIV": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "20px"
             }
           }
         },
@@ -10117,12 +10237,12 @@
         },
         {
           "_params": {
-            "showImages": false,
-            "showTitles": false,
+            "showImages": true,
+            "showTitles": true,
             "showCaptions": false,
             "showButtons": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "columns": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
@@ -10139,10 +10259,13 @@
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/feature-bootstrap.png",
+              "src": "@PROJECT_PATH@/assets/images/souper-bowl-logo-344x214.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
@@ -10152,10 +10275,13 @@
           },
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/feature-responsive.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-1-600x520.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features1",
@@ -10189,9 +10315,9 @@
               "size": 0
             }
           },
-          "title1": "Bootstrap 3",
+          "title1": "<br><br><br><br><br>SUPER BOWL OF CARING 2018<br><br><br><br><br><br>On Sunday February 4th 2018, over <br>100 million \n<div>Americans will tune in to watch the Super Bowl. In many homes, parties with an abundance of food, friendship, and fellowship will be will be hosted. At the very same time, others in the community will struggle to put a meal on their tables. As you read out of mass on February 3rd and 4th, you will see \n</div><div>members of our parish Confirmation program holding large soup pots. Please donate as much as you can! All donations will benefit our parish Food Pantry to provide food to the needy families in our local community.                                        \n</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \n</div><div><br></div>",
           "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Responsive",
+          "title2": "GOSPEL MEDITATION - ENCOURAGE DEEPER \n<div>UNDERSTANDING OF SCRIPTURE\n</div><div><br></div><div>&nbsp;</div><br><div>January 21, 2018 3rd Sunday in Ordinary Time</div><div>\"So they left their father Zebedee in the boat along with the hired men and followed him.\" What did Zebedee think about all of this? His sons and his partners, James and John, suddenly left their post and followed Jesus. So there he stood in the boat with a crew of employees, but not one of his sons. We can't help but wonder whether Zebedee was in favor of this promise that his heirs would become \"fishers of men.\" Most likely, this event was the cause of some familial tension.</div><div>&nbsp;Throughout the Gospels, Jesus instructs us to love and serve others for the love of God. But the Lord also makes it clear that our devotion to him is meant to trump our devotion to anything--or anyone--else. For our part, we are called to allow this divine allegiance to exist in those we love, even when it means a sacrifice for us as well. Parents for example, like Zebedee, are called to encourage their children to follow the Lord's call. A son or daughter's vocation to religious life certainly exemplifies this kind of sacrifice for a parent who might have had a different plan in mind. But in truth every son and daughter has a vocation from God and parents have the opportunity to support and assist their children as they seek to hear and follow God's special plan for their lives.</div><div>&nbsp;We don't know for sure how Zebedee responded to the vocation of his sons, but we know that James and John were counted among the Twelve Apostles and that their devotion and dedication helped to spread the Gospel to the ends of the earth. Regardless of what he might have thought as he stood in that boat, we can be quite sure that looking back now, Zebedee can rejoice heartily in the choice of his sons to leave their nets and follow Christ.\n</div><div><br></div>",
           "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "title3": "Web Fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
@@ -10206,57 +10332,15 @@
             "Theme"
           ],
           "_name": "features1",
-          "_anchor": "features1-cq"
-        },
-        {
-          "_params": {
-            "showTitles": true,
-            "showCaptions": true,
-            "paddingTop": "0",
-            "paddingBottom": 3,
-            "columns": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title1": "ALLIANCE OF THE TWO HEARTS&nbsp;",
-          "caption1": "<b>First Friday:</b>\n<br><b><br></b><br><b>7:00pm </b>-Holy Mass <br>(Most Sacred Heart of Jesus)\n<br> Exposition of the Blessed Sacrament\n<br> Consecration of the Two Hearts\n<br><br><b>8:00pm</b> - Holy Rosary <br>(Sorrowful Mystery)\n<br><b><br></b><br><b>8:30pm</b> -Nine Divine Office - Most Sacred Heart\n<br> of Jesus\n<br><b><br></b><br><b>1</b><b>0:00pm</b> -Silent Adoration <br><br>(Coffee Break at Parish\nHall)\n<br><br><b>10:30pm</b> - Chaplet to God our Heavenly Father\n<br><b><br></b><br><b>11:00pm</b> - Prayer for Priest\n<br><b><br></b><br><b>11:30pm</b> - Chaplet of Divine Mercy\n<br><br><b>First Saturday:\n</b><br><b><br></b><br><b>12:00am</b> - Office of the Immaculate Heart of Mary\n<br> Benediction Holy Mass <br>(Immaculate Heart of Mary)",
-          "title2": "SPECIAL INVITATION FOR JANUARY 14",
-          "caption2": "In June, our Archbishop, Cardinal Joseph Tobin,\n<br>approved the reconstruction of our parish church.\n<br>Since that time, a committee of parishioners along\n<br>with Father Aro Nathan and Father Guillermo\n<br>Mora, has gathered numerous times with the\n<br>archdiocesan architect, Mr. James Hundt, to\n<br>develop the reconstruction plans for the temple.\n<br>According the liturgical guidelines, the committee\n<br>considered different models presented by Mr.\n<br>Hundt.\n<br>\n<br>On Sunday, January 14th, Mr. Hundt will make a\n<br>presentation to the entire parish community of the\n<br>model which has received the greatest support to\n<br>date. The presentation will be made in English and\n<br>Spanish.\n<br>\n<br>It is important that every parishioner have this\n<br>information readily available, as well as the\n<br>opportunity to express an opinion on the various\n<br>details personally considered important in the\n<br>reconstruction of the temple. The members of the\n<br>committee will make note of suggestions and\n<br>views expressed by the parish community before\n<br>making its final recommendation.\n<br>To facilitate the attendance at this presentation the\n<br>Mass Schedule will be different on Sunday,\n<br>January 14th. \n<br>\n<br><b>9:30AM</b>: Mass (English)\n<br><b>10:30AM</b>: Presentation of the Proposed Plan\n<br>for the Church Renovation\n<br><b>12:00PM</b>: Mass (Spanish)\n<br><br>Please note there will only be one mass in Spanish.\n<br>We all love our parish community, and are thankful\n<br>that our church can be rebuilt after the\n<br>devastating fire that it suffered on March 4, 2017.\n<br>We are all encouraged to attend this presentation.\n<br>It is necessary to remain informed and to express\n<br>what we each find to be important (or preferred) in\n<br>the restoration, in order to make our parish church\n<br>the best possible home for all the liturgical\n<br>celebrations of our community of Ss. Joseph and\n<br>Michael.<br><br>",
-          "title3": "Web Fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Websites",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content4",
-          "_anchor": "content4-cr",
+          "_anchor": "features1-df",
           "_styles": {
-            "P": {
-              "text-align": "left",
-              "font-size": "20px",
+            "DIV": {
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
-            "B": {
-              "font-size": "19px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
             "H4": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           }
         },
