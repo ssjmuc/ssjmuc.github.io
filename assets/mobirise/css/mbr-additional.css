@@ -2223,6 +2223,8 @@
 
 
 
+
+
 #dropdown-menu-ci .hide-buttons [data-button] {
   display: none !important;
 }
@@ -2256,6 +2258,12 @@
 #msg-box3-cp .mbr-section-title {
   font-family: 'Oswald', sans-serif;
 }
+#msg-box3-cp .mbr-section-title DIV {
+  font-family: 'Roboto', sans-serif;
+}
+#msg-box3-cp .mbr-section-title B {
+  font-family: 'Roboto', sans-serif;
+}
 #features1-dg B {
   font-family: 'Oswald', sans-serif;
 }
@@ -2265,7 +2273,7 @@
 }
 #features1-dg H4 {
   font-family: 'Oswald', sans-serif;
-  font-size: 32px;
+  font-size: 21px;
 }
 #content4-db B {
   font-size: 20px;
@@ -2296,6 +2304,7 @@
   color: #26272c;
   text-align: center;
 }
+
 
 
 
@@ -2333,10 +2342,15 @@
   text-align: center;
 }
 #msg-box3-co .mbr-section-title DIV {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-size: 46px;
 }
 #msg-box3-co .mbr-section-title {
   font-family: 'Oswald', sans-serif;
+}
+#msg-box3-co .mbr-section-title B {
+  font-family: 'Roboto', sans-serif;
+  font-size: 46px;
 }
 #features1-df DIV {
   font-family: 'Roboto', sans-serif;

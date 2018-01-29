@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "STS JOSEPH & MICHAEL PARISH",
-    "currentPage": "page30.html",
+    "currentPage": "page31.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -9840,6 +9840,14 @@
             ".mbr-section-title": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-section-title DIV": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".mbr-section-title B": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           },
           "_params": {
@@ -9879,7 +9887,7 @@
             "showTitles": true,
             "showCaptions": false,
             "showButtons": false,
-            "paddingTop": 3,
+            "paddingTop": "0",
             "paddingBottom": "0",
             "columns": "2",
             "bgImageRadio": false,
@@ -9953,9 +9961,9 @@
               "size": 0
             }
           },
-          "title1": "<b><br></b><br><b><br></b><br><br><br><br><b><br></b><br>",
+          "title1": "",
           "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "<b>MEDITACIÓN DEL EVANGELIO - FOMENTAR UNA COMPRENSIÓN MÁS PROFUNDA DE LAS ESCRITURAS&nbsp;\n</b><div><br><div><br></div></div>",
+          "title2": "MEDITACIÓN DEL EVANGELIO - FOMENTAR UNA COMPRENSIÓN MÁS PROFUNDA DE LAS ESCRITURAS&nbsp;",
           "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "title3": "Web Fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
@@ -9984,7 +9992,7 @@
             "H4": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "32px"
+              "font-size": "21px"
             }
           }
         },
@@ -10010,7 +10018,7 @@
           },
           "title1": "El domingo 4 de febrero de 2018, más de 100 millones de estadounidenses sintonizarán para ver el Super Bowl. En \n<div>muchos hogares, se organizarán fiestas con abundancia de comida, amistad y \n</div><div>compañerismo. Al mismo \n</div><div>tiempo, otros miembros de la comunidad tendrán dificultades para poner comida en sus \n</div><div>mesas. Al leer fuera de la misa los días 3 y 4 de febrero, verás a los miembros de nuestro programa de \n</div><div>Confirmación de la parroquia con grandes ollas para sopa. ¡Por favor, done todo lo que pueda! Todas las donaciones beneficiarán a nuestra despensa de \n</div><div>alimentos de la parroquia para proporcionar alimentos a las familias necesitadas en nuestra comunidad local.\n</div><div><br></div>",
           "caption1": "<br><br>",
-          "title2": "<div>4 de febrero de 2018 5  domingo del tiempo ordinario \n</div><div>Para la mayoría de nosotros, la dinámica entre oración y acción es imperfecta. El desayuno debe hacerse y los niños vestidos. El \n</div><div>trabajo demanda nuestra energía y responsabilidades adicionales llenan nuestras tardes y fines de semana. Luego está el juego de fútbol o una nueva serie de televisión para transmitir. Después de todo, ¿no necesitamos relajarnos? Todos estamos ocupados. Pero imagina la situación de Jesús en el Evangelio de hoy. Él sana a la suegra de Pedro, expulsa a los demonios y cura las enfermedades hasta altas horas de la noche. Con muy poco sueño, se levanta antes del amanecer para capturar un poco de paz y tranquilidad, solo para descubrir que \"los que estaban con él lo persiguieron\". ¿Con qué frecuencia nos sentimos perseguidos por los compromisos acosados, incluso cuando tratamos de buscar descanso? Tal vez podamos aprender algo de la respuesta de Jesús. Jesús modela dos cosas clave: la naturaleza esencial de la oración y el llamado esencial de la vocación. \"Se fue a un lugar desierto, donde rezó\". A pesar del cansancio inevitable, Jesús prioriza el tiempo con el Padre. Puede que no tengamos fácil acceso a los desiertos y las cimas de las montañas, pero el Evangelio de hoy nos desafía a tomar un tiempo intencional apartado para Dios. Podemos designar una \"silla de oración\" en un rincón de nuestra casa o salir un poco más temprano para recoger a nuestros niños de la escuela para poder tomar tiempo en una capilla cercana. Podemos rezar el rosario en nuestro viaje o llevar al perro a dar un largo paseo en silencio. Sin embargo, cuando llegan los Apóstoles, Jesús no se queda demasiado tiempo en el lugar desierto ni se excusa de por qué no puede volver con sus amigos. Jesús es fiel a su llamado. Continúa en su estado de vida, sirviendo a las personas más \n</div><div>cercanas a él. Al igual que Jesús, estamos invitados a establecer un tiempo intencional para la comunión con Dios a fin de que \n</div><div>podamos ser refrescados y fortalecidos para nuestra comunión con los demás. \n</div><div><br></div>",
+          "title2": "<div>4 de febrero de 2018 5to &nbsp;domingo del tiempo ordinario \n</div><div>Para la mayoría de nosotros, la dinámica entre oración y acción es imperfecta. El desayuno debe hacerse y los niños vestidos. El \n</div><div>trabajo demanda nuestra energía y responsabilidades adicionales llenan nuestras tardes y fines de semana. Luego está el juego de fútbol o una nueva serie de televisión para transmitir. Después de todo, ¿no necesitamos relajarnos? Todos estamos ocupados. Pero imagina la situación de Jesús en el Evangelio de hoy. Él sana a la suegra de Pedro, expulsa a los demonios y cura las enfermedades hasta altas horas de la noche. Con muy poco sueño, se levanta antes del amanecer para capturar un poco de paz y tranquilidad, solo para descubrir que \"los que estaban con él lo persiguieron\". ¿Con qué frecuencia nos sentimos perseguidos por los compromisos acosados, incluso cuando tratamos de buscar descanso? Tal vez podamos aprender algo de la respuesta de Jesús. Jesús modela dos cosas clave: la naturaleza esencial de la oración y el llamado esencial de la vocación. \"Se fue a un lugar desierto, donde rezó\". A pesar del cansancio inevitable, Jesús prioriza el tiempo con el Padre. Puede que no tengamos fácil acceso a los desiertos y las cimas de las montañas, pero el Evangelio de hoy nos desafía a tomar un tiempo intencional apartado para Dios. Podemos designar una \"silla de oración\" en un rincón de nuestra casa o salir un poco más temprano para recoger a nuestros niños de la escuela para poder tomar tiempo en una capilla cercana. Podemos rezar el rosario en nuestro viaje o llevar al perro a dar un largo paseo en silencio. Sin embargo, cuando llegan los Apóstoles, Jesús no se queda demasiado tiempo en el lugar desierto ni se excusa de por qué no puede volver con sus amigos. Jesús es fiel a su llamado. Continúa en su estado de vida, sirviendo a las personas más \n</div><div>cercanas a él. Al igual que Jesús, estamos invitados a establecer un tiempo intencional para la comunión con Dios a fin de que \n</div><div>podamos ser refrescados y fortalecidos para nuestra comunión con los demás. \n</div><div><br></div>",
           "caption2": "",
           "title3": "Web Fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
@@ -10196,12 +10204,18 @@
               "text-align": "center"
             },
             ".mbr-section-title DIV": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "46px"
             },
             ".mbr-section-title": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-section-title B": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "46px"
             }
           },
           "_params": {
@@ -10317,7 +10331,7 @@
           },
           "title1": "<br><br><br><br><b><br>SUPER BOWL OF CARING 2018</b><br><br><br><br><br><br>On Sunday February 4th 2018, over <br>100 million \n<div>Americans will tune in to watch the Super Bowl. In many homes, parties with an abundance of food, friendship, and fellowship will be will be hosted. At the very same time, others in the community will struggle to put a meal on their tables. As you read out of mass on February 3rd and 4th, you will see \n</div><div>members of our parish Confirmation program holding large soup pots. Please donate as much as you can! All donations will benefit our parish Food Pantry to provide food to the needy families in our local community.                                        \n</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \n</div><div><br></div>",
           "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "<div><b>GOSPEL</b> <b>MEDITATION - ENCOURAGE</b> <b>DEEPER \n</b></div><div><b>UNDERSTANDING OF SCRIPTURE</b></div><br><br><br><div><b><br></b></div><div><b>\n</b></div><div>February 4, 2018 5th Sunday in Ordinary Time</div><div>For most of us, the dynamic between prayer and action is \n</div><div>imperfect. Breakfast needs to be made and the kids dressed. Work demands our energy and additional responsibilities fill our evenings and weekends. Then there's the football game or a new TV series to stream. After all, don't we need to relax?</div><div>We're all busy. But just imagine Jesus' situation in today's Gospel. He heals Peter's mother-in-law, drives out demons, and cures diseases late into the night. With very little sleep, he arises before dawn to capture some peace and quiet, only to find \"those who were with him pursued him.\" How often do we feel pursued by the harried commitments, even when we try to seek rest? Perhaps we can learn something from the \n</div><div>response of Jesus.</div><div>Jesus models two key things: the essential nature of prayer and the essential call of vocation. \"He went off to a deserted place, where he prayed.\" Despite inevitable exhaustion, Jesus \n</div><div>prioritizes time with the Father. We might not have easy access to deserts and mountaintops, but today's Gospel challenges us to take intentional time set apart for God. We can \n</div><div>designate a \"prayer chair\" in a corner of our home or leave a little earlier to pick our children up from school so we can snatch time in a nearby chapel. We can pray the rosary on our commute or take the dog for a long walk in silence.</div><div>However, when the Apostles arrive, Jesus doesn't linger \n</div><div>overlong in the deserted place or make an excuse for why he can't return with his friends. Jesus is true to his calling. He \n</div><div>continues on in his state of life, serving the people nearest to him. Like Jesus, we are invited to set intentional time for \n</div><div>communion with God so that we can be refreshed and \n</div><div>empowered for our communion with others. \n</div><div><br></div>",
+          "title2": "<div><b>GOSPEL</b> <b>MEDITATION - ENCOURAGE</b> <b>DEEPER \n</b></div><div><b>UNDERSTANDING OF SCRIPTURE</b></div><br><br><br><div><b><br></b></div><div><b>\n</b></div><div>February 4, 2018 5th Sunday in Ordinary Time</div><div>For most of us, the dynamic between prayer and action is&nbsp;<span style=\"color: inherit;\">imperfect. Breakfast needs to be made and the kids dressed. Work demands our energy and additional responsibilities fill our evenings and weekends. Then there's the football game or a new TV series to stream. After all, don't we need to relax?</span></div><div>We're all busy. But just imagine Jesus' situation in today's Gospel. He heals Peter's mother-in-law, drives out demons, and cures diseases late into the night. With very little sleep, he arises before dawn to capture some peace and quiet, only to find \"those who were with him pursued him.\" How often do we feel pursued by the harried commitments, even when we try to seek rest? Perhaps we can learn something from the&nbsp;<span style=\"color: inherit;\">response of Jesus.</span></div><div>Jesus models two key things: the essential nature of prayer and the essential call of vocation. \"He went off to a deserted place, where he prayed.\" Despite inevitable exhaustion, Jesus \n</div><div>prioritizes time with the Father. We might not have easy access to deserts and mountaintops, but today's Gospel challenges us to take intentional time set apart for God. We can \n</div><div>designate a \"prayer chair\" in a corner of our home or leave a little earlier to pick our children up from school so we can snatch time in a nearby chapel. We can pray the rosary on our commute or take the dog for a long walk in silence.</div><div>However, when the Apostles arrive, Jesus doesn't linger \n</div><div>overlong in the deserted place or make an excuse for why he can't return with his friends. Jesus is true to his calling. He&nbsp;<span style=\"color: inherit;\">continues on in his state of life, serving the people nearest to him. Like Jesus, we are invited to set intentional time for&nbsp;</span><span style=\"color: inherit;\">communion with God so that we can be refreshed and</span></div><div>empowered for our communion with others. \n</div><div><br></div>",
           "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "title3": "Web Fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
