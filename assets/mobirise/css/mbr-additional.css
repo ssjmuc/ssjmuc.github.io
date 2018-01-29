@@ -2340,9 +2340,13 @@
 }
 #features1-df DIV {
   font-family: 'Roboto', sans-serif;
+  font-size: 20px;
 }
 #features1-df H4 {
   font-family: 'Roboto', sans-serif;
+}
+#features1-df B {
+  font-size: 25px;
 }
 #contacts1-cm P {
   color: #26272c;
