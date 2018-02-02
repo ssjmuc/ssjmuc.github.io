@@ -7,13 +7,13 @@
       "title": "PurityM",
       "styling": {},
       "additionalSetColors": [
+        "#ca1813",
         "#00366a",
         "#26272c",
         "#890602",
         "#7e0202",
         "#053461",
-        "#725c48",
-        "#72520b"
+        "#725c48"
       ]
     },
     "versionFirst": "4.3.0",
@@ -162,7 +162,8 @@
               "color": "#7e0202"
             },
             ".mbr-section-title B": {
-              "color": "#053461"
+              "color": "#ca1813",
+              "font-size": "80px"
             }
           }
         },
@@ -173,7 +174,7 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1325x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-38-1620x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -185,8 +186,8 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.4"
           },
-          "title": "<b>Correccion del boletin de esta semana:&nbsp;</b>",
-          "caption": "<p>El retiro de pascua sera el 17 de febrero de 2018 en la escuela Mother Seton de 9:00 a.m. a 3:00 p.m.</p>",
+          "title": "<b>Correccíon del Boletín de esta semana:</b><b>&nbsp;</b>",
+          "caption": "<p>El retiro de pascua sera el 17 de febrero de 2018 en la escuela Mother Seton de9:00 a.m. a 3:00 p.m.</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -196,9 +197,9 @@
           "_styles": {
             "P": {
               "text-align": "center",
-              "font-family": "'Droid Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
-              "font-size": "36px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "46px",
               "color": "#ffffff"
             },
             ".mbr-section-title": {
@@ -207,7 +208,10 @@
               "text-align": "center"
             },
             ".mbr-section-title B": {
-              "color": "#ffffff"
+              "color": "#fff8e0",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "84px"
             }
           }
         },
@@ -224,7 +228,7 @@
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -325,14 +329,14 @@
           "_params": {
             "showTitles": true,
             "showCaptions": true,
-            "paddingTop": "0",
+            "paddingTop": "3",
             "paddingBottom": "1",
             "columns": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -387,12 +391,12 @@
             "inverse": true,
             "imageSize": 50,
             "paddingTop": 0,
-            "paddingBottom": "0",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -435,45 +439,6 @@
         },
         {
           "_params": {
-            "showTitle": true,
-            "showCaption": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-29-1620x1080.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#053461",
-            "overlayOpacity": "0.5"
-          },
-          "title": "<b><a href=\"Information.html\" class=\"text-danger\">Schedule &amp; Services!</a></b>",
-          "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-a2",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "center",
-              "color": "#f1c050"
-            },
-            ".mbr-section-title B": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#7e0202"
-            }
-          }
-        },
-        {
-          "_params": {
             "showText": false
           },
           "media": {
@@ -499,9 +464,48 @@
         },
         {
           "_params": {
+            "showTitle": true,
+            "showCaption": false,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-29-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#053461",
+            "overlayOpacity": "0.5"
+          },
+          "title": "<b><a href=\"Information.html\" class=\"text-danger\"><i>Sch</i>e<i>dule &amp; Services!</i></a></b>",
+          "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-a2",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "color": "#f1c050"
+            },
+            ".mbr-section-title B": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#7e0202"
+            }
+          }
+        },
+        {
+          "_params": {
             "showTitles": true,
             "showCaptions": true,
-            "paddingTop": "3",
+            "paddingTop": "0",
             "paddingBottom": "1",
             "columns": "2",
             "bgImageRadio": false,
@@ -580,7 +584,7 @@
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#890602",
+            "bgColor": "#ca1813",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"

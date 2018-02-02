@@ -1,15 +1,16 @@
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
+
 
 
 
@@ -58,12 +59,13 @@
   color: #7e0202;
 }
 #content5-cb .mbr-section-title B {
-  color: #053461;
+  color: #ca1813;
+  font-size: 80px;
 }
 #content5-dh P {
   text-align: center;
-  font-family: 'Droid Sans', sans-serif;
-  font-size: 36px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 46px;
   color: #ffffff;
 }
 #content5-dh .mbr-section-title {
@@ -71,7 +73,9 @@
   text-align: center;
 }
 #content5-dh .mbr-section-title B {
-  color: #ffffff;
+  color: #fff8e0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 84px;
 }
 #features1-br B {
   font-family: 'Oswald', sans-serif;
