@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "STS JOSEPH & MICHAEL PARISH",
-    "currentPage": "Home.html",
+    "currentPage": "page31.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -17,12 +17,13 @@
       ]
     },
     "versionFirst": "4.3.0",
-    "uniqCompNum": 486,
-    "versionPublish": "4.5.2",
+    "uniqCompNum": 496,
+    "versionPublish": "4.6.4",
     "favicon": "@PROJECT_PATH@/assets/images/untitled-1-128x111-1.png",
     "noImageResize": "",
     "cookiesAlert": "",
-    "google-analytics": "Coming together as a community, and as a family, to worship is a visible sign of unity and fraternal love, sharing “One Lord, One Baptism, and One Faith."
+    "google-analytics": "Coming together as a community, and as a family, to worship is a visible sign of unity and fraternal love, sharing “One Lord, One Baptism, and One Faith.",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "Home.html": {
@@ -169,51 +170,28 @@
         },
         {
           "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-38-1620x1080.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#053461",
-            "overlayOpacity": "0.4"
+            "showText": false
           },
-          "title": "<b>Correccíon del Boletín de esta Semana:</b><b>&nbsp;</b>",
-          "caption": "<p>El retiro de pascua sera el 17 de febrero de 2018 en la escuela Mother Seton de 9:00 a.m. a 3:00 p.m.</p>",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/untitled-design-1200x628.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "content5",
-          "_anchor": "content5-dh",
-          "_styles": {
-            "P": {
-              "text-align": "center",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "46px",
-              "color": "#ffffff"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "text-align": "center"
-            },
-            ".mbr-section-title B": {
-              "color": "#fff8e0",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "84px"
-            }
-          }
+          "_name": "image1",
+          "_anchor": "image1-dm"
         },
         {
           "_params": {
@@ -9879,66 +9857,44 @@
           "_anchor": "dropdown-menu-ci"
         },
         {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            ".mbr-section-title DIV": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            },
-            ".mbr-section-title B": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            }
-          },
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
+            "showCaption": false,
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Easy to Use!",
+          "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-dp"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": false,
             "showMeta": false,
             "showText": false,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "<b>Anuncios Parroquiales\n</b><div><b>Parroquia San Jose y Miguel</b></div>",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-cp"
-        },
-        {
-          "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showCaptions": false,
             "showButtons": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "columns": "2",
+            "inverse": true,
+            "imageSize": "70",
+            "paddingTop": 0,
+            "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -9949,155 +9905,40 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": false,
-            "overlayColor": "#222",
+            "overlayColor": "#fff",
             "overlayOpacity": 0.5
           },
-          "media1": {
+          "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/souper-bowl-logo-344x214.jpg",
-              "class": "card-img-top",
-              "width": 600,
               "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/untitled-design-2-1200x628.png",
               "link": "",
               "alt": "",
               "title": ""
             },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-1-600x520.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
               "link": "",
               "size": 0
             }
           },
-          "media3": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/feature-google-fonts.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/feature-websites.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title1": "",
-          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "MEDITACIÓN DEL EVANGELIO - FOMENTAR UNA COMPRENSIÓN MÁS PROFUNDA DE LAS ESCRITURAS&nbsp;",
-          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "title": "Drag &amp; Drop Website Builder",
+          "text": "<p>Mobirise helps you cut down development time by providing you with a flexible website editor.</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "features1",
-          "_anchor": "features1-dg",
-          "_styles": {
-            "B": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            "DIV": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "32px"
-            },
-            "H4": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "21px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitles": true,
-            "showCaptions": true,
-            "paddingTop": "0",
-            "paddingBottom": 3,
-            "columns": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title1": "El domingo 4 de febrero de 2018, más de 100 millones de estadounidenses sintonizarán para ver el Super Bowl. En \n<div>muchos hogares, se organizarán fiestas con abundancia de comida, amistad y \n</div><div>compañerismo. Al mismo \n</div><div>tiempo, otros miembros de la comunidad tendrán dificultades para poner comida en sus \n</div><div>mesas. Al leer fuera de la misa los días 3 y 4 de febrero, verás a los miembros de nuestro programa de \n</div><div>Confirmación de la parroquia con grandes ollas para sopa. ¡Por favor, done todo lo que pueda! Todas las donaciones beneficiarán a nuestra despensa de \n</div><div>alimentos de la parroquia para proporcionar alimentos a las familias necesitadas en nuestra comunidad local.\n</div><div><br></div>",
-          "caption1": "<br><br>",
-          "title2": "<div>4 de febrero de 2018 5to &nbsp;domingo del tiempo ordinario \n</div><div>Para la mayoría de nosotros, la dinámica entre oración y acción es imperfecta. El desayuno debe hacerse y los niños vestidos. El \n</div><div>trabajo demanda nuestra energía y responsabilidades adicionales llenan nuestras tardes y fines de semana. Luego está el juego de fútbol o una nueva serie de televisión para transmitir. Después de todo, ¿no necesitamos relajarnos? Todos estamos ocupados. Pero imagina la situación de Jesús en el Evangelio de hoy. Él sana a la suegra de Pedro, expulsa a los demonios y cura las enfermedades hasta altas horas de la noche. Con muy poco sueño, se levanta antes del amanecer para capturar un poco de paz y tranquilidad, solo para descubrir que \"los que estaban con él lo persiguieron\". ¿Con qué frecuencia nos sentimos perseguidos por los compromisos acosados, incluso cuando tratamos de buscar descanso? Tal vez podamos aprender algo de la respuesta de Jesús. Jesús modela dos cosas clave: la naturaleza esencial de la oración y el llamado esencial de la vocación. \"Se fue a un lugar desierto, donde rezó\". A pesar del cansancio inevitable, Jesús prioriza el tiempo con el Padre. Puede que no tengamos fácil acceso a los desiertos y las cimas de las montañas, pero el Evangelio de hoy nos desafía a tomar un tiempo intencional apartado para Dios. Podemos designar una \"silla de oración\" en un rincón de nuestra casa o salir un poco más temprano para recoger a nuestros niños de la escuela para poder tomar tiempo en una capilla cercana. Podemos rezar el rosario en nuestro viaje o llevar al perro a dar un largo paseo en silencio. Sin embargo, cuando llegan los Apóstoles, Jesús no se queda demasiado tiempo en el lugar desierto ni se excusa de por qué no puede volver con sus amigos. Jesús es fiel a su llamado. Continúa en su estado de vida, sirviendo a las personas más \n</div><div>cercanas a él. Al igual que Jesús, estamos invitados a establecer un tiempo intencional para la comunión con Dios a fin de que \n</div><div>podamos ser refrescados y fortalecidos para nuestra comunión con los demás. \n</div><div><br></div>",
-          "caption2": "",
-          "title3": "Web Fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Websites",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content4",
-          "_anchor": "content4-db",
-          "_styles": {
-            "B": {
-              "font-size": "20px"
-            },
-            "P": {
-              "text-align": "center",
-              "font-size": "20px"
-            },
-            "H4": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "20px"
-            },
-            "DIV": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "20px"
-            }
-          }
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-do"
         },
         {
           "_params": {
@@ -10245,68 +10086,16 @@
           "_anchor": "dropdown-menu-cl"
         },
         {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            },
-            ".mbr-section-title DIV": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-size": "46px"
-            },
-            ".mbr-section-title": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            },
-            ".mbr-section-title B": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-size": "46px"
-            }
-          },
+          "_inherit": "msg-box5",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showMeta": false,
             "showText": false,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "<b>Parish Announcements \n</b><div><b>Ss. Joseph &amp; Michael Church</b></div>",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-co"
-        },
-        {
-          "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showCaptions": false,
             "showButtons": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "columns": "2",
+            "inverse": true,
+            "imageSize": "70",
+            "paddingTop": 0,
+            "paddingBottom": 0,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -10317,99 +10106,40 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": false,
-            "overlayColor": "#222",
+            "overlayColor": "#fff",
             "overlayOpacity": 0.5
           },
-          "media1": {
+          "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/souper-bowl-logo-344x214.jpg",
-              "class": "card-img-top",
-              "width": 600,
               "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/untitled-design-3-1200x628.png",
               "link": "",
               "alt": "",
               "title": ""
             },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/untitled-1-600x520.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
               "link": "",
               "size": 0
             }
           },
-          "media3": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/feature-google-fonts.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/feature-websites.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title1": "<br><br><br><br><b><br>SUPER BOWL OF CARING 2018</b><br><br><br><br><br><br>On Sunday February 4th 2018, over <br>100 million \n<div>Americans will tune in to watch the Super Bowl. In many homes, parties with an abundance of food, friendship, and fellowship will be will be hosted. At the very same time, others in the community will struggle to put a meal on their tables. As you read out of mass on February 3rd and 4th, you will see \n</div><div>members of our parish Confirmation program holding large soup pots. Please donate as much as you can! All donations will benefit our parish Food Pantry to provide food to the needy families in our local community.                                        \n</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \n</div><div><br></div>",
-          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "<div><b>GOSPEL</b> <b>MEDITATION - ENCOURAGE</b> <b>DEEPER \n</b></div><div><b>UNDERSTANDING OF SCRIPTURE</b></div><br><br><br><div><b><br></b></div><div><b>\n</b></div><div>February 4, 2018 5th Sunday in Ordinary Time</div><div>For most of us, the dynamic between prayer and action is&nbsp;<span style=\"color: inherit;\">imperfect. Breakfast needs to be made and the kids dressed. Work demands our energy and additional responsibilities fill our evenings and weekends. Then there's the football game or a new TV series to stream. After all, don't we need to relax?</span></div><div>We're all busy. But just imagine Jesus' situation in today's Gospel. He heals Peter's mother-in-law, drives out demons, and cures diseases late into the night. With very little sleep, he arises before dawn to capture some peace and quiet, only to find \"those who were with him pursued him.\" How often do we feel pursued by the harried commitments, even when we try to seek rest? Perhaps we can learn something from the&nbsp;<span style=\"color: inherit;\">response of Jesus.</span></div><div>Jesus models two key things: the essential nature of prayer and the essential call of vocation. \"He went off to a deserted place, where he prayed.\" Despite inevitable exhaustion, Jesus \n</div><div>prioritizes time with the Father. We might not have easy access to deserts and mountaintops, but today's Gospel challenges us to take intentional time set apart for God. We can \n</div><div>designate a \"prayer chair\" in a corner of our home or leave a little earlier to pick our children up from school so we can snatch time in a nearby chapel. We can pray the rosary on our commute or take the dog for a long walk in silence.</div><div>However, when the Apostles arrive, Jesus doesn't linger \n</div><div>overlong in the deserted place or make an excuse for why he can't return with his friends. Jesus is true to his calling. He&nbsp;<span style=\"color: inherit;\">continues on in his state of life, serving the people nearest to him. Like Jesus, we are invited to set intentional time for&nbsp;</span><span style=\"color: inherit;\">communion with God so that we can be refreshed and</span></div><div>empowered for our communion with others. \n</div><div><br></div>",
-          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "title": "Drag &amp; Drop Website Builder",
+          "text": "<p>Mobirise helps you cut down development time by providing you with a flexible website editor.</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "features1",
-          "_anchor": "features1-df",
-          "_styles": {
-            "DIV": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-size": "20px"
-            },
-            "H4": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            },
-            "B": {
-              "font-size": "25px"
-            }
-          }
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-dr"
         },
         {
           "_params": {

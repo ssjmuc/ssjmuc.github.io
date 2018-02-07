@@ -1,17 +1,13 @@
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
-
-
-
 
 
 
@@ -60,21 +56,6 @@
 #content5-cb .mbr-section-title B {
   color: #ca1813;
   font-size: 80px;
-}
-#content5-dh P {
-  text-align: center;
-  font-family: 'Raleway', sans-serif;
-  font-size: 46px;
-  color: #ffffff;
-}
-#content5-dh .mbr-section-title {
-  font-family: 'Roboto Condensed', sans-serif;
-  text-align: center;
-}
-#content5-dh .mbr-section-title B {
-  color: #fff8e0;
-  font-family: 'Oswald', sans-serif;
-  font-size: 84px;
 }
 #features1-br B {
   font-family: 'Oswald', sans-serif;
@@ -2237,14 +2218,6 @@
 }
 
 
-
-
-
-
-
-
-
-
 #dropdown-menu-ci .hide-buttons [data-button] {
   display: none !important;
 }
@@ -2269,47 +2242,6 @@
 #dropdown-menu-ci .navbar-toggler {
   color: #053461;
 }
-#msg-box3-cp .mbr-header .mbr-header__text {
-  text-align: center;
-}
-#msg-box3-cp .mbr-header .mbr-header__subtext {
-  text-align: center;
-}
-#msg-box3-cp .mbr-section-title {
-  font-family: 'Oswald', sans-serif;
-}
-#msg-box3-cp .mbr-section-title DIV {
-  font-family: 'Roboto', sans-serif;
-}
-#msg-box3-cp .mbr-section-title B {
-  font-family: 'Roboto', sans-serif;
-}
-#features1-dg B {
-  font-family: 'Oswald', sans-serif;
-}
-#features1-dg DIV {
-  font-family: 'Oswald', sans-serif;
-  font-size: 32px;
-}
-#features1-dg H4 {
-  font-family: 'Oswald', sans-serif;
-  font-size: 21px;
-}
-#content4-db B {
-  font-size: 20px;
-}
-#content4-db P {
-  text-align: center;
-  font-size: 20px;
-}
-#content4-db H4 {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 20px;
-}
-#content4-db DIV {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 20px;
-}
 #contacts1-cj P {
   color: #26272c;
   text-align: center;
@@ -2324,11 +2256,6 @@
   color: #26272c;
   text-align: center;
 }
-
-
-
-
-
 
 
 #dropdown-menu-cl .hide-buttons [data-button] {
@@ -2354,33 +2281,6 @@
 }
 #dropdown-menu-cl .navbar-toggler {
   color: #053461;
-}
-#msg-box3-co .mbr-header .mbr-header__text {
-  text-align: center;
-}
-#msg-box3-co .mbr-header .mbr-header__subtext {
-  text-align: center;
-}
-#msg-box3-co .mbr-section-title DIV {
-  font-family: 'Roboto', sans-serif;
-  font-size: 46px;
-}
-#msg-box3-co .mbr-section-title {
-  font-family: 'Oswald', sans-serif;
-}
-#msg-box3-co .mbr-section-title B {
-  font-family: 'Roboto', sans-serif;
-  font-size: 46px;
-}
-#features1-df DIV {
-  font-family: 'Roboto', sans-serif;
-  font-size: 20px;
-}
-#features1-df H4 {
-  font-family: 'Roboto', sans-serif;
-}
-#features1-df B {
-  font-size: 25px;
 }
 #contacts1-cm P {
   color: #26272c;
