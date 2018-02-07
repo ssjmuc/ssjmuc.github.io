@@ -186,7 +186,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.4"
           },
-          "title": "<b>Correccíon del Boletín de esta semana:</b><b>&nbsp;</b>",
+          "title": "<b>Correccíon del Boletín de esta Semana:</b><b>&nbsp;</b>",
           "caption": "<p>El retiro de pascua sera el 17 de febrero de 2018 en la escuela Mother Seton de 9:00 a.m. a 3:00 p.m.</p>",
           "alias": "purity/components",
           "_tags": [
@@ -209,8 +209,8 @@
             },
             ".mbr-section-title B": {
               "color": "#fff8e0",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-size": "84px"
             }
           }
