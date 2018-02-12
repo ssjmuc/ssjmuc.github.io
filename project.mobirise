@@ -213,13 +213,13 @@
               "size": 0
             }
           },
-          "title": "<b>2018 ANNUAL ARCHDIOCESAN MEN'S &amp; WOMEN'S EVENTS</b><b><br></b>",
-          "text": "<p><b>COME FOR A DAY OF FAITH, SISTERHOOD AND PRAYER!&nbsp;<span style=\"font-size: 1.25rem;\">WOMENS'S COMMISSION DAY OF REFLCTION</span></b></p>",
+          "title": "<b>2018 ANNUAL ARCHDIOCESAN MEN'S &amp; WOMEN'S EVENTS</b><br><b><br></b><b><br></b>",
+          "text": "<p><b>COME FOR A DAY OF FAITH, SISTERHOOD AND PRAYER!&nbsp;<span style=\"font-size: 1.25rem;\">WOMENS'S COMMISSION DAY OF REFLCTION</span></b></p><p><b><span style=\"font-size: 1.25rem;\">SATURDAY, MARCH 3, 2018 8:00 AM - 4:00 PM,&nbsp;</span></b></p><p><b><span style=\"font-size: 1.25rem;\">COST: $25, </span></b></p><p><b><span style=\"font-size: 1.25rem;\">SETON HALL UNIVERSITY</span></b></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "meta": "ALL ARE WELCOME! BRING A FRIEND!",
+          "meta": "<b>ALL ARE WELCOME! BRING A FRIEND!</b>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-e3",
@@ -239,7 +239,9 @@
               "font-size": "46px"
             },
             ".lead P": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             }
           }
         },
