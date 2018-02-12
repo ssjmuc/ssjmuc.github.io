@@ -17,7 +17,7 @@
       ]
     },
     "versionFirst": "4.3.0",
-    "uniqCompNum": 508,
+    "uniqCompNum": 513,
     "versionPublish": "4.6.4",
     "favicon": "@PROJECT_PATH@/assets/images/untitled-1-128x111-1.png",
     "noImageResize": "",
@@ -132,7 +132,7 @@
           "_params": {
             "showTitle": true,
             "showCaption": false,
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-720x1080.jpg",
@@ -167,6 +167,118 @@
               "font-size": "80px"
             }
           }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/untitled-design-1-1200x628.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Drag &amp; Drop Website Builder",
+          "text": "<p>This year’s Appeal is perfect opportunity for us to reflect on God’s generosity and to share the blessings we have given with those around us.</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-e5"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/untitled-design-3-1200x628.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Drag &amp; Drop Website Builder",
+          "text": "<p>El llamado de este año es una oportunidad perfecta para que reflexionemos sobre la generosidad de Dios y para compartir las bendiciones que hemos recibido con quienes nos rodean.&nbsp;</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-e6"
         },
         {
           "_inherit": "msg-box5",
@@ -9964,7 +10076,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/untitled-design-2-1200x628.png",
+              "src": "@PROJECT_PATH@/assets/images/untitled-design-1-1200x628.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -9991,6 +10103,40 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-do"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.7
+          },
+          "title": "Easy to Use!",
+          "caption": "<p>This year’s Appeal is perfect opportunity for us to reflect on God’s generosity and to share the blessings we have given with those around us. </p><p>This year, our parish goal is <b>$21,522</b></p><p>\n</p><p>\n</p><p>The Annual Appeal provides the poor with food, shelter and clothing: makes religious education, spiritual guidance and CYO programs available for the young,: insures the future leadership of the Church with education and training: and most important, brings Christ’s Good News to the people of the Archdiocese. Our parish also benefits by \n</p><p>receiving a rebate from the appeal if it exceed the goal, we will use the rebate to ()\n</p><p>\n</p><p>It is important for all of us to participate. Please consider making a gift to the2018 Sharing God’s Blessing  Annual Appeal.\n</p><p><br></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-e8",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "22px"
+            }
+          }
         },
         {
           "_params": {
@@ -10192,6 +10338,42 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-dr"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showCaption": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-41-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#b8dfed",
+            "overlayOpacity": 0.7
+          },
+          "title": "Easy to Use!",
+          "caption": "<p>El llamado de este año es una oportunidad perfecta para que reflexionemos sobre la generosidad de Dios y para compartir las bendiciones que hemos recibido con quienes nos rodean. </p><p>Este año, nuestro objetivo parroquial es $21,522</p><p>El llamado Anual proporciona a&nbsp;los pobres comida, refugio y ropa; hace que la educación religiosa, la guía espiritual y los programas de&nbsp;CYO estén&nbsp;disponibles para los jóvenes; asegura el futuro liderazgo de la Iglesia con educación y entrenamiento de seminaristas; y lo más importante, llevar las Buenas Nuevas de Cristo a la gente de la Arquidiócesis. Nuestra parroquia también se beneficia al recibir un&nbsp;reembolso&nbsp;de la apelación si supera su objetivo. Si excedemos el objetivo, utilizaremos el reembolso para\n</p><p><b>Es importante que todos participemos. Por favor, considere&nbsp;haber&nbsp;un&nbsp;regalo&nbsp;a&nbsp;El Lamado Annual Compartiendo&nbsp;las Bendiciones de Dios.\n</b></p><p><br></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-e7",
+          "_styles": {
+            "P": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "23px",
+              "text-align": "center"
+            }
+          }
         },
         {
           "_params": {

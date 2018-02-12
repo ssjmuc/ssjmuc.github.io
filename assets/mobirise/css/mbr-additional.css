@@ -2261,6 +2261,10 @@
 #dropdown-menu-ci .navbar-toggler {
   color: #053461;
 }
+#content5-e8 P {
+  text-align: center;
+  font-size: 22px;
+}
 #contacts1-cj P {
   color: #26272c;
   text-align: center;
@@ -2275,6 +2279,7 @@
   color: #26272c;
   text-align: center;
 }
+
 
 
 #dropdown-menu-cl .hide-buttons [data-button] {
@@ -2300,6 +2305,11 @@
 }
 #dropdown-menu-cl .navbar-toggler {
   color: #053461;
+}
+#content5-e7 P {
+  font-family: 'Lato', sans-serif;
+  font-size: 23px;
+  text-align: center;
 }
 #contacts1-cm P {
   color: #26272c;
