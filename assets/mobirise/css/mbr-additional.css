@@ -24,6 +24,8 @@
 
 
 
+
+
 #dropdown-menu-0 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -56,6 +58,21 @@
 #content5-cb .mbr-section-title B {
   color: #ca1813;
   font-size: 80px;
+}
+#msg-box4-e3 .mbr-section-title {
+  font-family: 'Oswald', sans-serif;
+  font-size: 48px;
+}
+#msg-box4-e3 small {
+  font-size: 21px;
+  font-family: 'Lato', sans-serif;
+}
+#msg-box4-e3 .mbr-section-title B {
+  color: #890602;
+  font-size: 46px;
+}
+#msg-box4-e3 .lead P {
+  font-size: 20px;
 }
 #features1-br B {
   font-family: 'Oswald', sans-serif;
