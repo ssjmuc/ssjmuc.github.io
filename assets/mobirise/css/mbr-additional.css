@@ -8,6 +8,7 @@
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
 
 
 
@@ -2322,6 +2323,51 @@
   color: #f1c050;
 }
 #footer1-cn P {
+  color: #26272c;
+  text-align: center;
+}
+
+
+
+#dropdown-menu-e9 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-e9 .navbar-brand a {
+  font-family: 'Slabo 27px', serif;
+}
+#dropdown-menu-e9 .nav .link,
+#dropdown-menu-e9 .dropdown-item {
+  font-size: 1em;
+  color: #053461;
+  font-family: 'Oxygen', sans-serif;
+}
+#dropdown-menu-e9 .navbar,
+#dropdown-menu-e9 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-e9 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-e9 .dropdown-menu a:hover,
+#dropdown-menu-e9 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-e9 .navbar-toggler {
+  color: #053461;
+}
+#content5-ee .mbr-section-title {
+  text-align: center;
+  font-family: 'Noto Sans', sans-serif;
+}
+#contacts1-ea P {
+  color: #26272c;
+  text-align: center;
+}
+#contacts1-ea STRONG {
+  color: #7e0202;
+}
+#contacts1-ea UL {
+  color: #f1c050;
+}
+#footer1-eb P {
   color: #26272c;
   text-align: center;
 }
