@@ -173,8 +173,8 @@
           "_params": {
             "showTitle": true,
             "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-1440x1080.jpg",
             "parallax": true,
@@ -216,8 +216,8 @@
           "_params": {
             "showTitle": true,
             "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-1440x1080.jpg",
             "parallax": true,
@@ -231,8 +231,8 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.4"
           },
-          "title": "<b>Caminando Hacia la Pascua</b>",
-          "caption": "<p>Para información sobre las jornadas “Caminando Hacia la Pascua” durante los meses de febrero y marzo, por favor revise el boletín de esta semana.</p>",
+          "title": "<font color=\"#ffffff\"><b>Las Estaciones de la Cruz</b></font>",
+          "caption": "<p>Durante la Cuaresma se llevarán a cabo todos los viernes hasta el 23 de marzo en la Capilla del Sagrado Corazón. La Estación de la Cruz en inglés comienza a las 6:20 pm antes de la Misa de las 7:00 p.m. Después de la Misa, tendremos las Estaciones de la Cruz en español. La confesión tendrá lugar durante las Estaciones de la Cruz. Para obtener más información</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
