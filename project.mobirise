@@ -17,7 +17,7 @@
       ]
     },
     "versionFirst": "4.3.0",
-    "uniqCompNum": 524,
+    "uniqCompNum": 527,
     "versionPublish": "4.6.4",
     "favicon": "@PROJECT_PATH@/assets/images/untitled-1-128x111-1.png",
     "noImageResize": "",
@@ -701,7 +701,7 @@
             "Theme"
           ],
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"assets/files/Bulletin%202.4.18.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK TO VIEW</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"assets/files/Bulletin%203.4.18.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK TO VIEW</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-d3"
         },
