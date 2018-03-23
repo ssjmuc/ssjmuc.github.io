@@ -175,7 +175,7 @@
             }
           },
           "title": "<b>HOLY WEEK SCHEDULE</b>",
-          "text": "\n<div><b>HORARIO DE SEMANA SANTA</b></div>",
+          "text": "\n<div><b>HORARIO &nbsp;DE&nbsp;</b><b>SEMANA SANTA</b></div>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -195,9 +195,9 @@
             },
             ".lead DIV": {
               "font-size": "30px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "color": "#ca1813"
+              "font-family": "'Playfair Display', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic",
+              "color": "#26272c"
             }
           }
         },
