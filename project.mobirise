@@ -18,7 +18,7 @@
     },
     "versionFirst": "4.3.0",
     "uniqCompNum": 527,
-    "versionPublish": "4.6.4",
+    "versionPublish": "4.6.6",
     "favicon": "@PROJECT_PATH@/assets/images/untitled-1-128x111-1.png",
     "noImageResize": "",
     "cookiesAlert": "",
@@ -407,83 +407,6 @@
           "_anchor": "msg-box4-e6"
         },
         {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": "70",
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/untitled-design-4-1190x1683.png",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "<b>2018 ANNUAL ARCHDIOCESAN MEN'S &amp; WOMEN'S EVENTS</b><br><b><br></b><b><br></b>",
-          "text": "<p><b>COME FOR A DAY OF FAITH, SISTERHOOD AND PRAYER!&nbsp;<span style=\"font-size: 1.25rem;\">WOMENS'S COMMISSION DAY OF REFLCTION</span></b></p><p><b><span style=\"font-size: 1.25rem;\">SATURDAY, MARCH 3, 2018 8:00 AM - 4:00 PM,&nbsp;</span></b></p><p><b><span style=\"font-size: 1.25rem;\">COST: $25, </span></b></p><p><b><span style=\"font-size: 1.25rem;\">SETON HALL UNIVERSITY</span></b></p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "meta": "<b>ALL ARE WELCOME! BRING A FRIEND!</b>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"page32.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-e3",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "48px"
-            },
-            "small": {
-              "font-size": "21px",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
-            },
-            ".mbr-section-title B": {
-              "color": "#890602",
-              "font-size": "46px"
-            },
-            ".lead P": {
-              "font-size": "20px",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
-            }
-          }
-        },
-        {
           "_params": {
             "showImages": true,
             "showTitles": false,
@@ -701,7 +624,7 @@
             "Theme"
           ],
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"assets/files/Bulletin%203.4.18.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK TO VIEW</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"assets/files/Bulletin%203.25.18%5B3973%5D.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK TO VIEW</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-d3"
         },

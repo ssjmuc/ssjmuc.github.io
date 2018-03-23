@@ -27,9 +27,6 @@
 
 
 
-
-
-
 #dropdown-menu-0 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -69,22 +66,6 @@
 #msg-box4-ej .mbr-section-title {
   text-align: center;
   font-family: 'Oswald', sans-serif;
-}
-#msg-box4-e3 .mbr-section-title {
-  font-family: 'Oswald', sans-serif;
-  font-size: 48px;
-}
-#msg-box4-e3 small {
-  font-size: 21px;
-  font-family: 'Lato', sans-serif;
-}
-#msg-box4-e3 .mbr-section-title B {
-  color: #890602;
-  font-size: 46px;
-}
-#msg-box4-e3 .lead P {
-  font-size: 20px;
-  font-family: 'Lato', sans-serif;
 }
 #features1-br B {
   font-family: 'Oswald', sans-serif;
