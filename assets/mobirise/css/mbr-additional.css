@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
@@ -51,6 +51,18 @@
 #dropdown-menu-0 .navbar-toggler {
   color: #053461;
 }
+#msg-box4-en .mbr-section-title {
+  text-align: right;
+}
+#msg-box4-en .mbr-section-title B {
+  font-family: 'Oswald', sans-serif;
+  color: #ca1813;
+}
+#msg-box4-en .lead DIV {
+  font-size: 30px;
+  font-family: 'Oswald', sans-serif;
+  color: #ca1813;
+}
 #content5-cb .mbr-section-title {
   text-align: center;
   font-family: 'Open Sans', sans-serif;
@@ -59,13 +71,6 @@
 #content5-cb .mbr-section-title B {
   color: #890602;
   font-size: 80px;
-}
-#msg-box4-ei .mbr-section-title {
-  font-family: 'Oswald', sans-serif;
-}
-#msg-box4-ej .mbr-section-title {
-  text-align: center;
-  font-family: 'Oswald', sans-serif;
 }
 #features1-br B {
   font-family: 'Oswald', sans-serif;
