@@ -73,6 +73,15 @@
   color: #890602;
   font-size: 80px;
 }
+#features1-eo P {
+  text-align: center;
+}
+#features1-eo B {
+  font-size: 20px;
+}
+#features1-eo H4 {
+  font-size: 36px;
+}
 #features1-br B {
   font-family: 'Oswald', sans-serif;
   font-size: 30px;
