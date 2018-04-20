@@ -24,7 +24,8 @@
     "cookiesAlert": "",
     "google-analytics": "Coming together as a community, and as a family, to worship is a visible sign of unity and fraternal love, sharing “One Lord, One Baptism, and One Faith.",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "siteUrl": "undefined"
   },
   "pages": {
     "Home.html": {
